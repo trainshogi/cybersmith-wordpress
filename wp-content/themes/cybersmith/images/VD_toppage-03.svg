@@ -1,0 +1,96 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1366 565">
+  <defs>
+    <style>
+      .aa2af393-87fb-4e78-8637-fec182c22bc7 {
+        fill: none;
+      }
+
+      .b76c4b08-c022-4bd4-8b3d-cd1bec19189e {
+        fill: #002e4e;
+      }
+
+      .bb045a9e-fc99-457e-9bb8-62137e976343 {
+        opacity: 0.2;
+      }
+
+      .a7a88344-0e40-4554-a1cb-687ff90dc5b5 {
+        font-size: 36px;
+        font-family: FutoGoB101Pr6N-Bold, FutoGoB101Pr6N Bold-83pv-RKSJ-H;
+        font-weight: 700;
+        letter-spacing: 0.2em;
+      }
+
+      .a7a88344-0e40-4554-a1cb-687ff90dc5b5, .fce0e727-7de7-42b9-91e4-899d365787ea {
+        fill: #fff;
+      }
+
+      .fce0e727-7de7-42b9-91e4-899d365787ea {
+        font-size: 26px;
+        font-family: KozGoPr6N-Bold-83pv-RKSJ-H, Kozuka Gothic Pr6N;
+      }
+
+      .f5b15f0b-4716-4a35-bbf8-3d72e016bee2 {
+        clip-path: url(#a4a6410b-5b23-4565-898a-8c66cec2f1ca);
+      }
+
+      .b29c446c-6712-443b-9748-bec6b845e3ce {
+        fill: #82cbd1;
+        opacity: 0.79;
+      }
+
+      .a19f7878-a311-48a9-9986-2cdd3b559017, .f6c4b1a9-9ecd-48db-b29f-39efe0aec9cf {
+        fill: #3f3f3f;
+      }
+
+      .f6c4b1a9-9ecd-48db-b29f-39efe0aec9cf {
+        font-size: 21px;
+        font-family: HiraginoSans-W6-83pv-RKSJ-H, Hiragino Sans;
+      }
+
+      .b7ec90ad-d00f-46f7-8205-aa37f8321245 {
+        clip-path: url(#bc6e6811-98ca-41a2-86f2-06dee5037acb);
+      }
+    </style>
+    <clipPath id="a4a6410b-5b23-4565-898a-8c66cec2f1ca">
+      <rect class="aa2af393-87fb-4e78-8637-fec182c22bc7" x="258" y="285" width="400" height="200"/>
+    </clipPath>
+    <clipPath id="bc6e6811-98ca-41a2-86f2-06dee5037acb">
+      <rect class="aa2af393-87fb-4e78-8637-fec182c22bc7" x="712" y="285" width="400" height="200"/>
+    </clipPath>
+  </defs>
+  <g id="e4c9972c-5e49-47aa-b5ff-f06b765f6884" data-name="レイヤー 2のコピー 3">
+    <rect class="b76c4b08-c022-4bd4-8b3d-cd1bec19189e" x="-22" width="1427" height="726"/>
+    <g class="bb045a9e-fc99-457e-9bb8-62137e976343">
+      <path d="M658,285V485H258V285H658m10-10H248V495H668V275Z"/>
+    </g>
+    <text class="a7a88344-0e40-4554-a1cb-687ff90dc5b5" transform="translate(430.24 211.48)">幸福が循環する社会を創る</text>
+    <text class="fce0e727-7de7-42b9-91e4-899d365787ea" transform="translate(592.58 129.15)">サイバースミス</text>
+    <g class="f5b15f0b-4716-4a35-bbf8-3d72e016bee2">
+      <image width="6000" height="4000" transform="translate(172.5 208) scale(0.09)" xlink:href="../../../../../../Documents/%E5%88%B6%E4%BD%9C%E5%85%B1%E6%9C%89/design_data/IMG/5%85%B1%E6%9C%89/design_data/IMG/pixta_66330729_XL.jpg"/>
+    </g>
+    <rect class="b29c446c-6712-443b-9748-bec6b845e3ce" x="258" y="285" width="400" height="200"/>
+    <g>
+      <path class="a19f7878-a311-48a9-9986-2cdd3b559017" d="M307.58,368.59a3.19,3.19,0,1,0,3.18,3.18A3.18,3.18,0,0,0,307.58,368.59Z"/>
+      <circle class="a19f7878-a311-48a9-9986-2cdd3b559017" cx="316.59" cy="380.79" r="3.18"/>
+      <path class="a19f7878-a311-48a9-9986-2cdd3b559017" d="M307.58,404.65a3.18,3.18,0,1,0,3.18,3.18A3.18,3.18,0,0,0,307.58,404.65Z"/>
+      <circle class="a19f7878-a311-48a9-9986-2cdd3b559017" cx="316.59" cy="398.82" r="3.18"/>
+      <path class="a19f7878-a311-48a9-9986-2cdd3b559017" d="M325.61,386.62a3.19,3.19,0,1,0,3.18,3.18A3.19,3.19,0,0,0,325.61,386.62Z"/>
+    </g>
+    <text class="f6c4b1a9-9ecd-48db-b29f-39efe0aec9cf" transform="translate(377.59 394.87)">企業様へ</text>
+    <g class="bb045a9e-fc99-457e-9bb8-62137e976343">
+      <path d="M1112,285V485H712V285h400m10-10H702V495h420V275Z"/>
+    </g>
+    <g class="b7ec90ad-d00f-46f7-8205-aa37f8321245">
+      <image width="6000" height="4000" transform="translate(700 ../../../../../../Documents/%E5%88%B6%E4%BD%9C%E5%85%B1%E6%9C%89/design_data/IMG/../Documents/%E5%88%B6%E4%BD%9C%E5%85%B1%E6%9C%89/design_data/IMG/pixta_63366991_XL.jpg"/>
+    </g>
+    <rect class="b29c446c-6712-443b-9748-bec6b845e3ce" x="712" y="285" width="400" height="200"/>
+    <g>
+      <path class="a19f7878-a311-48a9-9986-2cdd3b559017" d="M761.58,368.59a3.19,3.19,0,1,0,3.18,3.18A3.18,3.18,0,0,0,761.58,368.59Z"/>
+      <circle class="a19f7878-a311-48a9-9986-2cdd3b559017" cx="770.59" cy="380.79" r="3.18"/>
+      <path class="a19f7878-a311-48a9-9986-2cdd3b559017" d="M761.58,404.65a3.18,3.18,0,1,0,3.18,3.18A3.18,3.18,0,0,0,761.58,404.65Z"/>
+      <circle class="a19f7878-a311-48a9-9986-2cdd3b559017" cx="770.59" cy="398.82" r="3.18"/>
+      <path class="a19f7878-a311-48a9-9986-2cdd3b559017" d="M779.61,386.62a3.19,3.19,0,1,0,3.18,3.18A3.19,3.19,0,0,0,779.61,386.62Z"/>
+    </g>
+    <text class="f6c4b1a9-9ecd-48db-b29f-39efe0aec9cf" transform="translate(817.59 397.87)">お仕事を探している方へ</text>
+  </g>
+</svg>

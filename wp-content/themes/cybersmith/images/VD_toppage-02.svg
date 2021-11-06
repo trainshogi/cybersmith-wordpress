@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1366 149">
+  <defs>
+    <style>
+      .ec4d7a5a-a2ce-45d8-9967-b02573785934 {
+        fill: #002e4e;
+      }
+
+      .af1620cf-160a-4585-af54-c2831620483f {
+        fill: #d54335;
+      }
+
+      .bac4c4cb-06bf-42b4-bf5f-e9d2f0ff1bc8 {
+        font-size: 18px;
+        font-family: HiraKakuProN-W3-83pv-RKSJ-H, Hiragino Kaku Gothic ProN;
+        letter-spacing: 0.1em;
+      }
+
+      .aad251a2-6621-4a43-b579-67c594f38ec6, .bac4c4cb-06bf-42b4-bf5f-e9d2f0ff1bc8 {
+        fill: #fff;
+      }
+
+      .aad251a2-6621-4a43-b579-67c594f38ec6 {
+        font-size: 10px;
+        font-family: Verdana;
+        letter-spacing: 0.2em;
+      }
+    </style>
+  </defs>
+  <g id="afe4b0d7-fd4f-4383-a832-deb7ff2a2f28" data-name="レイヤー 2のコピー 3">
+    <rect class="ec4d7a5a-a2ce-45d8-9967-b02573785934" x="-22" y="-565" width="1427" height="726"/>
+    <rect class="af1620cf-160a-4585-af54-c2831620483f" x="-22" width="1427" height="161"/>
+    <text class="bac4c4cb-06bf-42b4-bf5f-e9d2f0ff1bc8" transform="translate(511.42 74.11)">運営会社 / ご利用規約 / よくある質問</text>
+    <text class="aad251a2-6621-4a43-b579-67c594f38ec6" transform="translate(531.82 107.92)">Copyright © Cybersmith All rights reserved.</text>
+  </g>
+</svg>
