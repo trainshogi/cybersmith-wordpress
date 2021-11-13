@@ -1,0 +1,162 @@
+<svg id="b549518e-88c6-4de2-8d88-657bb857e28e" data-name="レイヤー 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1366 385">
+  <defs>
+    <style>
+      .b1ca3f91-25d7-400a-8065-88d5348e3921 {
+        fill: #e3e3e3;
+      }
+
+      .a6e2bbc1-8d5b-4176-b135-b54c45a16aa2, .fceb39fe-f455-48c1-ae26-69e1eac368e1 {
+        font-size: 14px;
+      }
+
+      .a6e2bbc1-8d5b-4176-b135-b54c45a16aa2, .be36d65c-b515-49c7-9ec6-204f32a8d64c, .e848ae81-80ed-4953-8ea7-69c521c26f7f, .eacab474-5f8b-402d-9782-46a197893aa0, .f940fc5f-791a-4ae6-8c0d-fbeb47b8a171, .fceb39fe-f455-48c1-ae26-69e1eac368e1 {
+        font-family: HiraKakuProN-W3-83pv-RKSJ-H, Hiragino Kaku Gothic ProN;
+      }
+
+      .a6e2bbc1-8d5b-4176-b135-b54c45a16aa2 {
+        letter-spacing: 0.1em;
+      }
+
+      .ec124300-465c-46ba-a452-0f31b7d90047, .f3d35fe0-1bd6-4db3-860e-143fbf1975d6 {
+        fill: none;
+        stroke-miterlimit: 10;
+      }
+
+      .f3d35fe0-1bd6-4db3-860e-143fbf1975d6 {
+        stroke: #cbcbcb;
+        stroke-width: 0.83px;
+      }
+
+      .a860c97e-c631-4c90-bcfb-355fbb97dcc5, .be36d65c-b515-49c7-9ec6-204f32a8d64c {
+        font-size: 18px;
+        letter-spacing: 0.1em;
+      }
+
+      .a0c62260-04fe-49d1-9d9a-a74d603af4fe {
+        letter-spacing: 0.35em;
+      }
+
+      .ae442f53-3f2e-46d5-811c-04310c288ec3, .f940fc5f-791a-4ae6-8c0d-fbeb47b8a171 {
+        font-size: 16px;
+      }
+
+      .f940fc5f-791a-4ae6-8c0d-fbeb47b8a171 {
+        letter-spacing: 0.1em;
+      }
+
+      .b6c3a4b3-4810-46a4-93b0-c86c492ca862 {
+        letter-spacing: 0.35em;
+      }
+
+      .a860c97e-c631-4c90-bcfb-355fbb97dcc5, .aec11054-d362-4dc8-8bfe-f05d5c3190a5 {
+        fill: #be272d;
+      }
+
+      .a860c97e-c631-4c90-bcfb-355fbb97dcc5, .ae442f53-3f2e-46d5-811c-04310c288ec3 {
+        font-family: HiraginoSans-W6-83pv-RKSJ-H, Hiragino Sans;
+      }
+
+      .ae8f8e8f-e904-4caf-bbf3-8303c945d7ee {
+        letter-spacing: 0.35em;
+      }
+
+      .ea485cb6-8d32-4530-8446-616991d1599f, .eacab474-5f8b-402d-9782-46a197893aa0 {
+        font-size: 10px;
+      }
+
+      .a1def957-9532-420b-95c5-d44c4e115b9b, .ea485cb6-8d32-4530-8446-616991d1599f {
+        fill: #fff;
+      }
+
+      .ea485cb6-8d32-4530-8446-616991d1599f {
+        font-family: Verdana-Bold, Verdana;
+        font-weight: 700;
+      }
+
+      .ea485cb6-8d32-4530-8446-616991d1599f, .ed640211-b1f6-4f46-a4ee-9e7f47c2e953 {
+        letter-spacing: 0.1em;
+      }
+
+      .eacab474-5f8b-402d-9782-46a197893aa0 {
+        letter-spacing: 0.35em;
+      }
+
+      .fceb39fe-f455-48c1-ae26-69e1eac368e1 {
+        letter-spacing: 0.1em;
+      }
+
+      .acd3e9dc-3186-4db8-924d-3fa99b3f9aa6 {
+        letter-spacing: -0.4em;
+      }
+
+      .a6cec1d2-a519-448d-9549-3ada45fda2a8 {
+        letter-spacing: 0.35em;
+      }
+
+      .b6655a9f-cfff-484b-b262-36843a6dba35 {
+        letter-spacing: -0.4em;
+      }
+
+      .b44ffc31-53a5-413b-a51e-47e572207391 {
+        letter-spacing: 0.35em;
+      }
+
+      .ec124300-465c-46ba-a452-0f31b7d90047 {
+        stroke: #83ccd2;
+        stroke-width: 5px;
+      }
+
+      .a29c9b0d-03f7-479b-97c1-386e849ebe8b {
+        fill: #83ccd2;
+      }
+
+      .ae442f53-3f2e-46d5-811c-04310c288ec3 {
+        fill: #546363;
+        letter-spacing: 0.3em;
+      }
+
+      .e848ae81-80ed-4953-8ea7-69c521c26f7f {
+        font-size: 12px;
+        fill: #969696;
+        letter-spacing: 0.1em;
+      }
+
+      .b0f0ea61-a69b-4d62-a88a-f96b08a5282f {
+        letter-spacing: 0.35em;
+      }
+
+      .f8fc1236-5d41-44f3-b3f1-e7f4513f8038 {
+        letter-spacing: 0.1em;
+      }
+    </style>
+  </defs>
+  <rect class="b1ca3f91-25d7-400a-8065-88d5348e3921" x="222" y="90" width="101" height="46" rx="5"/>
+  <text class="a6e2bbc1-8d5b-4176-b135-b54c45a16aa2" transform="translate(339.05 120.11)">製造業</text>
+  <rect class="f3d35fe0-1bd6-4db3-860e-143fbf1975d6" x="183" y="15.5" width="1000" height="345" rx="6.17"/>
+  <text class="be36d65c-b515-49c7-9ec6-204f32a8d64c" transform="translate(277.9 68.9)">SAP(BASIS<tspan class="a0c62260-04fe-49d1-9d9a-a74d603af4fe" x="114.95" y="0">)</tspan><tspan x="127.66" y="0">システム構築支援</tspan></text>
+  <text class="f940fc5f-791a-4ae6-8c0d-fbeb47b8a171" transform="translate(229.61 120.44)">業種</text>
+  <rect class="b1ca3f91-25d7-400a-8065-88d5348e3921" x="573" y="90" width="101" height="46" rx="5"/>
+  <text class="f940fc5f-791a-4ae6-8c0d-fbeb47b8a171" transform="translate(580.61 120.44)">スキル</text>
+  <rect class="b1ca3f91-25d7-400a-8065-88d5348e3921" x="222" y="197" width="101" height="46" rx="5"/>
+  <text class="a6e2bbc1-8d5b-4176-b135-b54c45a16aa2" transform="translate(339.05 227.11)">2021/1<tspan class="b6c3a4b3-4810-46a4-93b0-c86c492ca862" x="61.02" y="0">0～</tspan><tspan x="94.02" y="0">2022/12/31</tspan></text>
+  <text class="f940fc5f-791a-4ae6-8c0d-fbeb47b8a171" transform="translate(229.61 227.44)">期間</text>
+  <rect class="b1ca3f91-25d7-400a-8065-88d5348e3921" x="222" y="144" width="101" height="46" rx="5"/>
+  <text class="a860c97e-c631-4c90-bcfb-355fbb97dcc5" transform="translate(339.05 174.11)">10<tspan class="a0c62260-04fe-49d1-9d9a-a74d603af4fe" x="29.23" y="0">0～</tspan><tspan x="72.65" y="0">12</tspan><tspan class="ae8f8e8f-e904-4caf-bbf3-8303c945d7ee" x="101.88" y="0">0</tspan><tspan x="121" y="0">万円</tspan></text>
+  <text class="f940fc5f-791a-4ae6-8c0d-fbeb47b8a171" transform="translate(229.61 174.44)">報酬</text>
+  <rect class="aec11054-d362-4dc8-8bfe-f05d5c3190a5" x="220" y="47" width="45" height="30" rx="5.15"/>
+  <text class="ea485cb6-8d32-4530-8446-616991d1599f" transform="translate(227.56 67.1)">NEW</text>
+  <text class="eacab474-5f8b-402d-9782-46a197893aa0" transform="translate(501.67 174.05)">(<tspan class="ed640211-b1f6-4f46-a4ee-9e7f47c2e953" x="7.06" y="0">税</tspan><tspan x="18.06" y="0">別</tspan><tspan class="ed640211-b1f6-4f46-a4ee-9e7f47c2e953" x="31.56" y="0">)</tspan></text>
+  <text class="fceb39fe-f455-48c1-ae26-69e1eac368e1" transform="translate(681.11 106.03)">【必須スキル<tspan class="acd3e9dc-3186-4db8-924d-3fa99b3f9aa6" x="92.4" y="0">】</tspan><tspan x="3.5" y="24.5">・SA</tspan><tspan class="a6cec1d2-a519-448d-9549-3ada45fda2a8" x="41.57" y="24.5">P</tspan><tspan x="55.73" y="24.5">システム構築（S/4HANA,BW/4HANA,HAN</tspan><tspan class="a6cec1d2-a519-448d-9549-3ada45fda2a8" x="381.13" y="24.5">A</tspan><tspan x="396.53" y="24.5">インストー</tspan><tspan x="7" y="49">ル・システムコピー作業</tspan><tspan class="acd3e9dc-3186-4db8-924d-3fa99b3f9aa6" x="176.4" y="49">）</tspan><tspan x="3.5" y="73.5">・アプリ開発支援（ユーザ作成、移送適用、クライアント管理等</tspan><tspan class="b6655a9f-cfff-484b-b262-36843a6dba35" x="450.1" y="73.5">）</tspan><tspan x="0" y="98">【尚可</tspan><tspan class="acd3e9dc-3186-4db8-924d-3fa99b3f9aa6" x="46.2" y="98">】</tspan><tspan x="3.5" y="122.5">・英語スキ</tspan><tspan class="b44ffc31-53a5-413b-a51e-47e572207391" x="80.5" y="122.5">ル(</tspan><tspan x="109.28" y="122.5">読</tspan><tspan class="a6cec1d2-a519-448d-9549-3ada45fda2a8" x="124.68" y="122.5">解</tspan><tspan x="143.58" y="122.5">)...</tspan></text>
+  <g>
+    <rect class="ec124300-465c-46ba-a452-0f31b7d90047" x="492.29" y="273.51" width="400" height="60" rx="30"/>
+    <g>
+      <circle class="a29c9b0d-03f7-479b-97c1-386e849ebe8b" cx="854.7" cy="305.92" r="13.51"/>
+      <g>
+        <path class="a1def957-9532-420b-95c5-d44c4e115b9b" d="M856,306.14l0-.05v0s0,0,0-.06h0a.38.38,0,0,0,0-.15h0s0,0,0-.06v0l0-.05-.05-.06-5.41-5.42a.39.39,0,0,0-.55,0l-1,1a.43.43,0,0,0-.11.28.39.39,0,0,0,.11.27l4.11,4.11L848.9,310a.41.41,0,0,0,0,.56l1,1a.39.39,0,0,0,.27.11.43.43,0,0,0,.28-.11l5.41-5.42Z"/>
+        <path class="a1def957-9532-420b-95c5-d44c4e115b9b" d="M862,306.09v0s0,0,0-.06h0a.38.38,0,0,0,0-.15h0s0,0,0-.06v0l0-.05,0-.06-5.42-5.42a.39.39,0,0,0-.55,0l-1,1a.39.39,0,0,0-.12.28.36.36,0,0,0,.12.27l4.11,4.11L854.88,310a.39.39,0,0,0,0,.56l1,1a.39.39,0,0,0,.27.11.43.43,0,0,0,.28-.11l5.42-5.42,0-.06Z"/>
+      </g>
+    </g>
+    <text class="ae442f53-3f2e-46d5-811c-04310c288ec3" transform="translate(550.2 311.78)">案件の詳細をみる・応募する</text>
+  </g>
+  <text class="e848ae81-80ed-4953-8ea7-69c521c26f7f" transform="translate(939.05 69.11)">案<tspan class="b0f0ea61-a69b-4d62-a88a-f96b08a5282f" x="13.2" y="0">件</tspan><tspan x="29.4" y="0">#1305 公開</tspan><tspan class="ae8f8e8f-e904-4caf-bbf3-8303c945d7ee" x="106.42" y="0">日</tspan><tspan class="f8fc1236-5d41-44f3-b3f1-e7f4513f8038" x="122.62" y="0">: 2021/09/11</tspan></text>
+</svg>

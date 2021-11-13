@@ -1,0 +1,32 @@
+<svg id="e57266aa-48a7-4a2b-8cdb-741969536765" data-name="レイヤー 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1366 56">
+  <defs>
+    <style>
+      .add27a48-8b12-459d-8a85-78e4d6fe5423, .e5973c3e-11f4-4295-be82-8c574cd23629 {
+        fill: none;
+        stroke-miterlimit: 10;
+      }
+
+      .add27a48-8b12-459d-8a85-78e4d6fe5423 {
+        stroke: #db4335;
+      }
+
+      .a9cfbafe-2e92-4727-9347-58ad40d060aa {
+        font-size: 14px;
+        font-family: HiraKakuProN-W3-83pv-RKSJ-H, Hiragino Kaku Gothic ProN;
+        letter-spacing: 0.1em;
+      }
+
+      .e5973c3e-11f4-4295-be82-8c574cd23629 {
+        stroke: #83ccd2;
+      }
+    </style>
+  </defs>
+  <line class="add27a48-8b12-459d-8a85-78e4d6fe5423" x1="868" y1="55.5" x2="912.5" y2="55.5"/>
+  <line class="add27a48-8b12-459d-8a85-78e4d6fe5423" x1="973.5" y1="55.5" x2="1030.5" y2="55.5"/>
+  <line class="add27a48-8b12-459d-8a85-78e4d6fe5423" x1="1088" y1="55.5" x2="1177" y2="55.5"/>
+  <text class="a9cfbafe-2e92-4727-9347-58ad40d060aa" transform="translate(867.99 50.25)">新着順</text>
+  <text class="a9cfbafe-2e92-4727-9347-58ad40d060aa" transform="translate(970.99 50.25)">いいね順</text>
+  <text class="a9cfbafe-2e92-4727-9347-58ad40d060aa" transform="translate(1085.99 50.25)">アクセス数順</text>
+  <line class="e5973c3e-11f4-4295-be82-8c574cd23629" x1="1065.13" y1="38.11" x2="1049.13" y2="54.11"/>
+  <line class="e5973c3e-11f4-4295-be82-8c574cd23629" x1="951.13" y1="38.11" x2="935.13" y2="54.11"/>
+</svg>

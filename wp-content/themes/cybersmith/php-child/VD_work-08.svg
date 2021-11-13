@@ -1,0 +1,32 @@
+<svg id="f27c3722-1a34-4531-be1c-76348f6d633a" data-name="レイヤー 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1366 99">
+  <defs>
+    <style>
+      .aed49b4e-af48-4dc7-84bd-484f775e4c71, .e44a600f-e387-49ee-8aa7-13324b926292 {
+        font-size: 14px;
+        letter-spacing: 0.1em;
+      }
+
+      .aed49b4e-af48-4dc7-84bd-484f775e4c71 {
+        font-family: HiraKakuProN-W3-83pv-RKSJ-H, Hiragino Kaku Gothic ProN;
+      }
+
+      .e44a600f-e387-49ee-8aa7-13324b926292 {
+        font-family: HiraKakuProN-W6-83pv-RKSJ-H, Hiragino Kaku Gothic ProN;
+      }
+
+      .b6bcd97a-b646-4be7-b35c-2e4188d74217 {
+        fill: #db4335;
+      }
+
+      .aa84622e-c4f8-4b25-8e75-bb0874369ff0 {
+        fill: none;
+        stroke: #db4335;
+        stroke-miterlimit: 10;
+      }
+    </style>
+  </defs>
+  <text class="aed49b4e-af48-4dc7-84bd-484f775e4c71" transform="translate(1000.54 59.41)">トップページ</text>
+  <text class="e44a600f-e387-49ee-8aa7-13324b926292" transform="translate(1133.54 58.41)">案件情報一覧</text>
+  <path class="b6bcd97a-b646-4be7-b35c-2e4188d74217" d="M1118.9,53.25l-1-1h0l-4.17-4.16a.36.36,0,0,0-.52,0l-1,1a.36.36,0,0,0,0,.52l2.74,2.75h-9a.29.29,0,0,0-.3.3v1.71a.3.3,0,0,0,.3.31h9l-2.74,2.74a.36.36,0,0,0,0,.52l1,1a.34.34,0,0,0,.26.11.33.33,0,0,0,.26-.11l4.17-4.16h0l1-1A.39.39,0,0,0,1118.9,53.25Z"/>
+  <line class="aa84622e-c4f8-4b25-8e75-bb0874369ff0" x1="1004" y1="64.5" x2="1091" y2="64.5"/>
+</svg>

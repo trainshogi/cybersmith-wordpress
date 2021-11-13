@@ -1,0 +1,71 @@
+<svg id="a912e0c1-3178-476a-ac7d-cd62366aa645" data-name="レイヤー 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1366 166">
+  <defs>
+    <style>
+      .e2bc6129-c53e-444b-9ead-9c2073f242aa, .ef72b223-e030-4ba0-b556-a9b24ad8a9d9 {
+        fill: none;
+      }
+
+      .ae015d2d-dd04-4e72-a90f-a91650a21388 {
+        clip-path: url(#b13ee16e-4bb7-4cc9-94a5-95b74addbcd6);
+      }
+
+      .ac8dffe1-3860-45c4-8c18-ce3631c82ed3 {
+        fill: #fff;
+      }
+
+      .b3ace0a5-0036-448f-9bdc-c3d57d9c7796 {
+        font-size: 42px;
+        font-family: FutoGoB101Pr6N-Bold, FutoGoB101Pr6N Bold-83pv-RKSJ-H;
+        font-weight: 700;
+        letter-spacing: 0.2em;
+      }
+
+      .a50186d9-bb53-4016-b155-1b7914e7ea2d, .b5029fb4-9f5b-4aba-ab08-0a7c7586def7, .f8b46b6d-7cd5-4b66-9413-cd4282332b33 {
+        font-size: 14px;
+      }
+
+      .a50186d9-bb53-4016-b155-1b7914e7ea2d {
+        letter-spacing: 0.3em;
+      }
+
+      .f6b81954-9eb5-496b-8528-d48521367534 {
+        fill: #83ccd2;
+      }
+
+      .b5029fb4-9f5b-4aba-ab08-0a7c7586def7 {
+        font-family: HiraKakuProN-W3-83pv-RKSJ-H, Hiragino Kaku Gothic ProN;
+      }
+
+      .b5029fb4-9f5b-4aba-ab08-0a7c7586def7, .f8b46b6d-7cd5-4b66-9413-cd4282332b33 {
+        letter-spacing: 0.1em;
+      }
+
+      .f8b46b6d-7cd5-4b66-9413-cd4282332b33 {
+        font-family: HiraKakuProN-W6-83pv-RKSJ-H, Hiragino Kaku Gothic ProN;
+      }
+
+      .e6a9f4a2-f2a2-4711-b8db-94267d4eafb3 {
+        fill: #db4335;
+      }
+
+      .ef72b223-e030-4ba0-b556-a9b24ad8a9d9 {
+        stroke: #db4335;
+        stroke-miterlimit: 10;
+      }
+    </style>
+    <clipPath id="b13ee16e-4bb7-4cc9-94a5-95b74addbcd6">
+      <rect class="e2bc6129-c53e-444b-9ead-9c2073f242aa" x="-17.5" y="-371.5" width="1415" height="448"/>
+    </clipPath>
+  </defs>
+  <g class="ae015d2d-dd04-4e72-a90f-a91650a21388">
+    <image width="1980" height="1123" transform="translate(-55.52 -669.61) scale(0.74)" xlink:href="http://3.112.250.183/wp-content/uploads/2021/11/pixta_55338341_XL.jpg"/>
+  </g>
+  <rect class="ac8dffe1-3860-45c4-8c18-ce3631c82ed3" x="-10" width="572" height="129" rx="10"/>
+  <text class="b3ace0a5-0036-448f-9bdc-c3d57d9c7796" transform="translate(185.62 121.05)">案件情報一覧</text>
+  <text class="a50186d9-bb53-4016-b155-1b7914e7ea2d" transform="translate(210.21 69.49)">WORK</text>
+  <line class="f6b81954-9eb5-496b-8528-d48521367534" x1="204" y1="53" x2="188" y2="69"/>
+  <text class="b5029fb4-9f5b-4aba-ab08-0a7c7586def7" transform="translate(999.54 118.41)">トップページ</text>
+  <text class="f8b46b6d-7cd5-4b66-9413-cd4282332b33" transform="translate(1132.54 117.41)">案件情報一覧</text>
+  <path class="e6a9f4a2-f2a2-4711-b8db-94267d4eafb3" d="M1117.9,112.25l-1-1h0l-4.17-4.16a.36.36,0,0,0-.52,0l-1,1a.36.36,0,0,0,0,.52l2.74,2.75h-9a.29.29,0,0,0-.3.3v1.71a.3.3,0,0,0,.3.31h9l-2.74,2.74a.36.36,0,0,0,0,.52l1,1a.34.34,0,0,0,.26.11.33.33,0,0,0,.26-.11l4.17-4.16h0l1-1A.39.39,0,0,0,1117.9,112.25Z"/>
+  <line class="ef72b223-e030-4ba0-b556-a9b24ad8a9d9" x1="1003" y1="123.5" x2="1090" y2="123.5"/>
+</svg>

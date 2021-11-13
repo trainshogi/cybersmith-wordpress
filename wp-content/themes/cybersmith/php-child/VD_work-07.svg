@@ -1,0 +1,37 @@
+<svg id="fba9cc79-f119-4f98-9737-03caf135eb5c" data-name="レイヤー 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1366 102">
+  <defs>
+    <style>
+      .fbc6b107-e9ca-461f-909c-4be2edd8e644 {
+        fill: #666;
+      }
+
+      .b0de4155-e09d-4f8f-b174-1141a56ac01d, .b9d2c9aa-aa32-45b2-b8ab-db3280266e6c {
+        font-size: 18px;
+        font-family: HiraKakuProN-W6-83pv-RKSJ-H, Hiragino Kaku Gothic ProN;
+        letter-spacing: 0.1em;
+      }
+
+      .b9d2c9aa-aa32-45b2-b8ab-db3280266e6c {
+        fill: #fff;
+      }
+
+      .b1ecd5bd-a6d4-4166-bb50-e587636f39aa {
+        fill: #c9c9c9;
+      }
+    </style>
+  </defs>
+  <g>
+    <rect class="fbc6b107-e9ca-461f-909c-4be2edd8e644" x="498" y="21" width="50" height="50" rx="4.86"/>
+    <text class="b9d2c9aa-aa32-45b2-b8ab-db3280266e6c" transform="translate(516.11 53.9)">1</text>
+    <rect class="b1ecd5bd-a6d4-4166-bb50-e587636f39aa" x="562" y="21" width="50" height="50" rx="4.86"/>
+    <text class="b0de4155-e09d-4f8f-b174-1141a56ac01d" transform="translate(580.11 53.9)">2</text>
+    <rect class="b1ecd5bd-a6d4-4166-bb50-e587636f39aa" x="626" y="21" width="50" height="50" rx="4.86"/>
+    <text class="b0de4155-e09d-4f8f-b174-1141a56ac01d" transform="translate(644.11 53.9)">3</text>
+    <rect class="b1ecd5bd-a6d4-4166-bb50-e587636f39aa" x="690" y="21" width="50" height="50" rx="4.86"/>
+    <text class="b0de4155-e09d-4f8f-b174-1141a56ac01d" transform="translate(708.11 53.9)">4</text>
+    <rect class="b1ecd5bd-a6d4-4166-bb50-e587636f39aa" x="754" y="21" width="50" height="50" rx="4.86"/>
+    <text class="b0de4155-e09d-4f8f-b174-1141a56ac01d" transform="translate(772.11 53.9)">5</text>
+    <rect class="b1ecd5bd-a6d4-4166-bb50-e587636f39aa" x="818" y="21" width="50" height="50" rx="4.86"/>
+    <text class="b0de4155-e09d-4f8f-b174-1141a56ac01d" transform="translate(834.11 53.9)">...</text>
+  </g>
+</svg>
