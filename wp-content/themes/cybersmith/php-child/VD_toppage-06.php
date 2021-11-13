@@ -510,7 +510,7 @@
         <path class="aa418658-0a39-4047-8174-632e5377c0f1" d="M842.46,1116.23a13.55,13.55,0,1,1-9.17,16.81A13.55,13.55,0,0,1,842.46,1116.23Z"/>
         <path class="aa418658-0a39-4047-8174-632e5377c0f1" d="M645.5,1367.51a13.55,13.55,0,1,1-9.17,16.81A13.55,13.55,0,0,1,645.5,1367.51Z"/>
       </g>
-      <image width="2971" height="2120" transform="translate(-7.78 -984) scale(0.46)" xlink:href="<?php bloginfo('template_directory'); ?>/images/pixta_77226296_L.jpg"/>
+      <image width="2971" height="2120" transform="translate(-7.78 -984) scale(0.46)" xlink:href="http://3.112.250.183/wp-content/uploads/2021/11/pixta_77226296_L.jpg"/>
       <text class="e4151ed5-04ac-45f1-89c8-ab6900eba567" transform="translate(205.95 200.21)">サイバースミスに<tspan x="0" y="60">できること</tspan></text>
       <text class="bc49a710-2731-4ea2-9dff-b5409a0dbdf7" transform="translate(263.18 366.29)">人と人をつなげ<tspan class="a7d40363-0925-4bcf-89cf-a3d46e5167f6" x="138.6" y="0">、</tspan><tspan x="0" y="31.5">あらゆる課題を解決し</tspan><tspan class="a7d40363-0925-4bcf-89cf-a3d46e5167f6" x="198" y="31.5">、</tspan><tspan x="0" y="63">世の中を良くするために</tspan><tspan x="0" y="94.5">活動していきます</tspan><tspan class="e243d660-d3d8-4a6b-aa0c-384514f5f009" x="158.4" y="94.5">。</tspan></text>
       <text class="a27d521b-c25b-40d1-8607-64297d84caed" transform="translate(145 1261.6)">フリーランス・コンサルタントの方々にプロジェクト案件<tspan x="0" y="35">をご紹介</tspan><tspan class="f704df63-b78d-49f3-bb01-d84655c7ee15" x="88" y="35">。</tspan><tspan x="0" y="70">アサイン後のフォローアップなど、ご登録者を支えるフォ</tspan><tspan x="0" y="105">ローが充実しているため、継続的にご活用頂いております</tspan><tspan class="f704df63-b78d-49f3-bb01-d84655c7ee15" x="572" y="105">。</tspan><tspan x="0" y="140">独自の人脈だけではつながることが難しい案件や、ステッ</tspan><tspan x="0" y="175">プアップができる案件もご紹介することが可能です</tspan><tspan class="f704df63-b78d-49f3-bb01-d84655c7ee15" x="506" y="175">。</tspan></text>
@@ -568,7 +568,7 @@
       <line class="bd599773-f751-43c9-b37c-f62246b7f471" x1="183" y1="2559" x2="306.5" y2="2559"/>
       <rect class="f150192c-b0fb-4fde-98f8-e97db184cb4c" x="-22" y="2743" width="1427" height="554"/>
       <line class="b5be9573-6c3f-49bc-ab72-e63548b6f3e1" x1="310" y1="538.5" x2="432" y2="538.5"/>
-      <image width="7135" height="4759" transform="translate(657 2207) scale(0.06)" xlink:href="<?php bloginfo('template_directory'); ?>/images/pixta_58735719_XL.jpg"/>
+      <image width="7135" height="4759" transform="translate(657 2207) scale(0.06)" xlink:href="http://3.112.250.183/wp-content/uploads/2021/11/pixta_58735719_XL.jpg"/>
       <g>
         <image class="fea957e9-e37a-4b55-9d1a-7a0cd7b0bb2d" width="319" height="319" transform="translate(787 1061)" xlink:href="<?php bloginfo('template_directory'); ?>/images/VD_toppage1.png"/>
         <rect class="e54918f9-fe2d-4108-b4ce-52ea2d5c7f61" x="796.66" y="1070.55" width="300" height="300" rx="5.89"/>
@@ -717,8 +717,8 @@
           <path class="a6327e91-b9ac-49ee-9adb-5f0d2791887b" d="M779.08,431.82a4.16,4.16,0,0,0-1.56-3.24c-.29-.23-.67-.48-1.08-.75C777.32,429.27,778.22,430.62,779.08,431.82Z"/>
         </g>
       </g>
-      <image width="6016" height="4016" transform="translate(825 2416) scale(0.07)" xlink:href="<?php bloginfo('template_directory'); ?>/images/pixta_69482928_XL.jpg"/>
-      <image width="5751" height="3834" transform="translate(524.92 2445.12) scale(0.07)" xlink:href="<?php bloginfo('template_directory'); ?>/images/pixta_60365380_XL.jpg"/>
+      <image width="6016" height="4016" transform="translate(825 2416) scale(0.07)" xlink:href="http://3.112.250.183/wp-content/uploads/2021/11/pixta_69482928_XL.jpg"/>
+      <image width="5751" height="3834" transform="translate(524.92 2445.12) scale(0.07)" xlink:href="http://3.112.250.183/wp-content/uploads/2021/11/pixta_60365380_XL.jpg"/>
       <line class="a1919895-6b91-4526-9d7c-7901f51fd557" x1="656.5" y1="2443.5" x2="826.5" y2="2443.5"/>
       <line class="a1919895-6b91-4526-9d7c-7901f51fd557" x1="825" y1="2415.5" x2="1055.17" y2="2415.5"/>
       <line class="a1919895-6b91-4526-9d7c-7901f51fd557" x1="924.68" y1="2443.25" x2="924.68" y2="2681.42"/>

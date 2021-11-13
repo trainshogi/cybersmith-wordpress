@@ -86,7 +86,7 @@
         <text class="f38e4c44-8828-4066-9339-5ef511174a0e" transform="translate(531.82 672.92)">Copyright © Cybersmith All rights reserved.</text>
         <text class="b096a577-e81a-42fb-888e-c4f2966292a1" transform="translate(592.58 129.15)">サイバースミス</text>
         <g class="ff23ea89-615c-42c0-99ab-15051b32d186">
-          <image width="6000" height="4000" transform="translate(172.5 208) scale(0.09)" xlink:href="<?php bloginfo('template_directory'); ?>/images/pixta_66330729_XL.jpg"/>
+          <image width="6000" height="4000" transform="translate(172.5 208) scale(0.09)" xlink:href="http://3.112.250.183/wp-content/uploads/2021/11/pixta_66330729_XL.jpg"/>
         </g>
         <rect class="ec0f1bbf-9aa8-4b22-b72d-da6f180c02c2" x="258" y="285" width="400" height="200"/>
         <g>
@@ -101,7 +101,7 @@
           <path d="M1112,285V485H712V285h400m10-10H702V495h420V275Z"/>
         </g>
         <g class="f88a2917-b443-44f1-961f-9246c5a468f4">
-          <image width="6000" height="4000" transform="translate(700 255.33) scale(0.07)" xlink:href="<?php bloginfo('template_directory'); ?>/images/pixta_63366991_XL.jpg"/>
+          <image width="6000" height="4000" transform="translate(700 255.33) scale(0.07)" xlink:href="http://3.112.250.183/wp-content/uploads/2021/11/pixta_63366991_XL.jpg"/>
         </g>
         <rect class="ec0f1bbf-9aa8-4b22-b72d-da6f180c02c2" x="712" y="285" width="400" height="200"/>
         <g>

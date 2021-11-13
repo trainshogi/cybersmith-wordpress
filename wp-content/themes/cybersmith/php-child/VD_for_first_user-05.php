@@ -113,15 +113,15 @@
   <text class="f07d4ded-3f98-4d81-9f54-1c1f2537c517" transform="translate(283.41 304.92)">サイバースミスは<tspan class="eb392d58-582f-4291-bf1b-490fd856643f" x="211.2" y="0">、</tspan><tspan x="0" y="42">事業・提供サービスを通じて社会課題の解決へ</tspan><tspan x="0" y="84">日々努めています</tspan><tspan class="eb392d58-582f-4291-bf1b-490fd856643f" x="211.2" y="84">。</tspan></text>
   <line class="a63795fd-9dd2-4c7e-9831-b7dc73e6d9bf" x1="657" y1="81" x2="707" y2="81"/>
   <g class="e6bfa4b6-93b9-4acd-8c81-89eaef49e8ab">
-    <image width="6000" height="4000" transform="translate(-12 -766) scale(0.23)" xlink:href="<?php bloginfo('template_directory'); ?>/images/pixta_77494461_XL.jpg"/>
+    <image width="6000" height="4000" transform="translate(-12 -766) scale(0.23)" xlink:href="http://3.112.250.183/wp-content/uploads/2021/11/pixta_77494461_XL.jpg"/>
   </g>
   <text class="a7fa6861-f0fe-4a10-aca7-ec40815713c5" transform="translate(401.2 210.68)">提供サービス・事業</text>
   <text class="ee28d13c-4165-4c94-81b4-1f2a662e835d" transform="translate(586.08 142.12)">SERVICE</text>
   <g class="f470c203-2d9e-4913-b19f-e7a232e4726c">
-    <image width="5472" height="3648" transform="translate(-12 963) scale(0.25)" xlink:href="<?php bloginfo('template_directory'); ?>/images/pixta_73651589_XL.jpg"/>
+    <image width="5472" height="3648" transform="translate(-12 963) scale(0.25)" xlink:href="http://3.112.250.183/wp-content/uploads/2021/11/pixta_73651589_XL.jpg"/>
   </g>
   <g class="e22435f5-6f88-4f72-8c4e-f93d70d1f31b">
-    <image width="6720" height="4480" transform="translate(252 431.33) scale(0.06)" xlink:href="<?php bloginfo('template_directory'); ?>/images/pixta_47892115_XL.jpg"/>
+    <image width="6720" height="4480" transform="translate(252 431.33) scale(0.06)" xlink:href="http://3.112.250.183/wp-content/uploads/2021/11/pixta_47892115_XL.jpg"/>
   </g>
   <text class="f07d4ded-3f98-4d81-9f54-1c1f2537c517" transform="translate(561.13 467.41)">SI＆I<tspan class="ae5bd319-ca9a-4456-afe6-707c243ab1a6" x="61.61" y="0">T</tspan><tspan x="85.58" y="0">コンサルティング事業</tspan></text>
   <text class="ef38024e-c708-4243-b391-282b71ff62dc" transform="translate(604.33 626.85)">エンジニアを探している企業様へ</text>
@@ -144,7 +144,7 @@
   <line class="ef39eca8-7fc8-40cc-8193-5a754b3192bf" x1="603.52" y1="679.32" x2="800.02" y2="679.32"/>
   <text class="aa7e2d45-c6a7-4f12-9f26-53384b795eea" transform="translate(563.07 512.57)">フリーランス・プロフェッショナル人材の多様なライフス<tspan x="0" y="31.5">タイルにあわせた仕事の選択肢の提供と</tspan><tspan class="acd54616-0631-4f44-9967-f054d1b416aa" x="356.4" y="31.5">、</tspan><tspan x="369.33" y="31.5">サポートを行なっ</tspan><tspan x="0" y="63">ています</tspan><tspan class="a6793a12-0cdd-4f7c-8e77-8e63d27b6b41" x="79.2" y="63">。</tspan></text>
   <g class="bacedff6-d54c-4d29-b6ce-f2de87463bc7">
-    <image width="8256" height="3546" transform="translate(190 740.65) scale(0.07)" xlink:href="<?php bloginfo('template_directory'); ?>/images/pixta_76898798_XL.jpg"/>
+    <image width="8256" height="3546" transform="translate(190 740.65) scale(0.07)" xlink:href="http://3.112.250.183/wp-content/uploads/2021/11/pixta_76898798_XL.jpg"/>
   </g>
   <text class="f07d4ded-3f98-4d81-9f54-1c1f2537c517" transform="translate(561.13 782.41)">教育サービス</text>
   <text class="ef38024e-c708-4243-b391-282b71ff62dc" transform="translate(604.33 906.85)">教育サービス</text>
@@ -158,7 +158,7 @@
   <line class="ef39eca8-7fc8-40cc-8193-5a754b3192bf" x1="603.52" y1="914.32" x2="710.5" y2="914.32"/>
   <text class="aa7e2d45-c6a7-4f12-9f26-53384b795eea" transform="translate(563.07 827.57)">小中高・大学・社会人と幅広い各年代に応じて<tspan class="b57e0caa-0d87-4d92-ab3f-ba0269d5925c" x="415.8" y="0">た</tspan><tspan class="e41551b2-99e0-4d80-98b4-b6aba7a0543c" x="440.1" y="0">I</tspan><tspan class="b57e0caa-0d87-4d92-ab3f-ba0269d5925c" x="446.38" y="0">T</tspan><tspan x="464.36" y="0">の学び</tspan><tspan x="0" y="31.5">を教育を通して向き合っています</tspan><tspan class="a6793a12-0cdd-4f7c-8e77-8e63d27b6b41" x="297" y="31.5">。</tspan></text>
   <g class="a273d9a4-1177-4f43-b872-e072ceda1f60">
-    <image width="7360" height="4912" transform="translate(155 1060) scale(0.05)" xlink:href="<?php bloginfo('template_directory'); ?>/images/pixta_34471601_XL.jpg"/>
+    <image width="7360" height="4912" transform="translate(155 1060) scale(0.05)" xlink:href="http://3.112.250.183/wp-content/uploads/2021/11/pixta_34471601_XL.jpg"/>
   </g>
   <text class="f07d4ded-3f98-4d81-9f54-1c1f2537c517" transform="translate(561.13 1097.41)">社会課題サービス立ち上げ支援</text>
   <text class="aa7e2d45-c6a7-4f12-9f26-53384b795eea" transform="translate(563.07 1142.57)">あらゆる社会課題に対して、プロジェクト単位で切り分け<tspan class="a6793a12-0cdd-4f7c-8e77-8e63d27b6b41" x="514.8" y="0">、</tspan><tspan x="0" y="31.5">サービスとしての形にする支援をしています</tspan><tspan class="a6793a12-0cdd-4f7c-8e77-8e63d27b6b41" x="396" y="31.5">。</tspan></text>

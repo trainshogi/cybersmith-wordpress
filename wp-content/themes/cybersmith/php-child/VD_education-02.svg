@@ -1,0 +1,68 @@
+<svg id="bcdaa526-23b5-4146-b96c-b1e3643eaeab" data-name="レイヤー 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1366 261">
+  <defs>
+    <style>
+      .af0f173e-dd0d-4068-80ce-35065855d773, .fa267cb5-658c-4572-989d-33e20e5ee1f0 {
+        fill: none;
+      }
+
+      .ffb931b3-72e2-4892-93ca-e7636ec9bb30 {
+        clip-path: url(#bc08fd75-bf41-4d76-b0e9-481212f7ecd6);
+      }
+
+      .fccbed85-6944-47e1-91f2-5ca3cd3e349a {
+        fill: #fff;
+      }
+
+      .a6469953-7e96-4ef2-8054-b1dfcbf4e61e {
+        opacity: 0.3;
+      }
+
+      .a919a952-2fb8-4a68-9ecf-6368a46dd4a0 {
+        fill: #dc4335;
+      }
+
+      .af0f173e-dd0d-4068-80ce-35065855d773 {
+        stroke: #000;
+        stroke-miterlimit: 10;
+      }
+
+      .ac2c3219-a17e-4348-b133-cfbf89630df4 {
+        font-size: 18px;
+        font-family: HiraginoSans-W6-83pv-RKSJ-H, Hiragino Sans;
+      }
+
+      .afffaaf6-2ae5-49b4-ba32-bfc642fc034a {
+        font-size: 12px;
+        fill: #0045ba;
+        font-family: HiraginoSans-W4-83pv-RKSJ-H, Hiragino Sans;
+      }
+
+      .abce5cb8-02b8-4b78-b6a9-270156bdda42 {
+        font-size: 26px;
+        font-family: KozGoPr6N-Bold-83pv-RKSJ-H, Kozuka Gothic Pr6N;
+      }
+    </style>
+    <clipPath id="bc08fd75-bf41-4d76-b0e9-481212f7ecd6">
+      <rect class="fa267cb5-658c-4572-989d-33e20e5ee1f0" x="-24" y="-138" width="1403" height="471"/>
+    </clipPath>
+  </defs>
+  <g class="ffb931b3-72e2-4892-93ca-e7636ec9bb30">
+    <image width="1980" height="850" transform="translate(-97.06 -65.86) scale(0.79)" xlink:href="http://3.112.250.183/wp-content/uploads/2021/11/pixta_76898798_XL.jpg"/>
+  </g>
+  <rect class="fccbed85-6944-47e1-91f2-5ca3cd3e349a" x="186" y="22" width="1000" height="100" rx="10"/>
+  <g class="a6469953-7e96-4ef2-8054-b1dfcbf4e61e">
+    <path class="a919a952-2fb8-4a68-9ecf-6368a46dd4a0" d="M1176,22a10,10,0,0,1,10,10v80a10,10,0,0,1-10,10H196a10,10,0,0,1-10-10V32a10,10,0,0,1,10-10h980m0-5H196a15,15,0,0,0-15,15v80a15,15,0,0,0,15,15h980a15,15,0,0,0,15-15V32a15,15,0,0,0-15-15Z"/>
+  </g>
+  <line class="af0f173e-dd0d-4068-80ce-35065855d773" x1="217" y1="64" x2="255" y2="64"/>
+  <line class="af0f173e-dd0d-4068-80ce-35065855d773" x1="217" y1="72.5" x2="255" y2="72.5"/>
+  <line class="af0f173e-dd0d-4068-80ce-35065855d773" x1="217" y1="81.5" x2="255" y2="81.5"/>
+  <text class="ac2c3219-a17e-4348-b133-cfbf89630df4" transform="translate(769.22 90.22)">案件情報一覧</text>
+  <text class="ac2c3219-a17e-4348-b133-cfbf89630df4" transform="translate(610.89 90.22)">はじめての方へ</text>
+  <text class="ac2c3219-a17e-4348-b133-cfbf89630df4" transform="translate(909.56 90.22)">教育サービス</text>
+  <text class="ac2c3219-a17e-4348-b133-cfbf89630df4" transform="translate(1049.89 90.22)">お問い合わせ</text>
+  <text class="afffaaf6-2ae5-49b4-ba32-bfc642fc034a" transform="translate(731.89 58.47)">ご利用の流れ</text>
+  <text class="afffaaf6-2ae5-49b4-ba32-bfc642fc034a" transform="translate(825.89 58.47)">エンジニアを探している企業様へ</text>
+  <text class="afffaaf6-2ae5-49b4-ba32-bfc642fc034a" transform="translate(1022.89 58.47)">お仕事を探している方へ</text>
+  <text class="afffaaf6-2ae5-49b4-ba32-bfc642fc034a" transform="translate(651.89 58.47)">運営会社</text>
+  <text class="abce5cb8-02b8-4b78-b6a9-270156bdda42" transform="translate(279.61 82.02)">サイバースミス</text>
+</svg>

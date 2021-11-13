@@ -41,7 +41,7 @@
       }
     </style>
   </defs>
-  <image width="6000" height="4000" transform="translate(-23.07 -220.84) scale(0.24)" xlink:href="<?php bloginfo('template_directory'); ?>/images/pixta_78855920_XL.jpg"/>
+  <image width="6000" height="4000" transform="translate(-23.07 -220.84) scale(0.24)" xlink:href="http://3.112.250.183/wp-content/uploads/2021/11/pixta_78855920_XL.jpg"/>
   <rect class="af98b905-ba5d-4b8d-96ef-304b521769a4" x="186" y="22" width="1000" height="100" rx="10"/>
   <g class="b58755e4-904c-4fcd-b0f9-e953c8ed821a">
     <path class="eedfd376-8194-4b25-8fab-55536838fd58" d="M1176,22a10,10,0,0,1,10,10v80a10,10,0,0,1-10,10H196a10,10,0,0,1-10-10V32a10,10,0,0,1,10-10h980m0-5H196a15,15,0,0,0-15,15v80a15,15,0,0,0,15,15h980a15,15,0,0,0,15-15V32a15,15,0,0,0-15-15Z"/>

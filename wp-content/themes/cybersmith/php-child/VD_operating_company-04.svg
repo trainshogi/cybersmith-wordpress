@@ -1,0 +1,101 @@
+<svg id="ede75183-1ed4-46f5-bb6f-e041ef947a04" data-name="レイヤー 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1369 931">
+  <defs>
+    <style>
+      .f7f7788d-f9ef-4c05-96e7-95d55c84d877 {
+        font-size: 100px;
+        letter-spacing: 0.1em;
+      }
+
+      .e2bb1340-797a-4893-bc06-e2d7db83cee6, .ee540d42-f3c1-408e-92c3-67b798636889, .fe15103a-19d6-491d-a057-17d057aaba16 {
+        fill: none;
+        stroke: #000;
+        stroke-miterlimit: 10;
+      }
+
+      .fe15103a-19d6-491d-a057-17d057aaba16 {
+        stroke-width: 1.51px;
+      }
+
+      .e2bb1340-797a-4893-bc06-e2d7db83cee6, .ee540d42-f3c1-408e-92c3-67b798636889 {
+        stroke-width: 0.75px;
+      }
+
+      .e2bb1340-797a-4893-bc06-e2d7db83cee6 {
+        stroke-dasharray: 3 3;
+      }
+
+      .b0c0e133-d320-47f1-9abf-96951a773a83, .b0d5a60f-391c-40f6-b1d9-9e04bdb55bdf, .bee95cc8-effa-4545-86a3-f28f40bcb832 {
+        font-size: 14px;
+      }
+
+      .bee95cc8-effa-4545-86a3-f28f40bcb832 {
+        font-family: HiraKakuProN-W6-83pv-RKSJ-H, Hiragino Kaku Gothic ProN;
+      }
+
+      .b0c0e133-d320-47f1-9abf-96951a773a83, .bee95cc8-effa-4545-86a3-f28f40bcb832 {
+        letter-spacing: 0.1em;
+      }
+
+      .b0c0e133-d320-47f1-9abf-96951a773a83, .b0d5a60f-391c-40f6-b1d9-9e04bdb55bdf {
+        font-family: HiraKakuPro-W3-83pv-RKSJ-H, Hiragino Kaku Gothic Pro;
+      }
+
+      .f86e6c9d-1f30-4f4a-8a44-1122f0a4ac17 {
+        letter-spacing: -0.4em;
+      }
+
+      .a9ca4037-f713-46ad-b7e3-2684cf9c2396 {
+        letter-spacing: 0.35em;
+      }
+
+      .a91badfb-86df-4622-b76c-5e0c777408d0 {
+        letter-spacing: 0.1em;
+      }
+
+      .ae1819e8-b314-4547-ba7f-6d3d02e1603e {
+        letter-spacing: 0.25em;
+      }
+
+      .fedc9cc6-638f-4e0c-8493-d83b4f036c65 {
+        fill: #b3b3b3;
+      }
+    </style>
+  </defs>
+  <text class="f7f7788d-f9ef-4c05-96e7-95d55c84d877" transform="translate(143.95 137.21)">COMPANY</text>
+  <line class="fe15103a-19d6-491d-a057-17d057aaba16" x1="143" y1="30" x2="193" y2="30"/>
+  <g>
+    <line class="ee540d42-f3c1-408e-92c3-67b798636889" x1="272" y1="224.5" x2="273.5" y2="224.5"/>
+    <line class="e2bb1340-797a-4893-bc06-e2d7db83cee6" x1="276.5" y1="224.5" x2="1091" y2="224.5"/>
+    <line class="ee540d42-f3c1-408e-92c3-67b798636889" x1="1092.5" y1="224.5" x2="1094" y2="224.5"/>
+  </g>
+  <g>
+    <line class="ee540d42-f3c1-408e-92c3-67b798636889" x1="272" y1="277.5" x2="273.5" y2="277.5"/>
+    <line class="e2bb1340-797a-4893-bc06-e2d7db83cee6" x1="276.5" y1="277.5" x2="1091" y2="277.5"/>
+    <line class="ee540d42-f3c1-408e-92c3-67b798636889" x1="1092.5" y1="277.5" x2="1094" y2="277.5"/>
+  </g>
+  <text class="bee95cc8-effa-4545-86a3-f28f40bcb832" transform="translate(284.86 258.59)">名称</text>
+  <text class="b0c0e133-d320-47f1-9abf-96951a773a83" transform="translate(399.86 258.59)">株式会社サイバースミス（Cybersmith Inc,<tspan class="f86e6c9d-1f30-4f4a-8a44-1122f0a4ac17" x="313.7" y="0">）</tspan></text>
+  <g>
+    <line class="ee540d42-f3c1-408e-92c3-67b798636889" x1="272" y1="328.5" x2="273.5" y2="328.5"/>
+    <line class="e2bb1340-797a-4893-bc06-e2d7db83cee6" x1="276.5" y1="328.5" x2="1091" y2="328.5"/>
+    <line class="ee540d42-f3c1-408e-92c3-67b798636889" x1="1092.5" y1="328.5" x2="1094" y2="328.5"/>
+  </g>
+  <text class="bee95cc8-effa-4545-86a3-f28f40bcb832" transform="translate(284.86 306.59)">設立</text>
+  <text class="b0c0e133-d320-47f1-9abf-96951a773a83" transform="translate(399.86 308.59)">202<tspan class="a9ca4037-f713-46ad-b7e3-2684cf9c2396" x="31.79" y="0">1年4月</tspan><tspan class="a91badfb-86df-4622-b76c-5e0c777408d0" x="97.84" y="0">2</tspan><tspan class="a9ca4037-f713-46ad-b7e3-2684cf9c2396" x="108.44" y="0">6</tspan><tspan x="122.54" y="0">日</tspan></text>
+  <g>
+    <line class="ee540d42-f3c1-408e-92c3-67b798636889" x1="272" y1="381.5" x2="273.5" y2="381.5"/>
+    <line class="e2bb1340-797a-4893-bc06-e2d7db83cee6" x1="276.5" y1="381.5" x2="1091" y2="381.5"/>
+    <line class="ee540d42-f3c1-408e-92c3-67b798636889" x1="1092.5" y1="381.5" x2="1094" y2="381.5"/>
+  </g>
+  <text class="bee95cc8-effa-4545-86a3-f28f40bcb832" transform="translate(284.86 358.59)">住所</text>
+  <text class="b0d5a60f-391c-40f6-b1d9-9e04bdb55bdf" transform="translate(399.86 358.59)">〒101-0054 東京都千代田区神田錦<tspan class="ae1819e8-b314-4547-ba7f-6d3d02e1603e" x="228.11" y="0">町</tspan><tspan x="245.61" y="0">1-17-</tspan><tspan class="ae1819e8-b314-4547-ba7f-6d3d02e1603e" x="283.23" y="0">1</tspan><tspan x="295.93" y="0">神田髙木ビ</tspan><tspan class="ae1819e8-b314-4547-ba7f-6d3d02e1603e" x="365.93" y="0">ル4</tspan><tspan x="396.18" y="0">階</tspan></text>
+  <text class="bee95cc8-effa-4545-86a3-f28f40bcb832" transform="translate(284.86 413.59)">事業内容</text>
+  <text class="b0d5a60f-391c-40f6-b1d9-9e04bdb55bdf" transform="translate(399.86 413.59)"><tspan xml:space="preserve"> SI &amp; I</tspan><tspan class="ae1819e8-b314-4547-ba7f-6d3d02e1603e" x="41.48" y="0">T</tspan><tspan x="54.07" y="0">コンサルティング事業</tspan><tspan x="0" y="24.5">小中高教育機関向</tspan><tspan class="ae1819e8-b314-4547-ba7f-6d3d02e1603e" x="112" y="24.5">け</tspan><tspan x="129.5" y="24.5">I</tspan><tspan class="ae1819e8-b314-4547-ba7f-6d3d02e1603e" x="132.99" y="24.5">T</tspan><tspan x="145.57" y="24.5">教育事業</tspan><tspan x="0" y="49">大学生・社会人向</tspan><tspan class="ae1819e8-b314-4547-ba7f-6d3d02e1603e" x="112" y="49">け</tspan><tspan x="129.5" y="49">I</tspan><tspan class="ae1819e8-b314-4547-ba7f-6d3d02e1603e" x="132.99" y="49">T</tspan><tspan x="145.57" y="49">教育事業</tspan><tspan x="0" y="73.5">社会課題解決型サービス企画・開発</tspan></text>
+  <text class="bee95cc8-effa-4545-86a3-f28f40bcb832" transform="translate(284.86 543.59)">アクセス</text>
+  <g>
+    <line class="ee540d42-f3c1-408e-92c3-67b798636889" x1="272" y1="515.5" x2="273.5" y2="515.5"/>
+    <line class="e2bb1340-797a-4893-bc06-e2d7db83cee6" x1="276.5" y1="515.5" x2="1091" y2="515.5"/>
+    <line class="ee540d42-f3c1-408e-92c3-67b798636889" x1="1092.5" y1="515.5" x2="1094" y2="515.5"/>
+  </g>
+  <rect class="fedc9cc6-638f-4e0c-8493-d83b4f036c65" x="400" y="544" width="689" height="291"/>
+</svg>

@@ -1,0 +1,49 @@
+<svg id="bbbc4d40-a965-4a86-b0ff-76f63ab01b78" data-name="レイヤー 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1366 232">
+  <defs>
+    <style>
+      .e34d2730-463c-4dec-add8-658a760f2a4d {
+        fill: none;
+        stroke: #e4e4e4;
+        stroke-miterlimit: 10;
+        stroke-width: 5px;
+      }
+
+      .ab827da2-b9de-46a4-8574-cb36c0970dc8, .fb271671-2b79-4112-a9fd-019e34cbb355 {
+        fill: #fff;
+      }
+
+      .ab827da2-b9de-46a4-8574-cb36c0970dc8 {
+        font-size: 16px;
+        font-family: HiraginoSans-W6-83pv-RKSJ-H, Hiragino Sans;
+        letter-spacing: 0.3em;
+      }
+
+      .e567bbb3-6b73-49e2-98e7-c9005885ffb0 {
+        font-size: 18px;
+        font-family: HiraKakuProN-W3-83pv-RKSJ-H, Hiragino Kaku Gothic ProN;
+        letter-spacing: 0.1em;
+      }
+
+      .b44c5c39-ba64-41ff-9054-945a618e14ee {
+        letter-spacing: -0.4em;
+      }
+
+      .ee0ed5dc-161c-40df-af62-b2e2ddad9acc {
+        letter-spacing: -0.4em;
+      }
+    </style>
+  </defs>
+  <rect class="e34d2730-463c-4dec-add8-658a760f2a4d" x="283" y="33" width="800" height="144.5" rx="3.01"/>
+  <g>
+    <rect x="483" y="145.42" width="400" height="60" rx="30"/>
+    <g>
+      <circle cx="845.41" cy="177.83" r="13.51"/>
+      <g>
+        <path class="fb271671-2b79-4112-a9fd-019e34cbb355" d="M846.66,178.05l0-.05v0s0,0,0-.06h0a.38.38,0,0,0,0-.15v0s0,0,0-.06h0l0,0,0-.06-5.42-5.42a.39.39,0,0,0-.55,0l-1,1a.39.39,0,0,0-.11.28.39.39,0,0,0,.11.27l4.11,4.11-4.11,4.11a.43.43,0,0,0-.11.28.39.39,0,0,0,.11.27l1,1a.43.43,0,0,0,.28.11.39.39,0,0,0,.27-.11l5.42-5.42Z"/>
+        <path class="fb271671-2b79-4112-a9fd-019e34cbb355" d="M852.66,178v0s0,0,0-.06h0a.38.38,0,0,0,0-.15v0s0,0,0-.06h0l0,0,0-.06-5.41-5.42a.4.4,0,0,0-.56,0l-1,1a.39.39,0,0,0-.11.28.39.39,0,0,0,.11.27l4.11,4.11-4.11,4.11a.43.43,0,0,0-.11.28.39.39,0,0,0,.11.27l1,1a.41.41,0,0,0,.56,0l5.41-5.42,0-.06Z"/>
+      </g>
+    </g>
+    <text class="ab827da2-b9de-46a4-8574-cb36c0970dc8" transform="translate(620.91 183.69)">お問い合わせ</text>
+  </g>
+  <text class="e567bbb3-6b73-49e2-98e7-c9005885ffb0" transform="translate(314.91 85.27)">弊社の教育サービスに興味のある方は、下記よりお問い合わせください<tspan class="b44c5c39-ba64-41ff-9054-945a618e14ee" x="633.6" y="0">。</tspan><tspan x="0" y="31.5">詳しい内容は直接ご説明いたします</tspan><tspan class="ee0ed5dc-161c-40df-af62-b2e2ddad9acc" x="316.8" y="31.5">。</tspan></text>
+</svg>

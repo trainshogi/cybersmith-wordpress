@@ -85,7 +85,7 @@
     <line class="ed2f9249-ac4a-4c1c-b9c1-798f4b6a5e04" x1="1032" y1="1311.5" x2="1119" y2="1311.5"/>
     <line class="a56cf379-a0ff-426d-a9a5-de896cfbd24c" x1="657" y1="83" x2="707" y2="83"/>
     <g class="f4071064-6757-4a35-bfd8-b3a95f5affd9">
-      <image width="5340" height="3372" transform="translate(-23 -483) scale(0.26)" xlink:href="<?php bloginfo('template_directory'); ?>/images/pixta_75302066_XL.jpg"/>
+      <image width="5340" height="3372" transform="translate(-23 -483) scale(0.26)" xlink:href="http://3.112.250.183/wp-content/uploads/2021/11/pixta_75302066_XL.jpg"/>
     </g>
     <text class="faa9fb14-5d91-4a4a-a270-91508952e63e" transform="translate(214 212.68)">サイバースミスの５つのバリュー</text>
     <text class="f1d7dc6b-a66c-4ce4-bb1a-1b97d0c68448" transform="translate(613.55 144.12)">VALUE</text>

@@ -1,0 +1,43 @@
+<svg id="bec14418-964c-4387-96f4-b4a8327bd5b5" data-name="レイヤー 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1366 248">
+  <defs>
+    <style>
+      .b2c1f3f9-7427-43cd-beb6-bca167478ce1, .b4c07b9d-353e-4486-bc00-ccc9314e3e9e {
+        font-size: 26px;
+        letter-spacing: 0.1em;
+      }
+
+      .b2c1f3f9-7427-43cd-beb6-bca167478ce1 {
+        fill: #007b43;
+      }
+
+      .a1d79777-3686-4a75-b863-52da60cd9657 {
+        font-size: 28px;
+        font-family: FutoGoB101Pr6N-Bold, FutoGoB101Pr6N Bold-83pv-RKSJ-H;
+        font-weight: 700;
+        letter-spacing: 0.1em;
+      }
+
+      .b9df2d65-66bf-4440-b6cf-f859821b423b {
+        letter-spacing: 0.35em;
+      }
+
+      .b7c2b932-741b-46d9-893f-9a8ac0cad7cd {
+        letter-spacing: 0.35em;
+      }
+
+      .acf02bb4-c612-42f2-99bb-25cf3399473d {
+        fill: none;
+        stroke: #007b43;
+        stroke-miterlimit: 10;
+      }
+
+      .b4c07b9d-353e-4486-bc00-ccc9314e3e9e {
+        font-family: HiraMinPro-W6-83pv-RKSJ-H, Hiragino Mincho Pro;
+      }
+    </style>
+  </defs>
+  <text class="b2c1f3f9-7427-43cd-beb6-bca167478ce1" transform="translate(243.21 87.49)">EDUCATION 03</text>
+  <text class="a1d79777-3686-4a75-b863-52da60cd9657" transform="translate(242.95 132.21)">社会人向<tspan class="b9df2d65-66bf-4440-b6cf-f859821b423b" x="123.2" y="0">け</tspan><tspan x="161" y="0">I</tspan><tspan class="b7c2b932-741b-46d9-893f-9a8ac0cad7cd" x="170.91" y="0">T</tspan><tspan x="195.52" y="0">業界へのキャリアチャレンジ、専門技術トレーニング</tspan></text>
+  <line class="acf02bb4-c612-42f2-99bb-25cf3399473d" x1="214.85" y1="64.74" x2="182.85" y2="96.74"/>
+  <text class="b4c07b9d-353e-4486-bc00-ccc9314e3e9e" transform="translate(183.73 219.35)">専門領域に特化した業務及び技術の実践的な教育</text>
+</svg>

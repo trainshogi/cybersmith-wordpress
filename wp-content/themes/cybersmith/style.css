@@ -5,3 +5,13 @@ Author: Akira Sato
 Version: 0.0.1
 */
 /* この下に通常のcssを書いていく */
+
+header {
+  position: absolute;/*ヘッダーを固定*/
+  z-index: 9999;/*一番前に表示されるように設定*/
+  top: 1;/*画面一番上で固定*/
+  width: 100%;/*ヘッダーが横幅いっぱいになるように指定*/
+}
+svg{
+  display: block;
+}

@@ -315,12 +315,12 @@
       <line class="ab309396-5aa6-49d6-a89b-eaf71232bfc1" x1="658" y1="85" x2="708" y2="85"/>
       <text class="a69d0bcb-ca11-4f74-a0ee-90030adebad1" transform="translate(216.41 456.92)">サイバースミスは<tspan class="b0f9185c-09bc-4ab6-960f-713f5c837f85" x="211.2" y="0">、</tspan><tspan x="0" y="42">世界で最も効果的に</tspan><tspan class="b0f9185c-09bc-4ab6-960f-713f5c837f85" x="237.6" y="42">、</tspan><tspan x="0" y="84">社会課題を解決する</tspan><tspan x="0" y="126">プロフェッショナル集団です</tspan><tspan class="e2a207c3-3670-4048-900d-b1f7de56ed30" x="343.2" y="126">。</tspan></text>
       <g class="b487c52e-516d-47f6-9172-e9de650d0267">
-        <image width="5008" height="2893" transform="translate(-26 -423) scale(0.28)" xlink:href="<?php bloginfo('template_directory'); ?>/images/pixta_75662281_L.jpg"/>
+        <image width="5008" height="2893" transform="translate(-26 -423) scale(0.28)" xlink:href="http://3.112.250.183/wp-content/uploads/2021/11/pixta_75662281_L.jpg"/>
       </g>
       <text class="b35b4adf-ac36-4bef-bd4f-1116fe86bfee" transform="translate(402.2 214.68)">社会課題を解決する</text>
       <text class="ffc41919-264d-4172-9ceb-df1fd583530e" transform="translate(579.09 146.12)">CONCEPT</text>
       <g class="b8c38945-7a65-4a8c-98f4-fd5b7dd85da2">
-        <image width="6000" height="4000" transform="translate(-11 511) scale(0.23)" xlink:href="<?php bloginfo('template_directory'); ?>/images/pixta_77494461_XL.jpg"/>
+        <image width="6000" height="4000" transform="translate(-11 511) scale(0.23)" xlink:href="http://3.112.250.183/wp-content/uploads/2021/11/pixta_77494461_XL.jpg"/>
       </g>
       <g>
         <g>

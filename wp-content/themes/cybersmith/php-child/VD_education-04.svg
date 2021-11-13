@@ -1,0 +1,68 @@
+<svg id="ad773dc0-6b1c-45aa-a817-c34955011de0" data-name="レイヤー 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1366 299">
+  <defs>
+    <style>
+      .bdb97eea-44af-44b3-b9e9-95752a415978, .f16a635e-aaa0-4dfb-ad90-b61febe2efa3 {
+        fill: none;
+      }
+
+      .ec76d0b3-fb87-4fef-b594-3110b752f0f0 {
+        clip-path: url(#ec1e0c55-8091-445a-9956-a9155dba8cbc);
+      }
+
+      .b6bf8f37-0b42-408c-903e-b28c8a62fdd0, .be6c87ac-5bf1-4343-9899-807e2eb00f5a {
+        font-size: 26px;
+        letter-spacing: 0.1em;
+      }
+
+      .be6c87ac-5bf1-4343-9899-807e2eb00f5a {
+        fill: #007b43;
+      }
+
+      .f5209b19-2b60-4a74-8e2b-4788aad7edd3 {
+        font-size: 28px;
+        font-family: FutoGoB101Pr6N-Bold, FutoGoB101Pr6N Bold-83pv-RKSJ-H;
+        font-weight: 700;
+        letter-spacing: 0.1em;
+      }
+
+      .fc5d8b73-9fba-4c96-9c4b-88a40bc094e7 {
+        letter-spacing: 0.35em;
+      }
+
+      .bcf36c63-0eb5-4d1f-a4a9-fb04c8df403b {
+        letter-spacing: 0.35em;
+      }
+
+      .bdb97eea-44af-44b3-b9e9-95752a415978 {
+        stroke: #007b43;
+        stroke-miterlimit: 10;
+      }
+
+      .b6bf8f37-0b42-408c-903e-b28c8a62fdd0 {
+        font-family: HiraMinPro-W6-83pv-RKSJ-H, Hiragino Mincho Pro;
+      }
+
+      .e5fba744-cf0a-4b58-87fd-b7ca83252e99 {
+        letter-spacing: 0.35em;
+      }
+
+      .a37a9fb9-a1f8-4276-a286-b377bf5ad3aa {
+        letter-spacing: 0.1em;
+      }
+
+      .a408168b-b921-49d9-a1a8-e20ba7d29a4b {
+        letter-spacing: 0.35em;
+      }
+    </style>
+    <clipPath id="ec1e0c55-8091-445a-9956-a9155dba8cbc">
+      <rect class="f16a635e-aaa0-4dfb-ad90-b61febe2efa3" x="-24" y="-585" width="1403" height="471"/>
+    </clipPath>
+  </defs>
+  <g class="ec76d0b3-fb87-4fef-b594-3110b752f0f0">
+    <image width="1980" height="850" transform="translate(-97.06 -512.86) scale(0.79)" xlink:href="http://3.112.250.183/wp-content/uploads/2021/11/pixta_76898798_XL.jpg"/>
+  </g>
+  <text class="be6c87ac-5bf1-4343-9899-807e2eb00f5a" transform="translate(243.21 74.49)">EDUCATION 01</text>
+  <text class="f5209b19-2b60-4a74-8e2b-4788aad7edd3" transform="translate(242.95 119.21)">小中高向<tspan class="fc5d8b73-9fba-4c96-9c4b-88a40bc094e7" x="123.2" y="0">け</tspan><tspan x="161" y="0">I</tspan><tspan class="bcf36c63-0eb5-4d1f-a4a9-fb04c8df403b" x="170.91" y="0">T</tspan><tspan x="195.52" y="0">リテラシー教育</tspan></text>
+  <line class="bdb97eea-44af-44b3-b9e9-95752a415978" x1="214.85" y1="54.74" x2="182.85" y2="86.74"/>
+  <text class="b6bf8f37-0b42-408c-903e-b28c8a62fdd0" transform="translate(183.73 209.35)">学校の総合的な学習の時間を活用し<tspan x="0" y="45.5">専門家による情報リテラシーの講義およ</tspan><tspan class="e5fba744-cf0a-4b58-87fd-b7ca83252e99" x="514.8" y="45.5">び</tspan><tspan class="a37a9fb9-a1f8-4276-a286-b377bf5ad3aa" x="549.9" y="45.5">STEA</tspan><tspan class="e5fba744-cf0a-4b58-87fd-b7ca83252e99" x="631.51" y="45.5">M</tspan><tspan class="a37a9fb9-a1f8-4276-a286-b377bf5ad3aa" x="665.96" y="45.5">教</tspan><tspan class="a408168b-b921-49d9-a1a8-e20ba7d29a4b" x="694.56" y="45.5">育×</tspan><tspan class="a37a9fb9-a1f8-4276-a286-b377bf5ad3aa" x="756.57" y="45.5">探求学習</tspan></text>
+</svg>

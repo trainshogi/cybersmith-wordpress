@@ -741,12 +741,12 @@
   <text class="adf5a62f-538f-42a1-a65d-5f9ee7eead02" transform="translate(283.41 315.92)">社会には多くの課題が存在しています<tspan class="a90e9ac6-5af0-4aca-ba7d-a94720ec4913" x="448.8" y="0">。</tspan><tspan x="0" y="42">課題がある限り、私たちに求められることが減ることはありません</tspan><tspan class="a90e9ac6-5af0-4aca-ba7d-a94720ec4913" x="792" y="42">。</tspan><tspan x="0" y="84">そして、課題が変われば形を変えて必要なモノやコトは変わります</tspan><tspan class="a90e9ac6-5af0-4aca-ba7d-a94720ec4913" x="792" y="84">。</tspan><tspan x="0" y="126">サイバースミスは、常に社会課題と向き合っています</tspan><tspan class="a90e9ac6-5af0-4aca-ba7d-a94720ec4913" x="633.6" y="126">。</tspan></text>
   <line class="b3447805-6f56-4306-b5eb-9ec49e911c5b" x1="657" y1="92" x2="707" y2="92"/>
   <g class="b3a69de9-ab1f-46cd-8454-ee7d9f97d260">
-    <image width="5472" height="3648" transform="translate(-12 -844) scale(0.25)" xlink:href="<?php bloginfo('template_directory'); ?>/images/pixta_73651589_XL.jpg"/>
+    <image width="5472" height="3648" transform="translate(-12 -844) scale(0.25)" xlink:href="http://3.112.250.183/wp-content/uploads/2021/11/pixta_73651589_XL.jpg"/>
   </g>
   <text class="f1c8a07c-a525-47eb-b8e4-6e67279f8591" transform="translate(494.8 221.68)">選ばれる理由</text>
   <text class="a59d282d-b29d-4214-aa2b-f17d184d6d20" transform="translate(613.55 153.12)">POINT</text>
   <g class="efc74312-e499-4230-918b-9e528d7341ad">
-    <image width="5340" height="3372" transform="translate(-23 829) scale(0.26)" xlink:href="<?php bloginfo('template_directory'); ?>/images/pixta_75302066_XL.jpg"/>
+    <image width="5340" height="3372" transform="translate(-23 829) scale(0.26)" xlink:href="http://3.112.250.183/wp-content/uploads/2021/11/pixta_75302066_XL.jpg"/>
   </g>
   <g>
     <g>
