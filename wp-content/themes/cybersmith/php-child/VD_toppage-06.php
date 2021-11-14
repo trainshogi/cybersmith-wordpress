@@ -1,6 +1,19 @@
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1359 2744">
   <defs>
     <style>
+      .horizontal-list {
+        padding: 5px; 
+        margin: 0; 
+        display: flex;  
+        overflow-x: auto; 
+        white-space: nowrap;
+        -webkit-overflow-scrolling: touch;
+        -ms-overflow-style: none;    /* IE, Edge 対応 */
+        scrollbar-width: none;       /* Firefox 対応 */
+      }
+      .horizontal-list::-webkit-scrollbar {  /* Chrome, Safari 対応 */
+          display:none;
+      }
       .f18b8354-4cbb-4830-b7ad-5b6cb73e61ab {
         isolation: isolate;
       }
@@ -570,7 +583,7 @@
       <line class="b5be9573-6c3f-49bc-ab72-e63548b6f3e1" x1="310" y1="538.5" x2="432" y2="538.5"/>
       <image width="7135" height="4759" transform="translate(657 2207) scale(0.06)" xlink:href="http://3.112.250.183/wp-content/uploads/2021/11/pixta_58735719_XL.jpg"/>
       <g>
-        <image class="fea957e9-e37a-4b55-9d1a-7a0cd7b0bb2d" width="319" height="319" transform="translate(787 1061)" xlink:href="<?php bloginfo('template_directory'); ?>/images/VD_toppage1.png"/>
+        <image class="fea957e9-e37a-4b55-9d1a-7a0cd7b0bb2d" width="319" height="319" transform="translate(787 1061)" xlink:href="http://3.112.250.183/wp-content/uploads/2021/11/VD_toppage1.png"/>
         <rect class="e54918f9-fe2d-4108-b4ce-52ea2d5c7f61" x="796.66" y="1070.55" width="300" height="300" rx="5.89"/>
       </g>
       <text class="ab4ae765-d730-4c8b-8420-b93148955067" transform="translate(811.47 1113.44)">SAP(BASIS<tspan class="bd785351-1d18-43e1-bae4-875f6a474ad7" x="153.26" y="0">)</tspan><tspan x="170.21" y="0">システム</tspan><tspan x="0" y="42">構築支援</tspan></text>
@@ -590,7 +603,7 @@
       </g>
       <text class="a7b2b118-2b21-476a-9898-fd5ce72aeeeb" transform="translate(851.31 1346.51)">VIEW MORE</text>
       <g>
-        <image class="fea957e9-e37a-4b55-9d1a-7a0cd7b0bb2d" width="319" height="319" transform="translate(1116 1061)" xlink:href="<?php bloginfo('template_directory'); ?>/images/VD_toppage2.png"/>
+        <image class="fea957e9-e37a-4b55-9d1a-7a0cd7b0bb2d" width="319" height="319" transform="translate(1116 1061)" xlink:href="http://3.112.250.183/wp-content/uploads/2021/11/VD_toppage2.png"/>
         <rect class="e54918f9-fe2d-4108-b4ce-52ea2d5c7f61" x="1125.66" y="1070.55" width="300" height="300" rx="5.89"/>
       </g>
       <text class="ab4ae765-d730-4c8b-8420-b93148955067" transform="translate(1140.47 1113.44)">SAP(BASIS<tspan class="bd785351-1d18-43e1-bae4-875f6a474ad7" x="153.26" y="0">)</tspan><tspan x="170.21" y="0">システム</tspan><tspan x="0" y="42">構築支援</tspan></text>
@@ -609,86 +622,23 @@
         </g>
       </g>
       <text class="a7b2b118-2b21-476a-9898-fd5ce72aeeeb" transform="translate(1180.31 1346.51)">VIEW MORE</text>
-      <g>
-        <image class="fea957e9-e37a-4b55-9d1a-7a0cd7b0bb2d" width="319" height="319" transform="translate(134 1534)" xlink:href="<?php bloginfo('template_directory'); ?>/images/VD_toppage3.png"/>
-        <rect class="e54918f9-fe2d-4108-b4ce-52ea2d5c7f61" x="143.21" y="1543.33" width="300" height="300" rx="5.89"/>
-      </g>
-      <g>
-        <rect class="aa23ba53-2fef-422e-95d5-5167882cfe2e" x="163.55" y="1801.01" width="22.65" height="22.65" rx="5.81"/>
-        <g>
-          <g>
-            <rect class="e54918f9-fe2d-4108-b4ce-52ea2d5c7f61" x="174.96" y="1810.92" width="1.25" height="6.59" transform="translate(-983.09 3221.22) rotate(-135)"/>
-            <path class="e54918f9-fe2d-4108-b4ce-52ea2d5c7f61" d="M173.71,1817.32a.34.34,0,0,1-.24-.09l-.89-.89a.33.33,0,0,1,0-.47l4.66-4.66a.33.33,0,0,1,.47,0l.89.89a.33.33,0,0,1,0,.47l-4.66,4.66A.33.33,0,0,1,173.71,1817.32Zm-.42-1.22.42.42,4.18-4.19-.41-.41Z"/>
-          </g>
-          <g>
-            <rect class="e54918f9-fe2d-4108-b4ce-52ea2d5c7f61" x="174.96" y="1807.15" width="1.25" height="6.59" transform="translate(-1228.75 654.43) rotate(-45)"/>
-            <path class="e54918f9-fe2d-4108-b4ce-52ea2d5c7f61" d="M177.48,1813.55h0a.34.34,0,0,1-.24-.09l-4.66-4.66a.33.33,0,0,1,0-.47l.89-.89a.33.33,0,0,1,.47,0l4.66,4.66a.33.33,0,0,1,0,.47l-.89.89A.33.33,0,0,1,177.48,1813.55Zm-4.19-5,4.19,4.19.41-.42-4.18-4.18Z"/>
-          </g>
-        </g>
-      </g>
-      <text class="a7b2b118-2b21-476a-9898-fd5ce72aeeeb" transform="translate(197.86 1819.3)">VIEW MORE</text>
-      <g>
-        <image class="fea957e9-e37a-4b55-9d1a-7a0cd7b0bb2d" width="319" height="319" transform="translate(477 1534)" xlink:href="<?php bloginfo('template_directory'); ?>/images/VD_toppage4.png"/>
-        <rect class="e54918f9-fe2d-4108-b4ce-52ea2d5c7f61" x="486.21" y="1543.33" width="300" height="300" rx="5.89"/>
-      </g>
-      <g>
-        <rect class="aa23ba53-2fef-422e-95d5-5167882cfe2e" x="506.55" y="1801.01" width="22.65" height="22.65" rx="5.81"/>
-        <g>
-          <g>
-            <rect class="e54918f9-fe2d-4108-b4ce-52ea2d5c7f61" x="517.96" y="1810.92" width="1.25" height="6.59" transform="translate(-397.56 3463.76) rotate(-135)"/>
-            <path class="e54918f9-fe2d-4108-b4ce-52ea2d5c7f61" d="M516.71,1817.32a.34.34,0,0,1-.24-.09l-.89-.89a.33.33,0,0,1,0-.47l4.66-4.66a.33.33,0,0,1,.47,0l.89.89a.33.33,0,0,1,0,.47l-4.66,4.66A.33.33,0,0,1,516.71,1817.32Zm-.42-1.22.42.42,4.18-4.19-.41-.41Z"/>
-          </g>
-          <g>
-            <rect class="e54918f9-fe2d-4108-b4ce-52ea2d5c7f61" x="517.96" y="1807.15" width="1.25" height="6.59" transform="translate(-1128.29 896.97) rotate(-45)"/>
-            <path class="e54918f9-fe2d-4108-b4ce-52ea2d5c7f61" d="M520.48,1813.55h0a.34.34,0,0,1-.24-.09l-4.66-4.66a.33.33,0,0,1,0-.47l.89-.89a.33.33,0,0,1,.47,0l4.66,4.66a.33.33,0,0,1,0,.47l-.89.89A.33.33,0,0,1,520.48,1813.55Zm-4.19-5,4.19,4.19.41-.42-4.18-4.18Z"/>
-          </g>
-        </g>
-      </g>
-      <text class="a7b2b118-2b21-476a-9898-fd5ce72aeeeb" transform="translate(540.86 1819.3)">VIEW MORE</text>
-      <g>
-        <image class="fea957e9-e37a-4b55-9d1a-7a0cd7b0bb2d" width="319" height="319" transform="translate(820 1534)" xlink:href="<?php bloginfo('template_directory'); ?>/images/VD_toppage5.png"/>
-        <rect class="e54918f9-fe2d-4108-b4ce-52ea2d5c7f61" x="829.21" y="1543.33" width="300" height="300" rx="5.89"/>
-      </g>
-      <g>
-        <rect class="aa23ba53-2fef-422e-95d5-5167882cfe2e" x="849.55" y="1801.01" width="22.65" height="22.65" rx="5.81"/>
-        <g>
-          <g>
-            <rect class="e54918f9-fe2d-4108-b4ce-52ea2d5c7f61" x="860.96" y="1810.92" width="1.25" height="6.59" transform="translate(187.98 3706.3) rotate(-135)"/>
-            <path class="e54918f9-fe2d-4108-b4ce-52ea2d5c7f61" d="M859.71,1817.32a.34.34,0,0,1-.24-.09l-.89-.89a.33.33,0,0,1,0-.47l4.66-4.66a.33.33,0,0,1,.47,0l.89.89a.33.33,0,0,1,0,.47l-4.66,4.66A.33.33,0,0,1,859.71,1817.32Zm-.42-1.22.42.42,4.18-4.19-.41-.41Z"/>
-          </g>
-          <g>
-            <rect class="e54918f9-fe2d-4108-b4ce-52ea2d5c7f61" x="860.96" y="1807.15" width="1.25" height="6.59" transform="translate(-1027.83 1139.5) rotate(-45)"/>
-            <path class="e54918f9-fe2d-4108-b4ce-52ea2d5c7f61" d="M863.48,1813.55h0a.34.34,0,0,1-.24-.09l-4.66-4.66a.33.33,0,0,1,0-.47l.89-.89a.33.33,0,0,1,.47,0l4.66,4.66a.33.33,0,0,1,0,.47l-.89.89A.33.33,0,0,1,863.48,1813.55Zm-4.19-5,4.19,4.19.41-.42-4.18-4.18Z"/>
-          </g>
-        </g>
-      </g>
-      <text class="a7b2b118-2b21-476a-9898-fd5ce72aeeeb" transform="translate(883.86 1819.3)">VIEW MORE</text>
-      <g>
-        <image class="fea957e9-e37a-4b55-9d1a-7a0cd7b0bb2d" width="319" height="319" transform="translate(1163 1534)" xlink:href="<?php bloginfo('template_directory'); ?>/images/VD_toppage6.png"/>
-        <rect class="e54918f9-fe2d-4108-b4ce-52ea2d5c7f61" x="1172.21" y="1543.33" width="300" height="300" rx="5.89"/>
-      </g>
-      <g>
-        <rect class="aa23ba53-2fef-422e-95d5-5167882cfe2e" x="1192.55" y="1801.01" width="22.65" height="22.65" rx="5.81"/>
-        <g>
-          <g>
-            <rect class="e54918f9-fe2d-4108-b4ce-52ea2d5c7f61" x="1203.96" y="1810.92" width="1.25" height="6.59" transform="translate(773.52 3948.84) rotate(-135)"/>
-            <path class="e54918f9-fe2d-4108-b4ce-52ea2d5c7f61" d="M1202.71,1817.32a.34.34,0,0,1-.24-.09l-.89-.89a.33.33,0,0,1,0-.47l4.66-4.66a.33.33,0,0,1,.47,0l.89.89a.33.33,0,0,1,0,.47l-4.66,4.66A.33.33,0,0,1,1202.71,1817.32Zm-.42-1.22.42.42,4.18-4.19-.41-.41Z"/>
-          </g>
-          <g>
-            <rect class="e54918f9-fe2d-4108-b4ce-52ea2d5c7f61" x="1203.96" y="1807.15" width="1.25" height="6.59" transform="translate(-927.36 1382.04) rotate(-45)"/>
-            <path class="e54918f9-fe2d-4108-b4ce-52ea2d5c7f61" d="M1206.48,1813.55h0a.34.34,0,0,1-.24-.09l-4.66-4.66a.33.33,0,0,1,0-.47l.89-.89a.33.33,0,0,1,.47,0l4.66,4.66a.33.33,0,0,1,0,.47l-.89.89A.33.33,0,0,1,1206.48,1813.55Zm-4.19-5,4.19,4.19.41-.42-4.18-4.18Z"/>
-          </g>
-        </g>
-      </g>
-      <text class="a7b2b118-2b21-476a-9898-fd5ce72aeeeb" transform="translate(1226.86 1819.3)">VIEW MORE</text>
-      <text class="ab4ae765-d730-4c8b-8420-b93148955067" transform="translate(159.06 1584.98)">次世代人材に期待され<tspan x="0" y="42">る能力とは？</tspan></text>
-      <text class="ae317213-a227-443e-a950-a6d0e433a64b" transform="translate(162.18 1678.6)">日本<tspan class="ad9c3af5-cf7c-453e-94ef-1165e661f3af" x="30.8" y="0">の</tspan><tspan x="49.7" y="0">D</tspan><tspan class="ba326adf-3f50-426c-b9f4-b42534572153" x="61.71" y="0">X</tspan><tspan x="76.72" y="0">推進に対する最大のボトル</tspan><tspan x="0" y="24.5">ネック</tspan><tspan class="ba326adf-3f50-426c-b9f4-b42534572153" x="46.2" y="24.5">は</tspan><tspan x="65.1" y="24.5">AI・テクノロジー人材の育</tspan><tspan x="0" y="49">成とも言われており</tspan><tspan class="f072c0c3-7802-473a-b163-8ba7a2eebc0e" x="138.6" y="49">、</tspan><tspan x="144.43" y="49">「A</tspan><tspan class="ba326adf-3f50-426c-b9f4-b42534572153" x="171.73" y="49">I</tspan><tspan class="bdf8608a-c58c-454f-8d4c-ae09b53ab7bf" x="180.12" y="49">をつくる人</tspan><tspan class="b26ef298-c228-4389-b3fa-59b2b1a9a2b6" x="257.12" y="49">」</tspan><tspan x="0" y="73.5">と同時に「AI」を使う人の育成が急務</tspan><tspan x="0" y="98">となっていま</tspan><tspan class="ba326adf-3f50-426c-b9f4-b42534572153" x="92.4" y="98">す</tspan><tspan class="bdf8608a-c58c-454f-8d4c-ae09b53ab7bf" x="111.3" y="98">...</tspan></text>
-      <text class="ab4ae765-d730-4c8b-8420-b93148955067" transform="translate(501.06 1584.98)">次世代人材に期待され<tspan x="0" y="42">る能力とは？</tspan></text>
-      <text class="ae317213-a227-443e-a950-a6d0e433a64b" transform="translate(504.18 1678.6)">日本<tspan class="ad9c3af5-cf7c-453e-94ef-1165e661f3af" x="30.8" y="0">の</tspan><tspan x="49.7" y="0">D</tspan><tspan class="ba326adf-3f50-426c-b9f4-b42534572153" x="61.71" y="0">X</tspan><tspan x="76.72" y="0">推進に対する最大のボトル</tspan><tspan x="0" y="24.5">ネック</tspan><tspan class="ba326adf-3f50-426c-b9f4-b42534572153" x="46.2" y="24.5">は</tspan><tspan x="65.1" y="24.5">AI・テクノロジー人材の育</tspan><tspan x="0" y="49">成とも言われており</tspan><tspan class="f072c0c3-7802-473a-b163-8ba7a2eebc0e" x="138.6" y="49">、</tspan><tspan x="144.43" y="49">「A</tspan><tspan class="ba326adf-3f50-426c-b9f4-b42534572153" x="171.73" y="49">I</tspan><tspan class="bdf8608a-c58c-454f-8d4c-ae09b53ab7bf" x="180.12" y="49">をつくる人</tspan><tspan class="b26ef298-c228-4389-b3fa-59b2b1a9a2b6" x="257.12" y="49">」</tspan><tspan x="0" y="73.5">と同時に「AI」を使う人の育成が急務</tspan><tspan x="0" y="98">となっていま</tspan><tspan class="ba326adf-3f50-426c-b9f4-b42534572153" x="92.4" y="98">す</tspan><tspan class="bdf8608a-c58c-454f-8d4c-ae09b53ab7bf" x="111.3" y="98">...</tspan></text>
-      <text class="ab4ae765-d730-4c8b-8420-b93148955067" transform="translate(843.06 1584.98)">次世代人材に期待され<tspan x="0" y="42">る能力とは？</tspan></text>
-      <text class="ae317213-a227-443e-a950-a6d0e433a64b" transform="translate(846.18 1678.6)">日本<tspan class="ad9c3af5-cf7c-453e-94ef-1165e661f3af" x="30.8" y="0">の</tspan><tspan x="49.7" y="0">D</tspan><tspan class="ba326adf-3f50-426c-b9f4-b42534572153" x="61.71" y="0">X</tspan><tspan x="76.72" y="0">推進に対する最大のボトル</tspan><tspan x="0" y="24.5">ネック</tspan><tspan class="ba326adf-3f50-426c-b9f4-b42534572153" x="46.2" y="24.5">は</tspan><tspan x="65.1" y="24.5">AI・テクノロジー人材の育</tspan><tspan x="0" y="49">成とも言われており</tspan><tspan class="f072c0c3-7802-473a-b163-8ba7a2eebc0e" x="138.6" y="49">、</tspan><tspan x="144.43" y="49">「A</tspan><tspan class="ba326adf-3f50-426c-b9f4-b42534572153" x="171.73" y="49">I</tspan><tspan class="bdf8608a-c58c-454f-8d4c-ae09b53ab7bf" x="180.12" y="49">をつくる人</tspan><tspan class="b26ef298-c228-4389-b3fa-59b2b1a9a2b6" x="257.12" y="49">」</tspan><tspan x="0" y="73.5">と同時に「AI」を使う人の育成が急務</tspan><tspan x="0" y="98">となっていま</tspan><tspan class="ba326adf-3f50-426c-b9f4-b42534572153" x="92.4" y="98">す</tspan><tspan class="bdf8608a-c58c-454f-8d4c-ae09b53ab7bf" x="111.3" y="98">...</tspan></text>
-      <text class="ab4ae765-d730-4c8b-8420-b93148955067" transform="translate(1185.06 1584.98)">次世代人材に期待され<tspan x="0" y="42">る能力とは？</tspan></text>
-      <text class="ae317213-a227-443e-a950-a6d0e433a64b" transform="translate(1188.18 1678.6)">日本<tspan class="ad9c3af5-cf7c-453e-94ef-1165e661f3af" x="30.8" y="0">の</tspan><tspan x="49.7" y="0">D</tspan><tspan class="ba326adf-3f50-426c-b9f4-b42534572153" x="61.71" y="0">X</tspan><tspan x="76.72" y="0">推進に対する最大のボトル</tspan><tspan x="0" y="24.5">ネック</tspan><tspan class="ba326adf-3f50-426c-b9f4-b42534572153" x="46.2" y="24.5">は</tspan><tspan x="65.1" y="24.5">AI・テクノロジー人材の育</tspan><tspan x="0" y="49">成とも言われており</tspan><tspan class="f072c0c3-7802-473a-b163-8ba7a2eebc0e" x="138.6" y="49">、</tspan><tspan x="144.43" y="49">「A</tspan><tspan class="ba326adf-3f50-426c-b9f4-b42534572153" x="171.73" y="49">I</tspan><tspan class="bdf8608a-c58c-454f-8d4c-ae09b53ab7bf" x="180.12" y="49">をつくる人</tspan><tspan class="b26ef298-c228-4389-b3fa-59b2b1a9a2b6" x="257.12" y="49">」</tspan><tspan x="0" y="73.5">と同時に「AI」を使う人の育成が急務</tspan><tspan x="0" y="98">となっていま</tspan><tspan class="ba326adf-3f50-426c-b9f4-b42534572153" x="92.4" y="98">す</tspan><tspan class="bdf8608a-c58c-454f-8d4c-ae09b53ab7bf" x="111.3" y="98">...</tspan></text>
+
+
+      <!--raw-->
+      <foreignObject transform="translate(134 1534)"  width="1270" height="319"
+                    requiredExtensions="http://www.w3.org/1999/xhtml">
+        <!-- XHTML content goes here -->
+        <body xmlns="http://www.w3.org/1999/xhtml">
+          <div class="horizontal-list">
+            <div style="display: inline-block; box-shadow: 0 0 10px 0; margin-right: 45px; height: 300px; width: 300px;"><img width="300" src="http://3.112.250.183/wp-content/uploads/2021/11/VD_toppage_seminer.svg" /></div>
+            <div style="display: inline-block; box-shadow: 0 0 10px 0; margin-right: 45px; height: 300px; width: 300px;"><img width="300" src="http://3.112.250.183/wp-content/uploads/2021/11/VD_toppage_seminer.svg" /></div>
+            <div style="display: inline-block; box-shadow: 0 0 10px 0; margin-right: 45px; height: 300px; width: 300px;"><img width="300" src="http://3.112.250.183/wp-content/uploads/2021/11/VD_toppage_seminer.svg" /></div>
+            <div style="display: inline-block; box-shadow: 0 0 10px 0; margin-right: 45px; height: 300px; width: 300px;"><img width="300" src="http://3.112.250.183/wp-content/uploads/2021/11/VD_toppage_seminer.svg" /></div>
+            <div style="display: inline-block; box-shadow: 0 0 10px 0; margin-right: 45px; height: 300px; width: 300px;"><img width="300" src="http://3.112.250.183/wp-content/uploads/2021/11/VD_toppage_seminer.svg" /></div>
+          </div>
+        </body>
+      </foreignObject>
+      <!--/raw-->
       <text class="bb0db636-8f07-4fc1-b7d8-47fcd596fcf3" transform="translate(145.28 2232.97)">EDUCATION</text>
       <g>
         <circle class="e6aea179-18a4-4dc2-8522-02e2cfdb85a4" cx="857.42" cy="454.05" r="249.82"/>
@@ -723,7 +673,7 @@
       <line class="a1919895-6b91-4526-9d7c-7901f51fd557" x1="825" y1="2415.5" x2="1055.17" y2="2415.5"/>
       <line class="a1919895-6b91-4526-9d7c-7901f51fd557" x1="924.68" y1="2443.25" x2="924.68" y2="2681.42"/>
       <g>
-        <image class="ee9ced84-4be8-4304-b3a0-0f71bd0f0e12" width="174" height="32" transform="translate(1040 739)" xlink:href="<?php bloginfo('template_directory'); ?>/images/VD_toppage7.png"/>
+        <image class="ee9ced84-4be8-4304-b3a0-0f71bd0f0e12" width="174" height="32" transform="translate(1040 739)" xlink:href="http://3.112.250.183/wp-content/uploads/2021/11/VD_toppage7.png"/>
         <path class="ee832dac-ebab-4456-94b9-d888522c1d6f" d="M1112.61,473.2a4.69,4.69,0,0,1,4.34-5.32c5-.6,9.52,7.16,5.48,11.26S1112,476.29,1112.61,473.2Z"/>
         <path class="b01bff1b-9e90-4b34-94a4-02ac910ae8aa" d="M1123.13,471.89a5.27,5.27,0,0,1-1.38,2.45c-3,3-7.22.05-9-3a5.84,5.84,0,0,0-.13,1.82c-.62,3.09,5.77,10,9.82,5.94C1124.41,477.13,1124.32,474.24,1123.13,471.89Z"/>
         <path class="aeaf146e-b678-4fb9-98eb-6602ba1e3d10" d="M1095.12,501.34c-12-4.12-33.19,48.8-39.71,48.93a4.44,4.44,0,0,1-1.26-.15c-7.17-1.92-12.25-19.3-21.77-35.4-2.91-4.92-12.34-4-9.32,9.85,5.37,24.58,12.76,52.32,34.24,50.55C1086.76,572.7,1109.63,506.33,1095.12,501.34Z"/>
@@ -763,7 +713,7 @@
       </g>
       <g>
         <path class="aeaf146e-b678-4fb9-98eb-6602ba1e3d10" d="M680.48,521.49s-4.67,25.49-31.55,23.4-16.74-27.44-2.74-29.49S680.48,521.49,680.48,521.49Z"/>
-        <image class="ee9ced84-4be8-4304-b3a0-0f71bd0f0e12" width="208" height="31" transform="translate(508 718)" xlink:href="<?php bloginfo('template_directory'); ?>/images/VD_toppage8.png"/>
+        <image class="ee9ced84-4be8-4304-b3a0-0f71bd0f0e12" width="208" height="31" transform="translate(508 718)" xlink:href="http://3.112.250.183/wp-content/uploads/2021/11/VD_toppage8.png"/>
         <path class="b01bff1b-9e90-4b34-94a4-02ac910ae8aa" d="M618.92,453.25s-2.06-15.69-24.51-15.25-41.56,8.66-43.08,17.09-7.73,92.12,7.74,102.38,67.19,11.86,66-17.72S618.92,453.25,618.92,453.25Z"/>
         <path class="b31052e8-7f3f-4ed0-b2e4-9f616bf5128e" d="M642,529.05c-23.52,4.38-47.57,2.87-56.87,2-.59,2.21-1.25,4.53-2,7-7.11,23-12.58,50.45-15.93,79.14C561.83,662.83,561,724.72,561,724.72s11,.24,15.4,0c0,0,14.93-76.94,22.11-99.73,1.46-4.65,2.67-14.71,5.63-24.41,4-13,9.84-26.23,11.69-33.21l5.93,63.25a61.48,61.48,0,0,0-3.28,19.06c0,14.9,6,75,6,75s6.22.2,13.35,0c0,0,28.48-148.73,20.57-174.11C656.13,543.47,644.85,536.05,642,529.05Z"/>
         <path class="b686f1d4-62c8-4800-aa9c-a45af7a214fd" d="M656.18,548c.09-15.51,2-63.52,2-63.52s-.63-12.61-1.89-23.1a19.86,19.86,0,0,0-14-16.66c-20.2-6.1-49.31-9.88-68.37,12.93-5.59,6.7,10.43,23.27,12.56,35.69,0,0,3,20-4.57,48.7C592.34,548.62,633.3,550.91,656.18,548Z"/>
@@ -811,7 +761,7 @@
         <path class="ee832dac-ebab-4456-94b9-d888522c1d6f" d="M554.41,481.27c9.94-16.1,19.86-25.5,26.47-25.12-5.34,6.49-15.39,19.32-18.49,27.46a157.2,157.2,0,0,0-5.23,17,38,38,0,0,1-10.31-6.59C549.31,489.53,552,485.25,554.41,481.27Z"/>
       </g>
       <g>
-        <image class="ee9ced84-4be8-4304-b3a0-0f71bd0f0e12" width="223" height="36" transform="translate(789 767)" xlink:href="<?php bloginfo('template_directory'); ?>/images/VD_toppage9.png"/>
+        <image class="ee9ced84-4be8-4304-b3a0-0f71bd0f0e12" width="223" height="36" transform="translate(789 767)" xlink:href="http://3.112.250.183/wp-content/uploads/2021/11/VD_toppage9.png"/>
         <g>
           <path class="b31052e8-7f3f-4ed0-b2e4-9f616bf5128e" d="M885.84,778.76c-1.36-2.31-1.17-4.87-2.13-8.12l-10-.6s2.3,4.51.92,6.42c-.6.83-11.39,5.26-11.61,6.44-.38,2,20.09,3.21,23.61,1.51C888.43,783.52,887.33,781.29,885.84,778.76Z"/>
           <path class="ee832dac-ebab-4456-94b9-d888522c1d6f" d="M885.45,777.82c-2.25.07-4.42,1.54-8,1.53-3.06,0-3.68-1.35-3.72-2.31-2.69,1.49-10.56,4.85-10.75,5.86-.38,2,20.09,3.21,23.61,1.51,1.84-.89.74-3.12-.75-5.65A3.34,3.34,0,0,1,885.45,777.82Z"/>
