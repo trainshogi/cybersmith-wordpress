@@ -1,0 +1,154 @@
+<svg id="b2f6dbd4-bb19-478f-8273-db2e4dc88a68" data-name="レイヤー 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 376 1028">
+  <defs>
+    <style>
+      .aa465ec7-8098-4f1b-b8a9-63ff1e70f108 {
+        font-size: 24px;
+        font-family: FutoGoB101Pr6N-Bold, FutoGoB101Pr6N Bold-83pv-RKSJ-H;
+        font-weight: 700;
+        letter-spacing: 0.1em;
+      }
+
+      .a542205d-9028-436f-ac31-9a68441da121, .aa717f99-ef38-485c-8334-ae0c1d49fb43 {
+        fill: #e3e3e3;
+        stroke: #b0b0b0;
+        stroke-miterlimit: 10;
+      }
+
+      .a542205d-9028-436f-ac31-9a68441da121 {
+        stroke-width: 0.84px;
+      }
+
+      .aa45666f-877e-41d6-ab9b-da06a39ba113 {
+        font-size: 16px;
+        font-family: HiraKakuProN-W6-83pv-RKSJ-H, Hiragino Kaku Gothic ProN;
+        letter-spacing: 0.1em;
+      }
+
+      .e7505ed6-49a3-4dd3-ab8b-e206c2f8d9d1 {
+        font-size: 14px;
+        font-family: HiraKakuProN-W3-83pv-RKSJ-H, Hiragino Kaku Gothic ProN;
+        letter-spacing: 0.1em;
+      }
+
+      .af196cdd-2486-47f4-a7f3-4e7e8eb3ac28 {
+        letter-spacing: -0.4em;
+      }
+
+      .fdbb7c8f-fa44-4ece-80a9-1d621b6eead4 {
+        fill: #83ccd2;
+      }
+
+      .aa717f99-ef38-485c-8334-ae0c1d49fb43 {
+        stroke-width: 1.21px;
+      }
+    </style>
+  </defs>
+  <text class="aa465ec7-8098-4f1b-b8a9-63ff1e70f108" transform="translate(133.7 50.82)">対応範囲</text>
+  <rect class="a542205d-9028-436f-ac31-9a68441da121" x="164.5" y="77.5" width="50" height="300" rx="4.21" transform="translate(417 38) rotate(90)"/>
+  <text class="aa45666f-877e-41d6-ab9b-da06a39ba113" transform="translate(110.3 233.84)">システム化の方向性</text>
+  <text class="e7505ed6-49a3-4dd3-ab8b-e206c2f8d9d1" transform="translate(29.77 121.98)">プロジェクトマネージメント、構想策定、要件<tspan x="0" y="24.5">定義、システム設計開発、テスト、運用保守と</tspan><tspan x="0" y="49">幅広くお任せください</tspan><tspan class="af196cdd-2486-47f4-a7f3-4e7e8eb3ac28" x="154" y="49">。</tspan></text>
+  <g>
+    <path class="fdbb7c8f-fa44-4ece-80a9-1d621b6eead4" d="M204.41,264.2a2.08,2.08,0,1,0-2.08,2.07A2.08,2.08,0,0,0,204.41,264.2Z"/>
+    <path class="fdbb7c8f-fa44-4ece-80a9-1d621b6eead4" d="M198,264.2a2.08,2.08,0,1,0-2.07,2.07A2.08,2.08,0,0,0,198,264.2Z"/>
+    <path class="fdbb7c8f-fa44-4ece-80a9-1d621b6eead4" d="M191.57,264.2a2.07,2.07,0,1,0-2.07,2.07A2.08,2.08,0,0,0,191.57,264.2Z"/>
+    <path class="fdbb7c8f-fa44-4ece-80a9-1d621b6eead4" d="M185.16,264.2a2.08,2.08,0,1,0-2.08,2.07A2.08,2.08,0,0,0,185.16,264.2Z"/>
+    <path class="fdbb7c8f-fa44-4ece-80a9-1d621b6eead4" d="M178.74,264.2a2.08,2.08,0,1,0-2.07,2.07A2.08,2.08,0,0,0,178.74,264.2Z"/>
+    <path class="fdbb7c8f-fa44-4ece-80a9-1d621b6eead4" d="M198,270.85a2.08,2.08,0,1,0-2.07,2.08A2.07,2.07,0,0,0,198,270.85Z"/>
+    <path class="fdbb7c8f-fa44-4ece-80a9-1d621b6eead4" d="M191.57,270.85a2.07,2.07,0,1,0-2.07,2.08A2.07,2.07,0,0,0,191.57,270.85Z"/>
+    <path class="fdbb7c8f-fa44-4ece-80a9-1d621b6eead4" d="M185.16,270.85a2.08,2.08,0,1,0-2.08,2.08A2.08,2.08,0,0,0,185.16,270.85Z"/>
+    <path class="fdbb7c8f-fa44-4ece-80a9-1d621b6eead4" d="M191.57,277.43a2.07,2.07,0,1,0-2.07,2.07A2.08,2.08,0,0,0,191.57,277.43Z"/>
+  </g>
+  <rect class="a542205d-9028-436f-ac31-9a68441da121" x="164.5" y="164.5" width="50" height="300" rx="4.21" transform="translate(504 125) rotate(90)"/>
+  <text class="aa45666f-877e-41d6-ab9b-da06a39ba113" transform="translate(129.3 320.84)">システム化計画</text>
+  <g>
+    <path class="fdbb7c8f-fa44-4ece-80a9-1d621b6eead4" d="M204.41,351.2a2.08,2.08,0,1,0-2.08,2.07A2.08,2.08,0,0,0,204.41,351.2Z"/>
+    <path class="fdbb7c8f-fa44-4ece-80a9-1d621b6eead4" d="M198,351.2a2.08,2.08,0,1,0-2.07,2.07A2.08,2.08,0,0,0,198,351.2Z"/>
+    <path class="fdbb7c8f-fa44-4ece-80a9-1d621b6eead4" d="M191.57,351.2a2.07,2.07,0,1,0-2.07,2.07A2.08,2.08,0,0,0,191.57,351.2Z"/>
+    <path class="fdbb7c8f-fa44-4ece-80a9-1d621b6eead4" d="M185.16,351.2a2.08,2.08,0,1,0-2.08,2.07A2.08,2.08,0,0,0,185.16,351.2Z"/>
+    <path class="fdbb7c8f-fa44-4ece-80a9-1d621b6eead4" d="M178.74,351.2a2.08,2.08,0,1,0-2.07,2.07A2.08,2.08,0,0,0,178.74,351.2Z"/>
+    <path class="fdbb7c8f-fa44-4ece-80a9-1d621b6eead4" d="M198,357.85a2.08,2.08,0,1,0-2.07,2.08A2.07,2.07,0,0,0,198,357.85Z"/>
+    <path class="fdbb7c8f-fa44-4ece-80a9-1d621b6eead4" d="M191.57,357.85a2.07,2.07,0,1,0-2.07,2.08A2.07,2.07,0,0,0,191.57,357.85Z"/>
+    <path class="fdbb7c8f-fa44-4ece-80a9-1d621b6eead4" d="M185.16,357.85a2.08,2.08,0,1,0-2.08,2.08A2.08,2.08,0,0,0,185.16,357.85Z"/>
+    <path class="fdbb7c8f-fa44-4ece-80a9-1d621b6eead4" d="M191.57,364.43a2.07,2.07,0,1,0-2.07,2.07A2.08,2.08,0,0,0,191.57,364.43Z"/>
+  </g>
+  <rect class="a542205d-9028-436f-ac31-9a68441da121" x="164.5" y="250.5" width="50" height="300" rx="4.21" transform="translate(590 211) rotate(90)"/>
+  <text class="aa45666f-877e-41d6-ab9b-da06a39ba113" transform="translate(154.3 406.84)">要件定義</text>
+  <g>
+    <path class="fdbb7c8f-fa44-4ece-80a9-1d621b6eead4" d="M204.41,437.2a2.08,2.08,0,1,0-2.08,2.07A2.08,2.08,0,0,0,204.41,437.2Z"/>
+    <path class="fdbb7c8f-fa44-4ece-80a9-1d621b6eead4" d="M198,437.2a2.08,2.08,0,1,0-2.07,2.07A2.08,2.08,0,0,0,198,437.2Z"/>
+    <path class="fdbb7c8f-fa44-4ece-80a9-1d621b6eead4" d="M191.57,437.2a2.07,2.07,0,1,0-2.07,2.07A2.08,2.08,0,0,0,191.57,437.2Z"/>
+    <path class="fdbb7c8f-fa44-4ece-80a9-1d621b6eead4" d="M185.16,437.2a2.08,2.08,0,1,0-2.08,2.07A2.08,2.08,0,0,0,185.16,437.2Z"/>
+    <path class="fdbb7c8f-fa44-4ece-80a9-1d621b6eead4" d="M178.74,437.2a2.08,2.08,0,1,0-2.07,2.07A2.08,2.08,0,0,0,178.74,437.2Z"/>
+    <path class="fdbb7c8f-fa44-4ece-80a9-1d621b6eead4" d="M198,443.85a2.08,2.08,0,1,0-2.07,2.08A2.07,2.07,0,0,0,198,443.85Z"/>
+    <path class="fdbb7c8f-fa44-4ece-80a9-1d621b6eead4" d="M191.57,443.85a2.07,2.07,0,1,0-2.07,2.08A2.07,2.07,0,0,0,191.57,443.85Z"/>
+    <path class="fdbb7c8f-fa44-4ece-80a9-1d621b6eead4" d="M185.16,443.85a2.08,2.08,0,1,0-2.08,2.08A2.08,2.08,0,0,0,185.16,443.85Z"/>
+    <path class="fdbb7c8f-fa44-4ece-80a9-1d621b6eead4" d="M191.57,450.43a2.07,2.07,0,1,0-2.07,2.07A2.08,2.08,0,0,0,191.57,450.43Z"/>
+  </g>
+  <rect class="a542205d-9028-436f-ac31-9a68441da121" x="164.5" y="336.5" width="50" height="300" rx="4.21" transform="translate(676 297) rotate(90)"/>
+  <text class="aa45666f-877e-41d6-ab9b-da06a39ba113" transform="translate(135.3 492.84)">システム設計</text>
+  <g>
+    <path class="fdbb7c8f-fa44-4ece-80a9-1d621b6eead4" d="M204.41,523.2a2.08,2.08,0,1,0-2.08,2.07A2.08,2.08,0,0,0,204.41,523.2Z"/>
+    <path class="fdbb7c8f-fa44-4ece-80a9-1d621b6eead4" d="M198,523.2a2.08,2.08,0,1,0-2.07,2.07A2.08,2.08,0,0,0,198,523.2Z"/>
+    <path class="fdbb7c8f-fa44-4ece-80a9-1d621b6eead4" d="M191.57,523.2a2.07,2.07,0,1,0-2.07,2.07A2.08,2.08,0,0,0,191.57,523.2Z"/>
+    <path class="fdbb7c8f-fa44-4ece-80a9-1d621b6eead4" d="M185.16,523.2a2.08,2.08,0,1,0-2.08,2.07A2.08,2.08,0,0,0,185.16,523.2Z"/>
+    <path class="fdbb7c8f-fa44-4ece-80a9-1d621b6eead4" d="M178.74,523.2a2.08,2.08,0,1,0-2.07,2.07A2.08,2.08,0,0,0,178.74,523.2Z"/>
+    <path class="fdbb7c8f-fa44-4ece-80a9-1d621b6eead4" d="M198,529.85a2.08,2.08,0,1,0-2.07,2.08A2.07,2.07,0,0,0,198,529.85Z"/>
+    <path class="fdbb7c8f-fa44-4ece-80a9-1d621b6eead4" d="M191.57,529.85a2.07,2.07,0,1,0-2.07,2.08A2.07,2.07,0,0,0,191.57,529.85Z"/>
+    <path class="fdbb7c8f-fa44-4ece-80a9-1d621b6eead4" d="M185.16,529.85a2.08,2.08,0,1,0-2.08,2.08A2.08,2.08,0,0,0,185.16,529.85Z"/>
+    <path class="fdbb7c8f-fa44-4ece-80a9-1d621b6eead4" d="M191.57,536.43a2.07,2.07,0,1,0-2.07,2.07A2.08,2.08,0,0,0,191.57,536.43Z"/>
+  </g>
+  <rect class="a542205d-9028-436f-ac31-9a68441da121" x="164.5" y="565.5" width="50" height="300" rx="4.21" transform="translate(905 526) rotate(90)"/>
+  <text class="aa45666f-877e-41d6-ab9b-da06a39ba113" transform="translate(127.3 721.84)">システムテスト</text>
+  <g>
+    <path class="fdbb7c8f-fa44-4ece-80a9-1d621b6eead4" d="M204.41,752.2a2.08,2.08,0,1,0-2.08,2.07A2.08,2.08,0,0,0,204.41,752.2Z"/>
+    <path class="fdbb7c8f-fa44-4ece-80a9-1d621b6eead4" d="M198,752.2a2.08,2.08,0,1,0-2.07,2.07A2.08,2.08,0,0,0,198,752.2Z"/>
+    <path class="fdbb7c8f-fa44-4ece-80a9-1d621b6eead4" d="M191.57,752.2a2.07,2.07,0,1,0-2.07,2.07A2.08,2.08,0,0,0,191.57,752.2Z"/>
+    <path class="fdbb7c8f-fa44-4ece-80a9-1d621b6eead4" d="M185.16,752.2a2.08,2.08,0,1,0-2.08,2.07A2.08,2.08,0,0,0,185.16,752.2Z"/>
+    <path class="fdbb7c8f-fa44-4ece-80a9-1d621b6eead4" d="M178.74,752.2a2.08,2.08,0,1,0-2.07,2.07A2.08,2.08,0,0,0,178.74,752.2Z"/>
+    <path class="fdbb7c8f-fa44-4ece-80a9-1d621b6eead4" d="M198,758.85a2.08,2.08,0,1,0-2.07,2.08A2.07,2.07,0,0,0,198,758.85Z"/>
+    <path class="fdbb7c8f-fa44-4ece-80a9-1d621b6eead4" d="M191.57,758.85a2.07,2.07,0,1,0-2.07,2.08A2.07,2.07,0,0,0,191.57,758.85Z"/>
+    <path class="fdbb7c8f-fa44-4ece-80a9-1d621b6eead4" d="M185.16,758.85a2.08,2.08,0,1,0-2.08,2.08A2.08,2.08,0,0,0,185.16,758.85Z"/>
+    <path class="fdbb7c8f-fa44-4ece-80a9-1d621b6eead4" d="M191.57,765.43a2.07,2.07,0,1,0-2.07,2.07A2.08,2.08,0,0,0,191.57,765.43Z"/>
+  </g>
+  <rect class="a542205d-9028-436f-ac31-9a68441da121" x="164.5" y="652.5" width="50" height="300" rx="4.21" transform="translate(992 613) rotate(90)"/>
+  <text class="aa45666f-877e-41d6-ab9b-da06a39ba113" transform="translate(147.3 808.84)">運用テスト</text>
+  <g>
+    <path class="fdbb7c8f-fa44-4ece-80a9-1d621b6eead4" d="M204.41,839.2a2.08,2.08,0,1,0-2.08,2.07A2.08,2.08,0,0,0,204.41,839.2Z"/>
+    <path class="fdbb7c8f-fa44-4ece-80a9-1d621b6eead4" d="M198,839.2a2.08,2.08,0,1,0-2.07,2.07A2.08,2.08,0,0,0,198,839.2Z"/>
+    <path class="fdbb7c8f-fa44-4ece-80a9-1d621b6eead4" d="M191.57,839.2a2.07,2.07,0,1,0-2.07,2.07A2.08,2.08,0,0,0,191.57,839.2Z"/>
+    <path class="fdbb7c8f-fa44-4ece-80a9-1d621b6eead4" d="M185.16,839.2a2.08,2.08,0,1,0-2.08,2.07A2.08,2.08,0,0,0,185.16,839.2Z"/>
+    <path class="fdbb7c8f-fa44-4ece-80a9-1d621b6eead4" d="M178.74,839.2a2.08,2.08,0,1,0-2.07,2.07A2.08,2.08,0,0,0,178.74,839.2Z"/>
+    <path class="fdbb7c8f-fa44-4ece-80a9-1d621b6eead4" d="M198,845.85a2.08,2.08,0,1,0-2.07,2.08A2.07,2.07,0,0,0,198,845.85Z"/>
+    <path class="fdbb7c8f-fa44-4ece-80a9-1d621b6eead4" d="M191.57,845.85a2.07,2.07,0,1,0-2.07,2.08A2.07,2.07,0,0,0,191.57,845.85Z"/>
+    <path class="fdbb7c8f-fa44-4ece-80a9-1d621b6eead4" d="M185.16,845.85a2.08,2.08,0,1,0-2.08,2.08A2.08,2.08,0,0,0,185.16,845.85Z"/>
+    <path class="fdbb7c8f-fa44-4ece-80a9-1d621b6eead4" d="M191.57,852.43a2.07,2.07,0,1,0-2.07,2.07A2.08,2.08,0,0,0,191.57,852.43Z"/>
+  </g>
+  <rect class="a542205d-9028-436f-ac31-9a68441da121" x="164.5" y="740.5" width="50" height="300" rx="4.21" transform="translate(1080 701) rotate(90)"/>
+  <text class="aa45666f-877e-41d6-ab9b-da06a39ba113" transform="translate(172.3 896.84)">運用</text>
+  <g>
+    <path class="fdbb7c8f-fa44-4ece-80a9-1d621b6eead4" d="M204.41,927.2a2.08,2.08,0,1,0-2.08,2.07A2.08,2.08,0,0,0,204.41,927.2Z"/>
+    <path class="fdbb7c8f-fa44-4ece-80a9-1d621b6eead4" d="M198,927.2a2.08,2.08,0,1,0-2.07,2.07A2.08,2.08,0,0,0,198,927.2Z"/>
+    <path class="fdbb7c8f-fa44-4ece-80a9-1d621b6eead4" d="M191.57,927.2a2.07,2.07,0,1,0-2.07,2.07A2.08,2.08,0,0,0,191.57,927.2Z"/>
+    <path class="fdbb7c8f-fa44-4ece-80a9-1d621b6eead4" d="M185.16,927.2a2.08,2.08,0,1,0-2.08,2.07A2.08,2.08,0,0,0,185.16,927.2Z"/>
+    <path class="fdbb7c8f-fa44-4ece-80a9-1d621b6eead4" d="M178.74,927.2a2.08,2.08,0,1,0-2.07,2.07A2.08,2.08,0,0,0,178.74,927.2Z"/>
+    <path class="fdbb7c8f-fa44-4ece-80a9-1d621b6eead4" d="M198,933.85a2.08,2.08,0,1,0-2.07,2.08A2.07,2.07,0,0,0,198,933.85Z"/>
+    <path class="fdbb7c8f-fa44-4ece-80a9-1d621b6eead4" d="M191.57,933.85a2.07,2.07,0,1,0-2.07,2.08A2.07,2.07,0,0,0,191.57,933.85Z"/>
+    <path class="fdbb7c8f-fa44-4ece-80a9-1d621b6eead4" d="M185.16,933.85a2.08,2.08,0,1,0-2.08,2.08A2.08,2.08,0,0,0,185.16,933.85Z"/>
+    <path class="fdbb7c8f-fa44-4ece-80a9-1d621b6eead4" d="M191.57,940.43a2.07,2.07,0,1,0-2.07,2.07A2.08,2.08,0,0,0,191.57,940.43Z"/>
+  </g>
+  <rect class="a542205d-9028-436f-ac31-9a68441da121" x="164.5" y="829.5" width="50" height="300" rx="4.21" transform="translate(1169 790) rotate(90)"/>
+  <text class="aa45666f-877e-41d6-ab9b-da06a39ba113" transform="translate(172.3 985.84)">保守</text>
+  <rect class="aa717f99-ef38-485c-8334-ae0c1d49fb43" x="137.5" y="449.5" width="104" height="300" rx="6.07" transform="translate(789 410) rotate(90)"/>
+  <text class="aa45666f-877e-41d6-ab9b-da06a39ba113" transform="translate(111.9 578.84)">ソフトウェアテスト<tspan x="17.6" y="28">プログラミング</tspan><tspan x="8.8" y="56">ソフトウェア設計</tspan></text>
+  <g>
+    <path class="fdbb7c8f-fa44-4ece-80a9-1d621b6eead4" d="M204.41,664.2a2.08,2.08,0,1,0-2.08,2.07A2.08,2.08,0,0,0,204.41,664.2Z"/>
+    <path class="fdbb7c8f-fa44-4ece-80a9-1d621b6eead4" d="M198,664.2a2.08,2.08,0,1,0-2.07,2.07A2.08,2.08,0,0,0,198,664.2Z"/>
+    <path class="fdbb7c8f-fa44-4ece-80a9-1d621b6eead4" d="M191.57,664.2a2.07,2.07,0,1,0-2.07,2.07A2.08,2.08,0,0,0,191.57,664.2Z"/>
+    <path class="fdbb7c8f-fa44-4ece-80a9-1d621b6eead4" d="M185.16,664.2a2.08,2.08,0,1,0-2.08,2.07A2.08,2.08,0,0,0,185.16,664.2Z"/>
+    <path class="fdbb7c8f-fa44-4ece-80a9-1d621b6eead4" d="M178.74,664.2a2.08,2.08,0,1,0-2.07,2.07A2.08,2.08,0,0,0,178.74,664.2Z"/>
+    <path class="fdbb7c8f-fa44-4ece-80a9-1d621b6eead4" d="M198,670.85a2.08,2.08,0,1,0-2.07,2.08A2.07,2.07,0,0,0,198,670.85Z"/>
+    <path class="fdbb7c8f-fa44-4ece-80a9-1d621b6eead4" d="M191.57,670.85a2.07,2.07,0,1,0-2.07,2.08A2.07,2.07,0,0,0,191.57,670.85Z"/>
+    <path class="fdbb7c8f-fa44-4ece-80a9-1d621b6eead4" d="M185.16,670.85a2.08,2.08,0,1,0-2.08,2.08A2.08,2.08,0,0,0,185.16,670.85Z"/>
+    <path class="fdbb7c8f-fa44-4ece-80a9-1d621b6eead4" d="M191.57,677.43a2.07,2.07,0,1,0-2.07,2.07A2.08,2.08,0,0,0,191.57,677.43Z"/>
+  </g>
+</svg>

@@ -1,0 +1,37 @@
+<svg id="a8267357-e521-43ea-b133-a296f439cafc" data-name="レイヤー 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 375 420">
+  <defs>
+    <style>
+      .b805967c-144d-4b49-a3c9-e02c9d14d7ea {
+        fill: #fff;
+      }
+
+      .f5c02385-aecc-40f3-8c0c-b3a1d3f91a07 {
+        opacity: 0.3;
+      }
+
+      .b6d4471d-07f8-4065-9a91-951c555fbac5 {
+        fill: #dc4335;
+      }
+
+      .b59221ca-5d82-4900-8817-4ee0a53a810b {
+        fill: none;
+        stroke: #000;
+        stroke-miterlimit: 10;
+      }
+
+      .e9f711f5-0c30-4613-a892-a1f66d073336 {
+        font-size: 18px;
+        font-family: KozGoPr6N-Bold-83pv-RKSJ-H, Kozuka Gothic Pr6N;
+      }
+    </style>
+  </defs>
+  <image width="1980" height="1320" transform="translate(-277 -168) scale(0.49)" xlink:href="http://3.112.250.183/wp-content/uploads/2021/11/pixta_78855920_XL.jpg"/>
+  <rect class="b805967c-144d-4b49-a3c9-e02c9d14d7ea" x="20.95" y="21.91" width="337" height="75" rx="10"/>
+  <g class="f5c02385-aecc-40f3-8c0c-b3a1d3f91a07">
+    <path class="b6d4471d-07f8-4065-9a91-951c555fbac5" d="M348,21.91a10,10,0,0,1,10,10v55a10,10,0,0,1-10,10H31a10,10,0,0,1-10-10v-55a10,10,0,0,1,10-10H348m0-5H31a15,15,0,0,0-15,15v55a15,15,0,0,0,15,15H348a15,15,0,0,0,15-15v-55a15,15,0,0,0-15-15Z"/>
+  </g>
+  <line class="b59221ca-5d82-4900-8817-4ee0a53a810b" x1="51.95" y1="53.91" x2="89.95" y2="53.91"/>
+  <line class="b59221ca-5d82-4900-8817-4ee0a53a810b" x1="51.95" y1="62.41" x2="89.95" y2="62.41"/>
+  <line class="b59221ca-5d82-4900-8817-4ee0a53a810b" x1="51.95" y1="71.41" x2="89.95" y2="71.41"/>
+  <text class="e9f711f5-0c30-4613-a892-a1f66d073336" transform="translate(162.57 69.93)">サイバースミス</text>
+</svg>

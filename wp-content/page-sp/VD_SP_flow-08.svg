@@ -1,0 +1,53 @@
+<svg id="b6f2c37d-b21f-4e0e-8a71-b5c7a2b27aef" data-name="レイヤー 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 375 205">
+  <defs>
+    <style>
+      .a3174aab-720b-4c65-b56e-b0f2ebabd145, .a4f95b19-0cbf-4297-a39d-90cbb47ed0b1 {
+        font-size: 14px;
+      }
+
+      .a3174aab-720b-4c65-b56e-b0f2ebabd145 {
+        font-family: HiraKakuProN-W3-83pv-RKSJ-H, Hiragino Kaku Gothic ProN;
+        letter-spacing: 0.1em;
+      }
+
+      .f34274a2-037f-4525-a3e0-25da52e88b3a {
+        letter-spacing: -0.4em;
+      }
+
+      .adcd5856-78fd-43af-9696-ce49834136ef {
+        opacity: 0.19;
+        font-size: 200px;
+        font-family: Avenir-Black, Avenir;
+        font-weight: 800;
+        letter-spacing: 0.1em;
+      }
+
+      .a4f95b19-0cbf-4297-a39d-90cbb47ed0b1, .ef4e39f7-a3de-4c6c-a8de-dbd65c43c1cb {
+        fill: #fff;
+      }
+
+      .f84c8cb6-5473-4280-81c5-ff7a1fb5c1dd {
+        fill: #83ccd2;
+      }
+
+      .a4f95b19-0cbf-4297-a39d-90cbb47ed0b1 {
+        font-family: HiraginoSans-W6-83pv-RKSJ-H, Hiragino Sans;
+        letter-spacing: 0.3em;
+      }
+    </style>
+  </defs>
+  <text class="a3174aab-720b-4c65-b56e-b0f2ebabd145" transform="translate(51.93 -103.8)">プロジェクト参画中も、研修・セミナー<tspan x="0" y="24.5">の開催などのフォローをさせていただき</tspan><tspan x="0" y="49">ます。また、参画中のプロジェクトに対</tspan><tspan x="0" y="73.5">しても営業フォローいたします</tspan><tspan class="f34274a2-037f-4525-a3e0-25da52e88b3a" x="215.6" y="73.5">。</tspan></text>
+  <text class="adcd5856-78fd-43af-9696-ce49834136ef" transform="translate(83.3 39.1)">05</text>
+  <rect class="ef4e39f7-a3de-4c6c-a8de-dbd65c43c1cb" x="83" width="261" height="58"/>
+  <g>
+    <rect class="f84c8cb6-5473-4280-81c5-ff7a1fb5c1dd" x="29.4" y="56.47" width="327" height="60" rx="30"/>
+    <g>
+      <circle class="f84c8cb6-5473-4280-81c5-ff7a1fb5c1dd" cx="318.8" cy="88.88" r="13.51"/>
+      <g>
+        <path class="ef4e39f7-a3de-4c6c-a8de-dbd65c43c1cb" d="M320.06,89.1s0,0,0,0v0s0,0,0-.06h0a.43.43,0,0,0,0-.16h0s0,0,0-.06h0s0,0,0,0l-.05-.06-5.42-5.42a.39.39,0,0,0-.55,0l-1,1a.36.36,0,0,0-.12.27.36.36,0,0,0,.12.28l4.11,4.11L313,93a.36.36,0,0,0-.12.28.36.36,0,0,0,.12.27l1,1a.36.36,0,0,0,.27.12.39.39,0,0,0,.28-.12L320,89.16Z"/>
+        <path class="ef4e39f7-a3de-4c6c-a8de-dbd65c43c1cb" d="M326.05,89.05v0a.14.14,0,0,0,0-.06h0a.43.43,0,0,0,0-.16h0a.14.14,0,0,0,0-.06h0a.08.08,0,0,0,0,0s0,0,0-.06l-5.42-5.42a.39.39,0,0,0-.55,0l-1,1a.4.4,0,0,0-.12.27.4.4,0,0,0,.12.28l4.11,4.11L319,93a.4.4,0,0,0-.12.28.4.4,0,0,0,.12.27l1,1a.39.39,0,0,0,.28.12.37.37,0,0,0,.27-.12L326,89.16l0-.06A.17.17,0,0,0,326.05,89.05Z"/>
+      </g>
+    </g>
+    <text class="a4f95b19-0cbf-4297-a39d-90cbb47ed0b1" transform="translate(94.3 94.74)">案件情報一覧をみる</text>
+  </g>
+</svg>

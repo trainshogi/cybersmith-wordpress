@@ -1,0 +1,69 @@
+<svg id="a1830d7b-2e75-4636-9c59-6d6f22533f89" data-name="レイヤー 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 375 259">
+  <defs>
+    <style>
+      .fda164ac-282b-476e-a069-b35d3c642178 {
+        fill: none;
+      }
+
+      .e4dc9658-cc5f-4cda-9d2b-99089b915951 {
+        clip-path: url(#f1093b5f-bc54-403f-87ca-cc0730889d6e);
+      }
+
+      .a5942ede-3ea8-4b9d-99d1-d881806c957a {
+        fill: #6e6c6b;
+      }
+
+      .eb265e04-812e-4f6f-b1f0-7635db156eef {
+        fill: #636160;
+      }
+
+      .a76c9c37-0fe6-4e25-808e-cef311312fb3 {
+        fill: #5e5b5a;
+      }
+
+      .a7a92fff-deab-4fd7-b895-74c1d53e8791 {
+        fill: #fff;
+      }
+
+      .aa31a547-ee47-485a-a83f-83a4d3f76676 {
+        font-size: 14px;
+        font-family: HiraKakuProN-W3-83pv-RKSJ-H, Hiragino Kaku Gothic ProN;
+        letter-spacing: 0.1em;
+      }
+
+      .e49a37d7-5186-4426-90b6-9b9ea0180c00 {
+        letter-spacing: 0.35em;
+      }
+
+      .b2d3750c-4fed-49a3-9be0-464d25dda1fb {
+        letter-spacing: 0.1em;
+      }
+
+      .bc702802-2dd7-4c47-865b-b35c005b27ff {
+        letter-spacing: -0.4em;
+      }
+
+      .ba9cb871-a832-46c9-adbc-30a3b00b7303 {
+        letter-spacing: -0.4em;
+      }
+    </style>
+    <clipPath id="f1093b5f-bc54-403f-87ca-cc0730889d6e">
+      <rect class="fda164ac-282b-476e-a069-b35d3c642178" x="-89.71" y="-288" width="951.41" height="266.29"/>
+    </clipPath>
+  </defs>
+  <g class="e4dc9658-cc5f-4cda-9d2b-99089b915951">
+    <g>
+      <rect class="a5942ede-3ea8-4b9d-99d1-d881806c957a" x="-81.01" y="-39.84" width="927.99" height="52.94"/>
+      <g>
+        <polygon class="eb265e04-812e-4f6f-b1f0-7635db156eef" points="-6.37 5.17 -5.2 13.1 58.96 13.1 57.65 5.17 -6.37 5.17"/>
+        <polygon class="eb265e04-812e-4f6f-b1f0-7635db156eef" points="77.97 5.17 79.3 13.1 300.54 13.1 298.74 5.17 77.97 5.17"/>
+        <polygon class="eb265e04-812e-4f6f-b1f0-7635db156eef" points="317.79 5.17 319.6 13.1 381.61 13.1 379.66 5.17 317.79 5.17"/>
+        <polygon class="a76c9c37-0fe6-4e25-808e-cef311312fb3" points="317.79 5.17 379.66 5.17 375.33 -12.49 313.75 -12.49 317.79 5.17"/>
+        <polygon class="a76c9c37-0fe6-4e25-808e-cef311312fb3" points="75.01 -12.49 77.97 5.17 298.74 5.17 294.75 -12.49 75.01 -12.49"/>
+        <polygon class="a76c9c37-0fe6-4e25-808e-cef311312fb3" points="54.75 -12.49 -8.97 -12.49 -6.37 5.17 57.65 5.17 54.75 -12.49"/>
+      </g>
+    </g>
+  </g>
+  <rect class="a7a92fff-deab-4fd7-b895-74c1d53e8791" x="19.22" y="-79" width="162.78" height="96.45" rx="8.02"/>
+  <text class="aa31a547-ee47-485a-a83f-83a4d3f76676" transform="translate(27.28 30.06)">企業にとって人材の確保は重要な位置を占めて<tspan x="0" y="24.5">おり、採用活動に要する金銭的・時間的なコス</tspan><tspan x="0" y="49">トも見過ごせません。特</tspan><tspan class="e49a37d7-5186-4426-90b6-9b9ea0180c00" x="169.4" y="49">に</tspan><tspan class="b2d3750c-4fed-49a3-9be0-464d25dda1fb" x="188.3" y="49">I</tspan><tspan class="e49a37d7-5186-4426-90b6-9b9ea0180c00" x="193.19" y="49">T</tspan><tspan x="207.17" y="49">職については慢</tspan><tspan x="0" y="73.5">性的な人手不足というお悩みを抱えている企業</tspan><tspan x="0" y="98">様も多く、こうした問題の根本的な解決が求め</tspan><tspan x="0" y="122.5">られてきました</tspan><tspan class="bc702802-2dd7-4c47-865b-b35c005b27ff" x="107.8" y="122.5">。</tspan><tspan x="0" y="147">安定的かつ確実に人材を確保するためには、優</tspan><tspan x="0" y="171.5">れたプロフェッショナル人材をつなぐ当社の役</tspan><tspan x="0" y="196">目もより重要となってきております</tspan><tspan class="ba9cb871-a832-46c9-adbc-30a3b00b7303" x="246.4" y="196">。</tspan></text>
+</svg>

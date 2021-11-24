@@ -1,0 +1,36 @@
+<svg id="a57dd7ee-b178-474b-acb2-7b0e3138c361" data-name="レイヤー 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 375 430">
+  <defs>
+    <style>
+      .ae3f41b6-7ebc-4c60-a04c-b7291abefe91 {
+        fill: none;
+      }
+
+      .a02ab461-43f9-4c59-a08e-ea685c147b6b {
+        fill: #83ccd2;
+        opacity: 0.1;
+      }
+
+      .bd36a3e5-3aaf-4b61-a056-0b411cc7c788 {
+        clip-path: url(#bd272133-cda6-47c0-a9a5-def0c531390d);
+      }
+
+      .aa7bb690-f6af-488e-930d-049cd7c147f2 {
+        font-size: 14px;
+        font-family: HiraKakuProN-W3-83pv-RKSJ-H, Hiragino Kaku Gothic ProN;
+        letter-spacing: 0.1em;
+      }
+
+      .ad1d95f6-6a1b-40a6-a547-facbfa834d33 {
+        letter-spacing: -0.4em;
+      }
+    </style>
+    <clipPath id="bd272133-cda6-47c0-a9a5-def0c531390d">
+      <rect class="ae3f41b6-7ebc-4c60-a04c-b7291abefe91" x="27" y="15" width="323" height="285" rx="5.96"/>
+    </clipPath>
+  </defs>
+  <rect class="a02ab461-43f9-4c59-a08e-ea685c147b6b" x="-10.06" y="-557.66" width="400.06" height="1483.66"/>
+  <g class="bd36a3e5-3aaf-4b61-a056-0b411cc7c788">
+    <image width="1980" height="1320" transform="translate(-54.7 4.55) scale(0.23)" xlink:href="http://3.112.250.183/wp-content/uploads/2021/11/pixta_64012861_XL.jpg"/>
+  </g>
+  <text class="aa7bb690-f6af-488e-930d-049cd7c147f2" transform="translate(28.91 330.12)">高単価案件で働くことは、自由な時間を手に<tspan x="0" y="24.5">する最も最短な道です</tspan><tspan class="ad1d95f6-6a1b-40a6-a547-facbfa834d33" x="154" y="24.5">。</tspan><tspan x="0" y="49">サイバースミスでは、スキルにあった高単価</tspan><tspan x="0" y="73.5">案件をすぐにお伝えすることができます</tspan><tspan class="ad1d95f6-6a1b-40a6-a547-facbfa834d33" x="277.2" y="73.5">。</tspan></text>
+</svg>

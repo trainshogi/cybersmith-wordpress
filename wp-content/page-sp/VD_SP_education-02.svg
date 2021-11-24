@@ -1,0 +1,69 @@
+<svg id="a64ddb4d-7708-4d2b-9883-9ae67fb84d1c" data-name="レイヤー 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 375 317">
+  <defs>
+    <style>
+      .bbe39e6b-3ff1-481c-acb8-6ba649299176, .f545f069-bca4-47c6-88ac-c5d40984b10c {
+        fill: none;
+      }
+
+      .f264bac1-e002-4763-a92c-139b43979776 {
+        clip-path: url(#b3461572-1437-4bb1-ac9b-6871ff57fe80);
+      }
+
+      .b7ebef16-897c-47b6-ad44-d87f0c1226ac {
+        fill: #fff;
+      }
+
+      .fa165b15-b9dc-4aac-9611-e1d79b84211c {
+        font-size: 21px;
+        font-family: FutoGoB101Pr6N-Bold, FutoGoB101Pr6N Bold-83pv-RKSJ-H;
+        font-weight: 700;
+        letter-spacing: 0.2em;
+      }
+
+      .a202e46b-0ee5-4490-b6d9-1a96e200d598 {
+        font-size: 10px;
+        letter-spacing: 0.3em;
+      }
+
+      .e88e9d28-fdfe-4c8f-8149-4e85008a65ac {
+        fill: #007b43;
+      }
+
+      .a8ec899a-a652-42f7-aad7-ab3bea35da12 {
+        opacity: 0.3;
+      }
+
+      .b0d103e9-ce75-4f2f-a3f1-f81cf6e98d7c {
+        fill: #dc4335;
+      }
+
+      .bbe39e6b-3ff1-481c-acb8-6ba649299176 {
+        stroke: #000;
+        stroke-miterlimit: 10;
+      }
+
+      .b938ce9f-1a47-489c-b9f6-0ccdfafe889e {
+        font-size: 18px;
+        font-family: KozGoPr6N-Bold-83pv-RKSJ-H, Kozuka Gothic Pr6N;
+      }
+    </style>
+    <clipPath id="b3461572-1437-4bb1-ac9b-6871ff57fe80">
+      <rect class="f545f069-bca4-47c6-88ac-c5d40984b10c" x="-160" y="-56.27" width="939.13" height="315.27"/>
+    </clipPath>
+  </defs>
+  <g class="f264bac1-e002-4763-a92c-139b43979776">
+    <image width="1980" height="850" transform="translate(-208.9 -7.98) scale(0.53)" xlink:href="http://3.112.250.183/wp-content/uploads/2021/11/pixta_76898798_XL.jpg"/>
+  </g>
+  <rect class="b7ebef16-897c-47b6-ad44-d87f0c1226ac" x="19.22" y="202" width="193.78" height="96.45" rx="8.76"/>
+  <text class="fa165b15-b9dc-4aac-9611-e1d79b84211c" transform="translate(40.84 266.5)">教育サービス</text>
+  <text class="a202e46b-0ee5-4490-b6d9-1a96e200d598" transform="translate(65.43 237.94)">EDUCATION</text>
+  <line class="e88e9d28-fdfe-4c8f-8149-4e85008a65ac" x1="59.22" y1="221.45" x2="43.22" y2="237.45"/>
+  <rect class="b7ebef16-897c-47b6-ad44-d87f0c1226ac" x="20.95" y="18.91" width="337" height="75" rx="10"/>
+  <g class="a8ec899a-a652-42f7-aad7-ab3bea35da12">
+    <path class="b0d103e9-ce75-4f2f-a3f1-f81cf6e98d7c" d="M348,18.91a10,10,0,0,1,10,10v55a10,10,0,0,1-10,10H31a10,10,0,0,1-10-10v-55a10,10,0,0,1,10-10H348m0-5H31a15,15,0,0,0-15,15v55a15,15,0,0,0,15,15H348a15,15,0,0,0,15-15v-55a15,15,0,0,0-15-15Z"/>
+  </g>
+  <line class="bbe39e6b-3ff1-481c-acb8-6ba649299176" x1="51.95" y1="50.91" x2="89.95" y2="50.91"/>
+  <line class="bbe39e6b-3ff1-481c-acb8-6ba649299176" x1="51.95" y1="59.41" x2="89.95" y2="59.41"/>
+  <line class="bbe39e6b-3ff1-481c-acb8-6ba649299176" x1="51.95" y1="68.41" x2="89.95" y2="68.41"/>
+  <text class="b938ce9f-1a47-489c-b9f6-0ccdfafe889e" transform="translate(162.57 66.93)">サイバースミス</text>
+</svg>

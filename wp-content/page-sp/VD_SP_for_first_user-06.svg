@@ -1,0 +1,76 @@
+<svg id="e921731b-32b8-4a88-b23d-16645d41a715" data-name="レイヤー 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 375 570">
+  <defs>
+    <style>
+      .aa0c2266-e998-48a4-8903-ad1360ee329b, .bf896e13-ce8f-46a7-ac14-ee51b3c59676 {
+        fill: none;
+      }
+
+      .a5f28561-2815-4592-ae0b-77627ee24fa8 {
+        clip-path: url(#ed301222-110b-43a8-8c5f-a68884d8679f);
+      }
+
+      .ade6dbf2-85e8-4ddf-b90c-b4123645aa50 {
+        font-size: 16px;
+        letter-spacing: 0.1em;
+      }
+
+      .ad491a67-011e-47a3-b3a3-48fb7192b203, .ade6dbf2-85e8-4ddf-b90c-b4123645aa50 {
+        font-family: HiraKakuProN-W3-83pv-RKSJ-H, Hiragino Kaku Gothic ProN;
+      }
+
+      .be1a5db5-bc58-437a-9df5-77199cfde718 {
+        letter-spacing: 0.35em;
+      }
+
+      .af10ceb5-f22c-4836-a37d-5bd72c3a42a0 {
+        font-size: 12px;
+        font-family: HiraginoSans-W6-83pv-RKSJ-H, Hiragino Sans;
+        letter-spacing: 0.3em;
+      }
+
+      .aff24eef-7f7b-4dad-b20d-90d7f42cc379 {
+        fill: #fff;
+      }
+
+      .aa0c2266-e998-48a4-8903-ad1360ee329b {
+        stroke: #000;
+        stroke-miterlimit: 10;
+      }
+
+      .ad491a67-011e-47a3-b3a3-48fb7192b203 {
+        font-size: 14px;
+        letter-spacing: 0.1em;
+      }
+
+      .ad114620-2eb2-4ff1-99d0-0e1c96f3781e {
+        letter-spacing: -0.4em;
+      }
+    </style>
+    <clipPath id="ed301222-110b-43a8-8c5f-a68884d8679f">
+      <rect class="bf896e13-ce8f-46a7-ac14-ee51b3c59676" x="29.71" y="21" width="311.57" height="311.57" rx="7.6"/>
+    </clipPath>
+  </defs>
+  <g class="a5f28561-2815-4592-ae0b-77627ee24fa8">
+    <image width="1980" height="1320" transform="translate(-3.94 12.69) scale(0.25)" xlink:href="http://3.112.250.183/wp-content/uploads/2021/11/pixta_47892115_XL.jpg"/>
+  </g>
+  <text class="ade6dbf2-85e8-4ddf-b90c-b4123645aa50" transform="translate(32.12 371.69)">SI＆I<tspan class="be1a5db5-bc58-437a-9df5-77199cfde718" x="41.07" y="0">T</tspan><tspan x="57.06" y="0">コンサルティング事業</tspan></text>
+  <text class="af10ceb5-f22c-4836-a37d-5bd72c3a42a0" transform="translate(72.32 505.14)">エンジニアを探している企業様へ</text>
+  <g>
+    <circle cx="45.05" cy="501.32" r="13.51"/>
+    <g>
+      <path class="aff24eef-7f7b-4dad-b20d-90d7f42cc379" d="M46.3,501.54l0,0v0s0,0,0-.06v0a.38.38,0,0,0,0-.15h0s0,0,0-.06v0l0-.05,0-.06-5.42-5.41a.38.38,0,0,0-.55,0l-1,1a.39.39,0,0,0-.11.27.39.39,0,0,0,.11.28l4.11,4.11-4.11,4.11a.39.39,0,0,0-.11.27.39.39,0,0,0,.11.28l1,1a.39.39,0,0,0,.28.12.36.36,0,0,0,.27-.12l5.42-5.42A.1.1,0,0,0,46.3,501.54Z"/>
+      <path class="aff24eef-7f7b-4dad-b20d-90d7f42cc379" d="M52.3,501.5v0s0,0,0-.06v0a.38.38,0,0,0,0-.15h0s0,0,0-.06v0l0-.05-.05-.06-5.41-5.41a.39.39,0,0,0-.56,0l-1,1a.39.39,0,0,0-.11.27.39.39,0,0,0,.11.28l4.11,4.11-4.11,4.11a.39.39,0,0,0-.11.27.39.39,0,0,0,.11.28l1,1a.39.39,0,0,0,.56,0l5.41-5.42a.1.1,0,0,0,.05-.06Z"/>
+    </g>
+  </g>
+  <line class="aa0c2266-e998-48a4-8903-ad1360ee329b" x1="71.51" y1="512.61" x2="307" y2="512.61"/>
+  <text class="af10ceb5-f22c-4836-a37d-5bd72c3a42a0" transform="translate(72.32 544.14)">お仕事を探している方へ</text>
+  <g>
+    <circle cx="45.05" cy="540.32" r="13.51"/>
+    <g>
+      <path class="aff24eef-7f7b-4dad-b20d-90d7f42cc379" d="M46.3,540.54l0,0v0s0,0,0-.06v0a.38.38,0,0,0,0-.15h0s0,0,0-.06v0l0,0,0-.06-5.42-5.41a.38.38,0,0,0-.55,0l-1,1a.39.39,0,0,0-.11.27.39.39,0,0,0,.11.28l4.11,4.11-4.11,4.11a.39.39,0,0,0-.11.27.39.39,0,0,0,.11.28l1,1a.39.39,0,0,0,.28.12.36.36,0,0,0,.27-.12l5.42-5.42A.1.1,0,0,0,46.3,540.54Z"/>
+      <path class="aff24eef-7f7b-4dad-b20d-90d7f42cc379" d="M52.3,540.5v0l0-.06v0a.38.38,0,0,0,0-.15h0l0-.06v0l0,0-.05-.06-5.41-5.41a.39.39,0,0,0-.56,0l-1,1a.39.39,0,0,0-.11.27.39.39,0,0,0,.11.28l4.11,4.11-4.11,4.11a.39.39,0,0,0-.11.27.39.39,0,0,0,.11.28l1,1a.39.39,0,0,0,.56,0l5.41-5.42a.1.1,0,0,0,.05-.06Z"/>
+    </g>
+  </g>
+  <line class="aa0c2266-e998-48a4-8903-ad1360ee329b" x1="71.51" y1="551.61" x2="244" y2="551.61"/>
+  <text class="ad491a67-011e-47a3-b3a3-48fb7192b203" transform="translate(31.07 412.33)">フリーランス・プロフェッショナル人材の多<tspan x="0" y="24.5">様なライフスタイルにあわせた仕事の選択肢</tspan><tspan x="0" y="49">の提供と、サポートを行なっています</tspan><tspan class="ad114620-2eb2-4ff1-99d0-0e1c96f3781e" x="261.8" y="49">。</tspan></text>
+</svg>

@@ -1,0 +1,36 @@
+<svg id="a9ebfcf3-e79e-48b5-8119-f2f7802bd144" data-name="レイヤー 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 375 457">
+  <defs>
+    <style>
+      .b8f87bce-36d9-42b4-bfa2-1b3feba674f2 {
+        fill: none;
+      }
+
+      .e6db49c0-0aae-4cff-9dbf-0722675cab0a {
+        fill: #83ccd2;
+        opacity: 0.1;
+      }
+
+      .a3f1bbc9-c539-42da-8e7f-84c522fdac0d {
+        clip-path: url(#a79196b0-ea6c-4797-9ea5-85748d279b78);
+      }
+
+      .a9d6f419-275b-454a-94c2-41bdc9ed65c2 {
+        font-size: 14px;
+        font-family: HiraKakuProN-W3-83pv-RKSJ-H, Hiragino Kaku Gothic ProN;
+        letter-spacing: 0.1em;
+      }
+
+      .f713bf70-9c7d-4592-b64c-250f95858ab7 {
+        letter-spacing: -0.4em;
+      }
+    </style>
+    <clipPath id="a79196b0-ea6c-4797-9ea5-85748d279b78">
+      <rect class="b8f87bce-36d9-42b4-bfa2-1b3feba674f2" x="35.36" y="10.81" width="309.62" height="273.19" rx="5.71"/>
+    </clipPath>
+  </defs>
+  <rect class="e6db49c0-0aae-4cff-9dbf-0722675cab0a" x="-33" y="-1002" width="442" height="1459"/>
+  <g class="a3f1bbc9-c539-42da-8e7f-84c522fdac0d">
+    <image width="1980" height="1114" transform="translate(-53.42 17.83) scale(0.23)" xlink:href="http://3.112.250.183/wp-content/uploads/2021/11/pixta_47567217_XL.jpg"/>
+  </g>
+  <text class="a9d6f419-275b-454a-94c2-41bdc9ed65c2" transform="translate(33.1 315.93)">先端技術を希望する希少価値の高いプロ<tspan x="0" y="24.5">フェッショナルなコンサルタントやエンジニ</tspan><tspan x="0" y="49">アが多数存在</tspan><tspan class="f713bf70-9c7d-4592-b64c-250f95858ab7" x="92.4" y="49">。</tspan><tspan x="0" y="73.5">AI・ディープラーニング、フルスタックエン</tspan><tspan x="0" y="98">ジニア、データサイエンティスト etc...</tspan></text>
+</svg>

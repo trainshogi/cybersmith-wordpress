@@ -1,0 +1,49 @@
+<svg id="a706f0b4-fca3-41e1-a9ee-b88e94f20b69" data-name="レイヤー 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 375 492">
+  <defs>
+    <style>
+      .f00f2564-7cf8-4a15-9d7c-b7e56a55874e {
+        fill: none;
+      }
+
+      .a9e3adf2-0a4a-4c01-bab4-5fca912a275b {
+        clip-path: url(#b57bb974-a309-4cac-9109-991e4a34f56d);
+      }
+
+      .ade5fce0-b581-4db1-93b8-ae55184d7079 {
+        font-size: 16px;
+        letter-spacing: 0.1em;
+      }
+
+      .a7238333-6b25-480e-9e51-616f29a04a38, .ade5fce0-b581-4db1-93b8-ae55184d7079 {
+        font-family: HiraKakuProN-W3-83pv-RKSJ-H, Hiragino Kaku Gothic ProN;
+      }
+
+      .a7238333-6b25-480e-9e51-616f29a04a38 {
+        font-size: 14px;
+        letter-spacing: 0.1em;
+      }
+
+      .f887a37f-5283-4f32-8672-5bb0c71b0019 {
+        letter-spacing: -0.4em;
+      }
+
+      .fbaff90b-361c-45b2-88fa-38f0e6f4f78b {
+        clip-path: url(#f7cc7793-c309-42d6-b8cc-288ea15a4b01);
+      }
+    </style>
+    <clipPath id="b57bb974-a309-4cac-9109-991e4a34f56d">
+      <rect class="f00f2564-7cf8-4a15-9d7c-b7e56a55874e" x="32" y="27" width="313" height="313" rx="7.64"/>
+    </clipPath>
+    <clipPath id="f7cc7793-c309-42d6-b8cc-288ea15a4b01">
+      <rect class="f00f2564-7cf8-4a15-9d7c-b7e56a55874e" x="-270.1" y="538.46" width="923.1" height="200"/>
+    </clipPath>
+  </defs>
+  <g class="a9e3adf2-0a4a-4c01-bab4-5fca912a275b">
+    <image width="1980" height="1321" transform="translate(-123.27 17.02) scale(0.25)" xlink:href="http://3.112.250.183/wp-content/uploads/2021/11/pixta_34471601_XL.jpg"/>
+  </g>
+  <text class="ade5fce0-b581-4db1-93b8-ae55184d7079" transform="translate(33.13 383.41)">社会課題サービス立ち上げ支援</text>
+  <text class="a7238333-6b25-480e-9e51-616f29a04a38" transform="translate(35.07 425.05)">あらゆる社会課題に対して、プロジェクト単<tspan x="0" y="24.5">位で切り分け、サービスとしての形にする支</tspan><tspan x="0" y="49">援をしています</tspan><tspan class="f887a37f-5283-4f32-8672-5bb0c71b0019" x="107.8" y="49">。</tspan></text>
+  <g class="fbaff90b-361c-45b2-88fa-38f0e6f4f78b">
+    <image width="1980" height="1320" transform="translate(-268 177) scale(0.46)" xlink:href="http://3.112.250.183/wp-content/uploads/2021/11/pixta_73651589_XL.jpg"/>
+  </g>
+</svg>

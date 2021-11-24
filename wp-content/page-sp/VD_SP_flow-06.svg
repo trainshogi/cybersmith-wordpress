@@ -1,0 +1,71 @@
+<svg id="a94a18ea-55d5-4129-8368-47fd2f4cea93" data-name="レイヤー 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 375 382">
+  <defs>
+    <style>
+      .aa4c3562-cd47-4b4c-9339-1d7db357a3e5, .af2c7526-c510-4efe-9add-254e7ef294f1 {
+        fill: none;
+      }
+
+      .f27ae600-081e-4104-88c4-493db38d4bc5 {
+        font-size: 14px;
+        letter-spacing: 0.1em;
+      }
+
+      .ad43ce32-4afb-4761-ae91-fc6c02aaee0a, .f27ae600-081e-4104-88c4-493db38d4bc5 {
+        font-family: HiraKakuProN-W3-83pv-RKSJ-H, Hiragino Kaku Gothic ProN;
+      }
+
+      .eb4148b7-5342-4811-8c39-c89d240f9ab0 {
+        letter-spacing: -0.4em;
+      }
+
+      .ba44c37f-40a0-4eb7-b2b6-01cd92ae3bc8 {
+        opacity: 0.19;
+        font-size: 200px;
+        font-family: Avenir-Black, Avenir;
+        font-weight: 800;
+        letter-spacing: 0.1em;
+      }
+
+      .aa4c3562-cd47-4b4c-9339-1d7db357a3e5 {
+        stroke: #000;
+        stroke-miterlimit: 10;
+      }
+
+      .ad43ce32-4afb-4761-ae91-fc6c02aaee0a {
+        font-size: 18px;
+        letter-spacing: 0.1em;
+      }
+
+      .e5817117-888e-4039-bb47-4e12e70c44d5 {
+        fill: #fff;
+      }
+
+      .eda23fbd-210c-42ed-a972-dc2f9b0fa171 {
+        clip-path: url(#fbb5bd4f-cc48-491e-b922-efec528ec8d8);
+      }
+
+      .a4c6bc12-f789-42a0-b0e3-048392fa8806 {
+        clip-path: url(#e53b4c29-3c38-4bd3-8b95-e3a133aece30);
+      }
+    </style>
+    <clipPath id="fbb5bd4f-cc48-491e-b922-efec528ec8d8">
+      <rect class="af2c7526-c510-4efe-9add-254e7ef294f1" x="49.63" y="22.03" width="287.37" height="215.52" rx="3.59"/>
+    </clipPath>
+    <clipPath id="e53b4c29-3c38-4bd3-8b95-e3a133aece30">
+      <rect class="af2c7526-c510-4efe-9add-254e7ef294f1" x="48" y="406.81" width="288.26" height="216.19" rx="3.6"/>
+    </clipPath>
+  </defs>
+  <text class="f27ae600-081e-4104-88c4-493db38d4bc5" transform="translate(37.3 -66.83)">ご希望の案件・プロジェクト側とのご面談<tspan x="0" y="24.5">を調整いたします</tspan><tspan class="eb4148b7-5342-4811-8c39-c89d240f9ab0" x="123.2" y="24.5">。</tspan></text>
+  <text class="ba44c37f-40a0-4eb7-b2b6-01cd92ae3bc8" transform="translate(86.3 34.1)">03</text>
+  <line class="aa4c3562-cd47-4b4c-9339-1d7db357a3e5" x1="37.5" y1="381.5" x2="361" y2="381.5"/>
+  <text class="ad43ce32-4afb-4761-ae91-fc6c02aaee0a" transform="translate(52.49 279.39)">アサイン決定</text>
+  <text class="f27ae600-081e-4104-88c4-493db38d4bc5" transform="translate(50.93 323.2)">単価や勤務条件などを交渉し<tspan class="eb4148b7-5342-4811-8c39-c89d240f9ab0" x="200.2" y="0">、</tspan><tspan x="0" y="24.5">ご契約書を締結させていただきます</tspan><tspan class="eb4148b7-5342-4811-8c39-c89d240f9ab0" x="246.4" y="24.5">。</tspan></text>
+  <text class="ba44c37f-40a0-4eb7-b2b6-01cd92ae3bc8" transform="translate(94.3 419.1)">04</text>
+  <rect class="e5817117-888e-4039-bb47-4e12e70c44d5" x="74" width="261" height="58"/>
+  <g class="eda23fbd-210c-42ed-a972-dc2f9b0fa171">
+    <image width="1980" height="1089" transform="translate(-1.31 5.92) scale(0.21)" xlink:href="http://3.112.250.183/wp-content/uploads/2021/11/pixta_60604937_XL.jpg"/>
+  </g>
+  <g class="a4c6bc12-f789-42a0-b0e3-048392fa8806">
+    <image width="1980" height="1320" transform="translate(7.64 372.94) scale(0.2)" xlink:href="http://3.112.250.183/wp-content/uploads/2021/11/pixta_77206103_XL.jpg"/>
+  </g>
+</svg>

@@ -1,0 +1,40 @@
+<svg id="fde7d49a-3d9c-440d-a562-ba54876a4cb7" data-name="レイヤー 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 375 440">
+  <defs>
+    <style>
+      .e3d2a06c-2592-44a8-9246-82fbd23852a9 {
+        fill: none;
+      }
+
+      .fae56a54-93dc-48b3-817b-e1993548de32 {
+        fill: #83ccd2;
+        opacity: 0.1;
+      }
+
+      .a2d0552d-2e0a-4c6c-a599-65c5780f15f5 {
+        font-size: 14px;
+        font-family: HiraKakuProN-W3-83pv-RKSJ-H, Hiragino Kaku Gothic ProN;
+        letter-spacing: 0.1em;
+      }
+
+      .a1053418-4733-4d1a-a138-65cb4e34118a {
+        letter-spacing: 0.35em;
+      }
+
+      .f3d4a923-2943-4c3e-ae2d-44fc20172a8d {
+        letter-spacing: -0.4em;
+      }
+
+      .ee61388a-f4ab-4ca2-a73f-c96da950c5dd {
+        clip-path: url(#b7a2fa9a-5b23-41c3-88ef-d74158931bae);
+      }
+    </style>
+    <clipPath id="b7a2fa9a-5b23-41c3-88ef-d74158931bae">
+      <rect class="e3d2a06c-2592-44a8-9246-82fbd23852a9" x="30.83" y="14.1" width="319.48" height="281.9" rx="5.89"/>
+    </clipPath>
+  </defs>
+  <rect class="fae56a54-93dc-48b3-817b-e1993548de32" x="-10.06" y="-117.66" width="400.06" height="1483.66"/>
+  <text class="a2d0552d-2e0a-4c6c-a599-65c5780f15f5" transform="translate(28.24 329.22)">ご連絡頂きますと、最短当日<tspan class="a1053418-4733-4d1a-a138-65cb4e34118a" x="200.2" y="0">～3</tspan><tspan x="233.2" y="0">営業日以内</tspan><tspan x="0" y="24.5">に当社担当者が対応いたします</tspan><tspan class="f3d4a923-2943-4c3e-ae2d-44fc20172a8d" x="215.6" y="24.5">。</tspan><tspan x="0" y="49">すぐにプロフェクトを開始したい方をお手伝</tspan><tspan x="0" y="73.5">いいたします</tspan><tspan class="f3d4a923-2943-4c3e-ae2d-44fc20172a8d" x="92.4" y="73.5">。</tspan></text>
+  <g class="ee61388a-f4ab-4ca2-a73f-c96da950c5dd">
+    <image width="1980" height="1320" transform="translate(-12.29 3.99) scale(0.23)" xlink:href="http://3.112.250.183/wp-content/uploads/2021/11/pixta_77203036_XL.jpg"/>
+  </g>
+</svg>

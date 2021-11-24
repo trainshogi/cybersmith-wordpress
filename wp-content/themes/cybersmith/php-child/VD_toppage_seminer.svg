@@ -1,5 +1,5 @@
 <!--raw-->
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 300 300">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 300 300" width="300px" height="300px">
   <defs>
     <style>
       .bc6d0b01-56fa-4b19-9e71-5dad55a4c665 {
@@ -63,7 +63,6 @@
   </defs>
   <g class="bc6d0b01-56fa-4b19-9e71-5dad55a4c665">
     <g id="fb9c1731-f8ac-43b8-815d-2fe3d16c1473" data-name="レイヤー 1">
-      <rect class="be987d2c-4879-42fb-a082-82dbdcb98f72" x="-165" y="-685" width="1427" height="1292"/>
       <g>
         <rect class="eb154973-fbac-49d3-b6e3-32862ebbefc0" x="0.21" y="0.33" width="300" height="300" rx="5.89"/>
       </g>

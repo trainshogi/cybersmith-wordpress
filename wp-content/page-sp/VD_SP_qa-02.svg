@@ -1,0 +1,64 @@
+<svg id="ae51616a-2db9-45d6-825d-8f575ac4ab7a" data-name="レイヤー 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 375 385">
+  <defs>
+    <style>
+      .bd11cc6a-6b17-420a-bfd6-c8e1fa3c5575 {
+        fill: #fff;
+      }
+
+      .fff6fbca-be1f-498c-9137-496fc1f52c40 {
+        font-size: 21px;
+        font-family: FutoGoB101Pr6N-Bold, FutoGoB101Pr6N Bold-83pv-RKSJ-H;
+        font-weight: 700;
+        letter-spacing: 0.2em;
+      }
+
+      .b617aaad-d0f0-4513-8b23-4ca77efd6159 {
+        font-size: 10px;
+        letter-spacing: 0.3em;
+      }
+
+      .ee66045a-d67b-45da-9942-8928e7a88e4f {
+        fill: #dc4335;
+      }
+
+      .aa24acfc-605c-4488-8fd0-97f855d1573b {
+        opacity: 0.3;
+      }
+
+      .f1eaa401-b99e-49e1-ad36-be0c4143caa5 {
+        fill: none;
+        stroke: #000;
+        stroke-miterlimit: 10;
+      }
+
+      .bb58dd62-7164-478d-82fb-8daee24f8c3e {
+        font-size: 18px;
+        font-family: KozGoPr6N-Bold-83pv-RKSJ-H, Kozuka Gothic Pr6N;
+      }
+
+      .a193e44f-b341-49dd-860d-263a98837cbd {
+        font-size: 14px;
+        font-family: HiraKakuProN-W3-83pv-RKSJ-H, Hiragino Kaku Gothic ProN;
+        letter-spacing: 0.1em;
+      }
+
+      .efb051e3-b1db-49cf-8785-f175eab58e25 {
+        letter-spacing: -0.4em;
+      }
+    </style>
+  </defs>
+  <image width="1980" height="966" transform="translate(-85.57 -8) scale(0.28)" xlink:href="http://3.112.250.183/wp-content/uploads/2021/11/pixta_54444200_XL.jpg"/>
+  <rect class="bd11cc6a-6b17-420a-bfd6-c8e1fa3c5575" x="21.22" y="205" width="190.78" height="96.45" rx="8.69"/>
+  <text class="fff6fbca-be1f-498c-9137-496fc1f52c40" transform="translate(40.84 269.5)">よくある質問</text>
+  <text class="b617aaad-d0f0-4513-8b23-4ca77efd6159" transform="translate(65.43 240.94)">Q&amp;A</text>
+  <line class="ee66045a-d67b-45da-9942-8928e7a88e4f" x1="59.22" y1="224.45" x2="43.22" y2="240.45"/>
+  <rect class="bd11cc6a-6b17-420a-bfd6-c8e1fa3c5575" x="20.95" y="21.91" width="337" height="75" rx="10"/>
+  <g class="aa24acfc-605c-4488-8fd0-97f855d1573b">
+    <path class="ee66045a-d67b-45da-9942-8928e7a88e4f" d="M348,21.91a10,10,0,0,1,10,10v55a10,10,0,0,1-10,10H31a10,10,0,0,1-10-10v-55a10,10,0,0,1,10-10H348m0-5H31a15,15,0,0,0-15,15v55a15,15,0,0,0,15,15H348a15,15,0,0,0,15-15v-55a15,15,0,0,0-15-15Z"/>
+  </g>
+  <line class="f1eaa401-b99e-49e1-ad36-be0c4143caa5" x1="51.95" y1="53.91" x2="89.95" y2="53.91"/>
+  <line class="f1eaa401-b99e-49e1-ad36-be0c4143caa5" x1="51.95" y1="62.41" x2="89.95" y2="62.41"/>
+  <line class="f1eaa401-b99e-49e1-ad36-be0c4143caa5" x1="51.95" y1="71.41" x2="89.95" y2="71.41"/>
+  <text class="bb58dd62-7164-478d-82fb-8daee24f8c3e" transform="translate(162.57 69.93)">サイバースミス</text>
+  <text class="a193e44f-b341-49dd-860d-263a98837cbd" transform="translate(27.28 314.06)">サイバースミスへ寄せられるご質問を以下の通<tspan x="0" y="24.5">りまとめています。その他ご不明なことはお問</tspan><tspan x="0" y="49">い合わせください</tspan><tspan class="efb051e3-b1db-49cf-8785-f175eab58e25" x="123.2" y="49">。</tspan></text>
+</svg>

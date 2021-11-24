@@ -1,0 +1,36 @@
+<svg id="a7a9a781-2ef0-4fbf-bf09-92b9ea53f13b" data-name="レイヤー 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 375 498">
+  <defs>
+    <style>
+      .f7fb5127-3d93-4b39-bcc0-861e8e763f24 {
+        fill: none;
+      }
+
+      .f983d933-8db5-47b0-86c1-bb61567c2cdc {
+        fill: #83ccd2;
+        opacity: 0.1;
+      }
+
+      .b15402c5-9c83-4931-bc80-ba00436f4326 {
+        clip-path: url(#e75042fe-9935-4eb8-a44e-de6e8c9ab472);
+      }
+
+      .b60610a2-7694-4559-94ef-3c62083da609 {
+        font-size: 14px;
+        font-family: HiraKakuProN-W3-83pv-RKSJ-H, Hiragino Kaku Gothic ProN;
+        letter-spacing: 0.1em;
+      }
+
+      .b0a37e03-a4c6-4ca6-8a4f-1a5b042c64d2 {
+        letter-spacing: -0.4em;
+      }
+    </style>
+    <clipPath id="e75042fe-9935-4eb8-a44e-de6e8c9ab472">
+      <rect class="f7fb5127-3d93-4b39-bcc0-861e8e763f24" x="24.83" y="7.1" width="327.42" height="288.9" rx="6.04"/>
+    </clipPath>
+  </defs>
+  <rect class="f983d933-8db5-47b0-86c1-bb61567c2cdc" x="-10.06" y="-987.66" width="400.06" height="1483.66"/>
+  <g class="b15402c5-9c83-4931-bc80-ba00436f4326">
+    <image width="1980" height="1217" transform="translate(-63.65 5.38) scale(0.24)" xlink:href="http://3.112.250.183/wp-content/uploads/2021/11/pixta_69242294_XL.jpg"/>
+  </g>
+  <text class="b60610a2-7694-4559-94ef-3c62083da609" transform="translate(27.24 326.22)">先端技術を希望する希少価値の高いプロフェッ<tspan x="0" y="24.5">ショナルなエンジニアが多数存在。人脈の拡大</tspan><tspan x="0" y="49">にも繋がります</tspan><tspan class="b0a37e03-a4c6-4ca6-8a4f-1a5b042c64d2" x="107.8" y="49">。</tspan><tspan x="0" y="73.5">AI・ディープラーニング、フルスタックエンジ</tspan><tspan x="0" y="98">ニア、データサイエンティスト etc...</tspan></text>
+</svg>

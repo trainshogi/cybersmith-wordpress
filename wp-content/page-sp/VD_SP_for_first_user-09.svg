@@ -1,0 +1,30 @@
+<svg id="b48e47dc-64a0-4a5f-8b99-ea803316dff9" data-name="レイヤー 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 375 259">
+  <defs>
+    <style>
+      .b55740ac-e240-446d-83d5-ffff3e75a438 {
+        fill: none;
+      }
+
+      .acd0478e-acf3-42e4-a4c8-1e76cc912025 {
+        font-size: 14px;
+        font-family: HiraKakuProN-W3-83pv-RKSJ-H, Hiragino Kaku Gothic ProN;
+        letter-spacing: 0.1em;
+      }
+
+      .a0f71477-8d76-44b8-b340-523b14fb685c {
+        letter-spacing: -0.4em;
+      }
+
+      .e05ce964-4ed2-4e7c-ad3d-51d0a9076e32 {
+        clip-path: url(#faec89ff-24e4-49c3-9664-5475ea617632);
+      }
+    </style>
+    <clipPath id="faec89ff-24e4-49c3-9664-5475ea617632">
+      <rect class="b55740ac-e240-446d-83d5-ffff3e75a438" x="-270.1" y="46.46" width="923.1" height="200"/>
+    </clipPath>
+  </defs>
+  <text class="acd0478e-acf3-42e4-a4c8-1e76cc912025" transform="translate(35.07 -66.95)">あらゆる社会課題に対して、プロジェクト単<tspan x="0" y="24.5">位で切り分け、サービスとしての形にする支</tspan><tspan x="0" y="49">援をしています</tspan><tspan class="a0f71477-8d76-44b8-b340-523b14fb685c" x="107.8" y="49">。</tspan></text>
+  <g class="e05ce964-4ed2-4e7c-ad3d-51d0a9076e32">
+    <image width="1980" height="1320" transform="translate(-268 -315) scale(0.46)" xlink:href="http://3.112.250.183/wp-content/uploads/2021/11/pixta_73651589_XL.jpg"/>
+  </g>
+</svg>

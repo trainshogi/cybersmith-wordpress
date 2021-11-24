@@ -1,0 +1,32 @@
+<svg id="b1c53a93-ff39-4ab9-bf4a-9312ef1ab2d9" data-name="レイヤー 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 375 52">
+  <defs>
+    <style>
+      .b573d099-4877-442c-b7bf-174bedca7474, .bd59c454-1d25-48c6-b644-21f09d7d46e0 {
+        font-size: 14px;
+        letter-spacing: 0.1em;
+      }
+
+      .b573d099-4877-442c-b7bf-174bedca7474 {
+        font-family: HiraKakuProN-W3-83pv-RKSJ-H, Hiragino Kaku Gothic ProN;
+      }
+
+      .bd59c454-1d25-48c6-b644-21f09d7d46e0 {
+        font-family: HiraKakuProN-W6-83pv-RKSJ-H, Hiragino Kaku Gothic ProN;
+      }
+
+      .b7a17254-1bd0-4c1e-9317-520424a53f10 {
+        fill: #dc4335;
+      }
+
+      .b9614991-9188-4bb7-b3d3-be6194cedc89 {
+        fill: none;
+        stroke: #dc4335;
+        stroke-miterlimit: 10;
+      }
+    </style>
+  </defs>
+  <text class="b573d099-4877-442c-b7bf-174bedca7474" transform="translate(27.27 32.46)">トップページ</text>
+  <text class="bd59c454-1d25-48c6-b644-21f09d7d46e0" transform="translate(160.27 31.46)">教育サービス</text>
+  <path class="b7a17254-1bd0-4c1e-9317-520424a53f10" d="M145.62,26.3l-1-1h0l-4.16-4.16a.37.37,0,0,0-.53,0l-1,1a.39.39,0,0,0,0,.52l2.75,2.74h-9.06a.31.31,0,0,0-.3.31v1.71a.3.3,0,0,0,.3.3h9.06L139,30.47a.39.39,0,0,0,0,.52l1,1a.4.4,0,0,0,.27.11.38.38,0,0,0,.26-.11l4.16-4.16h0l1-1A.37.37,0,0,0,145.62,26.3Z"/>
+  <line class="b9614991-9188-4bb7-b3d3-be6194cedc89" x1="30.73" y1="37.55" x2="117.73" y2="37.55"/>
+</svg>

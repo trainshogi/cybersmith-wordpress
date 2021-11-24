@@ -1,0 +1,74 @@
+<svg id="bde74ea9-5635-4f84-96b7-30eb5cae29d5" data-name="レイヤー 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 375 407">
+  <defs>
+    <style>
+      .f1870fbe-190b-41d6-bb68-32cd286518d5, .fba06614-f156-4df1-9f0f-466f2bc7f9cf {
+        fill: none;
+      }
+
+      .a7b92c70-7e98-421a-abef-a14ee2dbe0f8 {
+        font-size: 14px;
+        letter-spacing: 0.1em;
+      }
+
+      .a012d1fc-762e-45a4-9910-33a1292fdf42, .a7b92c70-7e98-421a-abef-a14ee2dbe0f8 {
+        font-family: HiraKakuProN-W3-83pv-RKSJ-H, Hiragino Kaku Gothic ProN;
+      }
+
+      .f5aba417-eef2-46a8-a1dc-b38a63efe572 {
+        letter-spacing: 0.35em;
+      }
+
+      .ffb155a6-b741-418f-bc98-7e04e94dcd76 {
+        letter-spacing: 0.1em;
+      }
+
+      .fe598b16-101b-426c-8624-a2238a0be2e5 {
+        letter-spacing: -0.4em;
+      }
+
+      .a0bebfe2-9c00-4209-b795-5bc425e72cf0 {
+        letter-spacing: -0.4em;
+      }
+
+      .fe257f8b-e6f5-423b-8769-9324b3937340 {
+        opacity: 0.19;
+        font-size: 200px;
+        font-family: Avenir-Black, Avenir;
+        font-weight: 800;
+        letter-spacing: 0.1em;
+      }
+
+      .f1870fbe-190b-41d6-bb68-32cd286518d5 {
+        stroke: #000;
+        stroke-miterlimit: 10;
+      }
+
+      .a012d1fc-762e-45a4-9910-33a1292fdf42 {
+        font-size: 18px;
+        letter-spacing: 0.1em;
+      }
+
+      .e6929f8c-d8ca-43f3-b933-940ee422ab45 {
+        fill: #fff;
+      }
+
+      .fd0bfe77-a3bd-4d75-913e-3cad1f0bbd75 {
+        clip-path: url(#f872d47c-9bd2-4bad-9c0d-35257ad1ed96);
+      }
+    </style>
+    <clipPath id="f872d47c-9bd2-4bad-9c0d-35257ad1ed96">
+      <rect class="fba06614-f156-4df1-9f0f-466f2bc7f9cf" x="38" y="35" width="302" height="223" rx="3.75"/>
+    </clipPath>
+  </defs>
+  <text class="a7b92c70-7e98-421a-abef-a14ee2dbe0f8" transform="translate(39.93 -99.8)">オンライン（ZOOM/GoogleMee<tspan class="f5aba417-eef2-46a8-a1dc-b38a63efe572" x="241.69" y="0">t</tspan><tspan class="ffb155a6-b741-418f-bc98-7e04e94dcd76" x="252.08" y="0">など</tspan><tspan class="fe598b16-101b-426c-8624-a2238a0be2e5" x="282.88" y="0">）</tspan><tspan x="0" y="24.5">にて、お問い合わせいただいた案件・ご希</tspan><tspan x="0" y="49">望のプロジェクトを元にヒアリングなどを</tspan><tspan x="0" y="73.5">させていただきます</tspan><tspan class="a0bebfe2-9c00-4209-b795-5bc425e72cf0" x="138.6" y="73.5">。</tspan></text>
+  <text class="fe257f8b-e6f5-423b-8769-9324b3937340" transform="translate(94.3 35.1)">02</text>
+  <line class="f1870fbe-190b-41d6-bb68-32cd286518d5" x1="42.5" y1="406.5" x2="349" y2="406.5"/>
+  <text class="a012d1fc-762e-45a4-9910-33a1292fdf42" transform="translate(35.85 300.36)">プロジェクト個別面談</text>
+  <text class="a7b92c70-7e98-421a-abef-a14ee2dbe0f8" transform="translate(37.3 340.17)">ご希望の案件・プロジェクト側とのご面談<tspan x="0" y="24.5">を調整いたします</tspan><tspan class="fe598b16-101b-426c-8624-a2238a0be2e5" x="123.2" y="24.5">。</tspan></text>
+  <text class="fe257f8b-e6f5-423b-8769-9324b3937340" transform="translate(86.3 441.1)">03</text>
+  <rect class="e6929f8c-d8ca-43f3-b933-940ee422ab45" x="84" y="-2" width="261" height="58"/>
+  <rect class="e6929f8c-d8ca-43f3-b933-940ee422ab45" x="74" y="407" width="261" height="58"/>
+  <g class="fd0bfe77-a3bd-4d75-913e-3cad1f0bbd75">
+    <image width="1980" height="1320" transform="translate(-4.28 0.06) scale(0.21 0.21)" xlink:href="http://3.112.250.183/wp-content/uploads/2021/11/pixta_79815937_XL.jpg"/>
+  </g>
+</svg>

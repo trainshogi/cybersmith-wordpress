@@ -1,0 +1,47 @@
+<svg id="bcdc21bd-7a72-42af-b69d-6fac03ae7e7b" data-name="レイヤー 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 375 268">
+  <defs>
+    <style>
+      .e72623c6-afac-4941-9670-5ec3b40c9c14 {
+        fill: none;
+        stroke: #e3e3e3;
+        stroke-miterlimit: 10;
+        stroke-width: 4.01px;
+      }
+
+      .a3e93850-4b8c-4ef9-be9f-b3044faafb2d, .b515c7b0-b18c-445f-a46b-d3133513705c {
+        fill: #fff;
+      }
+
+      .a3e93850-4b8c-4ef9-be9f-b3044faafb2d, .fb886a3f-b5da-4656-8595-ea7c9b20ed2c {
+        font-size: 14px;
+      }
+
+      .a3e93850-4b8c-4ef9-be9f-b3044faafb2d {
+        font-family: HiraginoSans-W6-83pv-RKSJ-H, Hiragino Sans;
+        letter-spacing: 0.3em;
+      }
+
+      .fb886a3f-b5da-4656-8595-ea7c9b20ed2c {
+        font-family: HiraKakuProN-W3-83pv-RKSJ-H, Hiragino Kaku Gothic ProN;
+        letter-spacing: 0.1em;
+      }
+
+      .a97f3b99-5bfc-4933-aa9a-7bd656238ae7 {
+        letter-spacing: -0.4em;
+      }
+    </style>
+  </defs>
+  <rect class="e72623c6-afac-4941-9670-5ec3b40c9c14" x="36.2" y="25.61" width="308.3" height="181.89" rx="2.09"/>
+  <g>
+    <rect x="58.2" y="178.03" width="265" height="60" rx="30"/>
+    <g>
+      <circle cx="285.6" cy="210.43" r="13.51"/>
+      <g>
+        <path class="b515c7b0-b18c-445f-a46b-d3133513705c" d="M286.86,210.66s0,0,0,0v0a.14.14,0,0,0,0-.06h0a.43.43,0,0,0,0-.16h0a.14.14,0,0,0,0-.06h0a.14.14,0,0,0,0-.06l-.05-.06-5.42-5.41a.38.38,0,0,0-.55,0l-1,1a.36.36,0,0,0-.12.27.36.36,0,0,0,.12.28l4.11,4.11-4.11,4.11a.36.36,0,0,0-.12.28.36.36,0,0,0,.12.27l1,1a.39.39,0,0,0,.27.12.39.39,0,0,0,.28-.12l5.42-5.42Z"/>
+        <path class="b515c7b0-b18c-445f-a46b-d3133513705c" d="M292.85,210.61v0a.14.14,0,0,0,0-.06h0a.43.43,0,0,0,0-.16h0a.14.14,0,0,0,0-.06h0l0-.06-.05-.06-5.42-5.41a.38.38,0,0,0-.55,0l-1,1a.39.39,0,0,0-.11.27.39.39,0,0,0,.11.28l4.11,4.11-4.11,4.11a.39.39,0,0,0-.11.28.39.39,0,0,0,.11.27l1,1a.39.39,0,0,0,.28.12.36.36,0,0,0,.27-.12l5.42-5.42s0,0,.05-.05Z"/>
+      </g>
+    </g>
+    <text class="a3e93850-4b8c-4ef9-be9f-b3044faafb2d" transform="translate(124.1 216.3)">お問い合わせ</text>
+  </g>
+  <text class="fb886a3f-b5da-4656-8595-ea7c9b20ed2c" transform="translate(67.11 70.36)">ご相談のある企業ご担当者様は<tspan class="a97f3b99-5bfc-4933-aa9a-7bd656238ae7" x="215.6" y="0">、</tspan><tspan x="0" y="24.5">下記よりお問い合わせください</tspan><tspan class="a97f3b99-5bfc-4933-aa9a-7bd656238ae7" x="215.6" y="24.5">。</tspan><tspan x="0" y="49">詳しい内容は直接ご説明いたしま</tspan><tspan x="0" y="73.5">す</tspan><tspan class="a97f3b99-5bfc-4933-aa9a-7bd656238ae7" x="15.4" y="73.5">。</tspan></text>
+</svg>

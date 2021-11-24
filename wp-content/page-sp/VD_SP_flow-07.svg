@@ -1,0 +1,60 @@
+<svg id="a4147fcf-52f1-4af6-81bf-98857ac8c673" data-name="レイヤー 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 375 423">
+  <defs>
+    <style>
+      .a7a9d9b5-f76c-427e-aa45-7760120de23d, .b13fe434-ff80-4d1a-ad0b-ef22c4380841 {
+        fill: none;
+      }
+
+      .b0674dd0-71f1-49a1-bb26-f35f9ccdcb64 {
+        opacity: 0.19;
+        font-size: 200px;
+        font-family: Avenir-Black, Avenir;
+        font-weight: 800;
+        letter-spacing: 0.1em;
+      }
+
+      .a7a9d9b5-f76c-427e-aa45-7760120de23d {
+        stroke: #000;
+        stroke-miterlimit: 10;
+      }
+
+      .bbd5d768-9c00-4a1f-89a2-034d371ebd60 {
+        font-size: 18px;
+        letter-spacing: 0.1em;
+      }
+
+      .bbd5d768-9c00-4a1f-89a2-034d371ebd60, .be478be7-2dd2-487d-a9e5-68349e328f75 {
+        font-family: HiraKakuProN-W3-83pv-RKSJ-H, Hiragino Kaku Gothic ProN;
+      }
+
+      .be478be7-2dd2-487d-a9e5-68349e328f75 {
+        font-size: 14px;
+        letter-spacing: 0.1em;
+      }
+
+      .a5816e3b-9960-4f2b-a34e-4b5c634ad233 {
+        letter-spacing: -0.4em;
+      }
+
+      .bc1a07f2-664d-41c8-bb35-f3d6e1af199f {
+        fill: #fff;
+      }
+
+      .bd23077b-fcb9-45e7-ae1a-d76ca73bb2c7 {
+        clip-path: url(#a27d63dc-7151-42d2-b32a-356ab3f0de9c);
+      }
+    </style>
+    <clipPath id="a27d63dc-7151-42d2-b32a-356ab3f0de9c">
+      <rect class="b13fe434-ff80-4d1a-ad0b-ef22c4380841" x="48" y="24.81" width="288.26" height="216.19" rx="3.6"/>
+    </clipPath>
+  </defs>
+  <text class="b0674dd0-71f1-49a1-bb26-f35f9ccdcb64" transform="translate(94.3 37.1)">04</text>
+  <line class="a7a9d9b5-f76c-427e-aa45-7760120de23d" x1="37.5" y1="422.5" x2="350" y2="422.5"/>
+  <text class="bbd5d768-9c00-4a1f-89a2-034d371ebd60" transform="translate(51.49 276.39)">プロジェクト参画フォロー</text>
+  <text class="be478be7-2dd2-487d-a9e5-68349e328f75" transform="translate(51.93 319.2)">プロジェクト参画中も、研修・セミナー<tspan x="0" y="24.5">の開催などのフォローをさせていただき</tspan><tspan x="0" y="49">ます。また、参画中のプロジェクトに対</tspan><tspan x="0" y="73.5">しても営業フォローいたします</tspan><tspan class="a5816e3b-9960-4f2b-a34e-4b5c634ad233" x="215.6" y="73.5">。</tspan></text>
+  <text class="b0674dd0-71f1-49a1-bb26-f35f9ccdcb64" transform="translate(83.3 462.1)">05</text>
+  <rect class="bc1a07f2-664d-41c8-bb35-f3d6e1af199f" x="94" width="261" height="58"/>
+  <g class="bd23077b-fcb9-45e7-ae1a-d76ca73bb2c7">
+    <image width="1980" height="1320" transform="translate(7.64 -9.06) scale(0.2)" xlink:href="http://3.112.250.183/wp-content/uploads/2021/11/pixta_77206103_XL.jpg"/>
+  </g>
+</svg>

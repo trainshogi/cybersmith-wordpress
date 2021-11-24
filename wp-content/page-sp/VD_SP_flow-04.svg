@@ -1,0 +1,72 @@
+<svg id="ee777c6b-e489-407c-8353-23a7a21c18b8" data-name="レイヤー 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 375 444">
+  <defs>
+    <style>
+      .a143ff2c-fd22-410a-a373-f774d919fa31, .bc9f6caf-a144-4cbb-b139-a9cbe815f9c0 {
+        fill: none;
+      }
+
+      .eb77f015-42ec-4e58-9757-589a0e9d7132 {
+        opacity: 0.19;
+        font-size: 200px;
+        font-family: Avenir-Black, Avenir;
+        font-weight: 800;
+        letter-spacing: 0.1em;
+      }
+
+      .a143ff2c-fd22-410a-a373-f774d919fa31 {
+        stroke: #000;
+        stroke-miterlimit: 10;
+      }
+
+      .aa290f09-65bc-41a1-a649-776600143fec {
+        font-size: 18px;
+        letter-spacing: 0.1em;
+      }
+
+      .aa290f09-65bc-41a1-a649-776600143fec, .ad6d2fb7-56d6-4893-9218-da7552cf4c24 {
+        font-family: HiraKakuProN-W3-83pv-RKSJ-H, Hiragino Kaku Gothic ProN;
+      }
+
+      .ad6d2fb7-56d6-4893-9218-da7552cf4c24 {
+        font-size: 14px;
+        letter-spacing: 0.1em;
+      }
+
+      .f8207997-2cd1-430d-bdf8-6744dec40f4b {
+        letter-spacing: 0.35em;
+      }
+
+      .ad163730-4f89-4f80-a983-4d2c194c5008 {
+        letter-spacing: 0.1em;
+      }
+
+      .aa3e6c84-bc86-4ec1-a889-c9aa1e74a24e {
+        letter-spacing: -0.4em;
+      }
+
+      .ff83ac89-64bd-42ba-b590-086da45cf4cd {
+        letter-spacing: -0.4em;
+      }
+
+      .f392739f-4ce2-460b-9906-8383e12f2077 {
+        fill: #fff;
+      }
+
+      .f68ecf93-0c38-47cb-bdc5-65601274dda7 {
+        clip-path: url(#a4e92c23-be9f-49bc-8d2c-bd2187cfc58a);
+      }
+    </style>
+    <clipPath id="a4e92c23-be9f-49bc-8d2c-bd2187cfc58a">
+      <rect class="bc9f6caf-a144-4cbb-b139-a9cbe815f9c0" x="36" y="31" width="306.59" height="228" rx="3.82"/>
+    </clipPath>
+  </defs>
+  <text class="eb77f015-42ec-4e58-9757-589a0e9d7132" transform="translate(117.3 29.1)">01</text>
+  <line class="a143ff2c-fd22-410a-a373-f774d919fa31" x1="26.5" y1="443.5" x2="354" y2="443.5"/>
+  <text class="aa290f09-65bc-41a1-a649-776600143fec" transform="translate(39.49 304.39)">オンライン面談</text>
+  <text class="ad6d2fb7-56d6-4893-9218-da7552cf4c24" transform="translate(39.93 346.2)">オンライン（ZOOM/GoogleMee<tspan class="f8207997-2cd1-430d-bdf8-6744dec40f4b" x="241.69" y="0">t</tspan><tspan class="ad163730-4f89-4f80-a983-4d2c194c5008" x="252.08" y="0">など</tspan><tspan class="aa3e6c84-bc86-4ec1-a889-c9aa1e74a24e" x="282.88" y="0">）</tspan><tspan x="0" y="24.5">にて、お問い合わせいただいた案件・ご希</tspan><tspan x="0" y="49">望のプロジェクトを元にヒアリングなどを</tspan><tspan x="0" y="73.5">させていただきます</tspan><tspan class="ff83ac89-64bd-42ba-b590-086da45cf4cd" x="138.6" y="73.5">。</tspan></text>
+  <text class="eb77f015-42ec-4e58-9757-589a0e9d7132" transform="translate(94.3 481.1)">02</text>
+  <rect class="f392739f-4ce2-460b-9906-8383e12f2077" x="94" width="261" height="58"/>
+  <g class="f68ecf93-0c38-47cb-bdc5-65601274dda7">
+    <image width="1980" height="1182" transform="translate(-13.81 6.09) scale(0.22 0.22)" xlink:href="http://3.112.250.183/wp-content/uploads/2021/11/pixta_76445891_XL.jpg"/>
+  </g>
+</svg>

@@ -1,0 +1,97 @@
+<svg id="ec9a68f6-288f-44f1-bebd-017cbe616189" data-name="レイヤー 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 375 904">
+  <defs>
+    <style>
+      .bd879270-1226-4144-b47d-2316ffc222c4 {
+        font-size: 50px;
+        letter-spacing: 0.1em;
+      }
+
+      .ac206e16-c17b-4956-9e7b-c331afafb39f, .bd4a41bc-49cd-4cfd-b4e6-0fa28d28fddc, .e6a3b63d-2ae2-415e-b302-3862663cdf33 {
+        fill: none;
+        stroke: #000;
+        stroke-miterlimit: 10;
+      }
+
+      .bd4a41bc-49cd-4cfd-b4e6-0fa28d28fddc {
+        stroke-width: 1.51px;
+      }
+
+      .ac206e16-c17b-4956-9e7b-c331afafb39f, .e6a3b63d-2ae2-415e-b302-3862663cdf33 {
+        stroke-width: 0.75px;
+      }
+
+      .e6a3b63d-2ae2-415e-b302-3862663cdf33 {
+        stroke-dasharray: 2.97 2.97;
+      }
+
+      .b2009fba-71bd-49cb-adcc-4e6874c5ec66 {
+        font-size: 14px;
+        font-family: HiraKakuProN-W6-83pv-RKSJ-H, Hiragino Kaku Gothic ProN;
+        letter-spacing: 0.1em;
+      }
+
+      .ac5891cb-006a-4979-98fc-ddc70e9cdd50 {
+        font-size: 12px;
+        font-family: HiraKakuPro-W3-83pv-RKSJ-H, Hiragino Kaku Gothic Pro;
+        letter-spacing: 0.1em;
+      }
+
+      .b08a32fc-6a65-442b-b62a-e732c1a4c945 {
+        letter-spacing: -0.4em;
+      }
+
+      .a50fb724-d07b-4353-8940-103897710238 {
+        letter-spacing: 0.35em;
+      }
+
+      .eeb4e549-9531-4b11-8b0c-51d20eeb8d19 {
+        letter-spacing: 0.35em;
+      }
+
+      .a8074fa0-652e-4275-9001-4caaf8dbdf34 {
+        letter-spacing: 0.1em;
+      }
+
+      .ac1bbc6f-f29e-420d-b011-dbb864bdac79 {
+        fill: #b3b3b3;
+      }
+    </style>
+  </defs>
+  <text class="bd879270-1226-4144-b47d-2316ffc222c4" transform="translate(20.95 96.21)">COMPANY</text>
+  <line class="bd4a41bc-49cd-4cfd-b4e6-0fa28d28fddc" x1="20" y1="37" x2="70" y2="37"/>
+  <g>
+    <line class="ac206e16-c17b-4956-9e7b-c331afafb39f" x1="21" y1="130.5" x2="22.5" y2="130.5"/>
+    <line class="e6a3b63d-2ae2-415e-b302-3862663cdf33" x1="25.47" y1="130.5" x2="339.01" y2="130.5"/>
+    <line class="ac206e16-c17b-4956-9e7b-c331afafb39f" x1="340.5" y1="130.5" x2="342" y2="130.5"/>
+  </g>
+  <g>
+    <line class="ac206e16-c17b-4956-9e7b-c331afafb39f" x1="21" y1="214.5" x2="22.5" y2="214.5"/>
+    <line class="e6a3b63d-2ae2-415e-b302-3862663cdf33" x1="25.47" y1="214.5" x2="339.01" y2="214.5"/>
+    <line class="ac206e16-c17b-4956-9e7b-c331afafb39f" x1="340.5" y1="214.5" x2="342" y2="214.5"/>
+  </g>
+  <g>
+    <line class="ac206e16-c17b-4956-9e7b-c331afafb39f" x1="21" y1="282.5" x2="22.5" y2="282.5"/>
+    <line class="e6a3b63d-2ae2-415e-b302-3862663cdf33" x1="25.47" y1="282.5" x2="339.01" y2="282.5"/>
+    <line class="ac206e16-c17b-4956-9e7b-c331afafb39f" x1="340.5" y1="282.5" x2="342" y2="282.5"/>
+  </g>
+  <g>
+    <line class="ac206e16-c17b-4956-9e7b-c331afafb39f" x1="21" y1="377.5" x2="22.5" y2="377.5"/>
+    <line class="e6a3b63d-2ae2-415e-b302-3862663cdf33" x1="25.47" y1="377.5" x2="339.01" y2="377.5"/>
+    <line class="ac206e16-c17b-4956-9e7b-c331afafb39f" x1="340.5" y1="377.5" x2="342" y2="377.5"/>
+  </g>
+  <g>
+    <line class="ac206e16-c17b-4956-9e7b-c331afafb39f" x1="21" y1="520.5" x2="22.5" y2="520.5"/>
+    <line class="e6a3b63d-2ae2-415e-b302-3862663cdf33" x1="25.47" y1="520.5" x2="339.01" y2="520.5"/>
+    <line class="ac206e16-c17b-4956-9e7b-c331afafb39f" x1="340.5" y1="520.5" x2="342" y2="520.5"/>
+  </g>
+  <text class="b2009fba-71bd-49cb-adcc-4e6874c5ec66" transform="translate(33.86 164.59)">名称</text>
+  <text class="ac5891cb-006a-4979-98fc-ddc70e9cdd50" transform="translate(33.86 191.83)">株式会社サイバースミス（Cybersmith Inc,<tspan class="b08a32fc-6a65-442b-b62a-e732c1a4c945" x="268.88" y="0">）</tspan></text>
+  <text class="b2009fba-71bd-49cb-adcc-4e6874c5ec66" transform="translate(33.86 242.59)">設立</text>
+  <text class="ac5891cb-006a-4979-98fc-ddc70e9cdd50" transform="translate(33.86 266.83)">202<tspan class="a50fb724-d07b-4353-8940-103897710238" x="27.25" y="0">1年4月</tspan><tspan x="83.87" y="0">2</tspan><tspan class="a50fb724-d07b-4353-8940-103897710238" x="92.95" y="0">6</tspan><tspan x="105.03" y="0">日</tspan></text>
+  <text class="b2009fba-71bd-49cb-adcc-4e6874c5ec66" transform="translate(33.86 313.59)">住所</text>
+  <text class="ac5891cb-006a-4979-98fc-ddc70e9cdd50" transform="translate(34.86 337.83)">〒101-0054 東京都千代田区神田錦<tspan class="eeb4e549-9531-4b11-8b0c-51d20eeb8d19" x="219.53" y="0">町</tspan><tspan class="a8074fa0-652e-4275-9001-4caaf8dbdf34" x="235.73" y="0">1-17-1</tspan><tspan x="0" y="21">神田髙木ビ</tspan><tspan class="eeb4e549-9531-4b11-8b0c-51d20eeb8d19" x="66" y="21">ル4</tspan><tspan x="94.33" y="21">階</tspan></text>
+  <text class="b2009fba-71bd-49cb-adcc-4e6874c5ec66" transform="translate(33.86 407.59)">事業内容</text>
+  <text class="ac5891cb-006a-4979-98fc-ddc70e9cdd50" transform="translate(33.86 434.83)">SI &amp; I<tspan class="a50fb724-d07b-4353-8940-103897710238" x="38.76" y="0">T</tspan><tspan x="50.75" y="0">コンサルティング事業</tspan><tspan x="0" y="21">小中高教育機関向</tspan><tspan class="a50fb724-d07b-4353-8940-103897710238" x="105.6" y="21">け</tspan><tspan x="121.8" y="21">I</tspan><tspan class="eeb4e549-9531-4b11-8b0c-51d20eeb8d19" x="125.99" y="21">T</tspan><tspan class="a8074fa0-652e-4275-9001-4caaf8dbdf34" x="137.98" y="21">教育事業</tspan><tspan x="0" y="42">大学生・社会人向</tspan><tspan class="a50fb724-d07b-4353-8940-103897710238" x="105.6" y="42">け</tspan><tspan x="121.8" y="42">I</tspan><tspan class="eeb4e549-9531-4b11-8b0c-51d20eeb8d19" x="125.99" y="42">T</tspan><tspan class="a8074fa0-652e-4275-9001-4caaf8dbdf34" x="137.98" y="42">教育事業</tspan><tspan x="0" y="63">社会課題解決型サービス企画・開発</tspan></text>
+  <text class="b2009fba-71bd-49cb-adcc-4e6874c5ec66" transform="translate(33.86 551.59)">アクセス</text>
+  <rect class="ac1bbc6f-f29e-420d-b011-dbb864bdac79" x="33" y="572" width="298" height="298"/>
+</svg>
