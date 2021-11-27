@@ -30,10 +30,11 @@
     <path class="fa5f6573-47fd-4cef-b12a-cd2d85a80557" d="M348,21.91a10,10,0,0,1,10,10v55a10,10,0,0,1-10,10H31a10,10,0,0,1-10-10v-55a10,10,0,0,1,10-10H348m0-5H31a15,15,0,0,0-15,15v55a15,15,0,0,0,15,15H348a15,15,0,0,0,15-15v-55a15,15,0,0,0-15-15Z"/>
   </g>
   <g id="humberger_open">
+    <rect class="white-rect" x="51.95" y="53.91" width="38" height="17.5" />
     <line class="a3704b65-0ca9-47af-b181-be632d0f6ea8" x1="51.95" y1="53.91" x2="89.95" y2="53.91"/>
     <line class="a3704b65-0ca9-47af-b181-be632d0f6ea8" x1="51.95" y1="62.41" x2="89.95" y2="62.41"/>
     <line class="a3704b65-0ca9-47af-b181-be632d0f6ea8" x1="51.95" y1="71.41" x2="89.95" y2="71.41"/>
   </g>
   <text class="f4fba615-e3ea-4354-8873-c7974fee194f" transform="translate(162.57 69.93)">サイバースミス</text>
-  <image width="2460" height="562" transform="translate(134 39) scale(0.07 0.08)" xlink:href="http://3.112.250.183/wp-content/uploads/2021/11/cybersmith-logo.png"/>
+  <a href="/"><image width="2460" height="562" transform="translate(134 39) scale(0.07 0.08)" xlink:href="http://3.112.250.183/wp-content/uploads/2021/11/cybersmith-logo.png"/></a>
 </svg>

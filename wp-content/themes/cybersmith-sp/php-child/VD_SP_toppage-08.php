@@ -8,5 +8,5 @@
       }
     </style>
   </defs>
-  <text class="b274c134-3047-4f0c-a851-81fa0f9f45a7" transform="translate(27.27 64.46)">トップページ</text>
+  <a href="/"><text class="b274c134-3047-4f0c-a851-81fa0f9f45a7" transform="translate(27.27 64.46)">トップページ</text></a>
 </svg>
