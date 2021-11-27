@@ -71,8 +71,8 @@
   <text class="e7b92e53-808a-47dc-8bd8-7e5a6f1a4e77" transform="translate(323.05 348.11)">サンプルサンプルサンプルサンプルサンプルサンプルサンプルサンプルサンプルサンプルル</text>
   <text class="eed73dde-4f08-4f5c-8679-53c026ef33d3" transform="translate(177.05 393.11)">2019.12.31</text>
   <text class="e7b92e53-808a-47dc-8bd8-7e5a6f1a4e77" transform="translate(323.05 393.11)">サンプルサンプルサンプルサンプルサンプルサンプルサンプルサンプルサンプルサンプルル</text>
-  <text class="beee17fe-8f04-40d4-91cd-2c7bb3823451" transform="translate(920.88 574.53)">トップページ</text>
-  <text class="a77e276c-2db2-44ec-afd0-b933d5a6e2a2" transform="translate(1053.88 573.53)">お仕事を探している方へ</text>
+  <a href="/"><text class="beee17fe-8f04-40d4-91cd-2c7bb3823451" transform="translate(920.88 574.53)">トップページ</text></a>
+  <a href="../for_worker/"><text class="a77e276c-2db2-44ec-afd0-b933d5a6e2a2" transform="translate(1053.88 573.53)">お仕事を探している方へ</text></a>
   <path class="f28cbbe6-3807-4118-9361-ae3cce1508d4" d="M1039.24,568.38l-1-1h0l-4.17-4.17a.37.37,0,0,0-.52,0l-1,1a.36.36,0,0,0,0,.52l2.74,2.75h-9a.3.3,0,0,0-.31.3v1.72a.31.31,0,0,0,.31.3h9l-2.74,2.74a.38.38,0,0,0-.11.26.39.39,0,0,0,.11.27l1,1a.35.35,0,0,0,.26.1.37.37,0,0,0,.26-.1l4.17-4.17h0l1-1A.37.37,0,0,0,1039.24,568.38Z"/>
   <line class="f34fce68-f857-4d33-9129-88cd99dec7a2" x1="924.34" y1="579.62" x2="1011.34" y2="579.62"/>
   <text class="a5e99f25-fd7b-4dc3-88f7-6ddcf667221a" transform="translate(1011.56 439.44)">VIEW MORE</text>
