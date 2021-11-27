@@ -200,22 +200,6 @@
         stroke: #000;
         stroke-miterlimit: 10;
       }
-
-      .a94de4b5-b58a-4759-9225-607d24dee93b {
-        font-size: 18px;
-        font-family: HiraginoSans-W6-83pv-RKSJ-H, Hiragino Sans;
-      }
-
-      .a7ba7901-87ba-45d7-9234-dc12e01a8513 {
-        font-size: 12px;
-        fill: #0045ba;
-        font-family: HiraginoSans-W4-83pv-RKSJ-H, Hiragino Sans;
-      }
-
-      .b462a11b-0cca-413f-9ed6-9b52f514e179 {
-        font-size: 26px;
-        font-family: KozGoPr6N-Bold-83pv-RKSJ-H, Kozuka Gothic Pr6N;
-      }
     </style>
     <clipPath id="abe1921c-dcd0-4d0f-93a6-1ed842f7f233">
       <rect class="f63e2d40-7883-4045-9aa3-67841bd9df31" x="-23" y="-61" width="1422" height="398"/>
@@ -907,20 +891,4 @@
     </g>
   </g>
   <rect class="e73bf54d-66f2-4884-84bd-f0a135973133" x="-10" y="261" width="572" height="129" rx="10"/>
-  <rect class="e73bf54d-66f2-4884-84bd-f0a135973133" x="186" y="22" width="1000" height="100" rx="10"/>
-  <g class="a8cfb6fe-b42b-4b2c-ab44-a8a08e94cf01">
-    <path class="a4594911-0534-46d2-a83b-dc7607246852" d="M1176,22a10,10,0,0,1,10,10v80a10,10,0,0,1-10,10H196a10,10,0,0,1-10-10V32a10,10,0,0,1,10-10h980m0-5H196a15,15,0,0,0-15,15v80a15,15,0,0,0,15,15h980a15,15,0,0,0,15-15V32a15,15,0,0,0-15-15Z"/>
-  </g>
-  <line class="b84256e9-5c0a-49df-a66c-7a2cd5172e13" x1="217" y1="64" x2="255" y2="64"/>
-  <line class="b84256e9-5c0a-49df-a66c-7a2cd5172e13" x1="217" y1="72.5" x2="255" y2="72.5"/>
-  <line class="b84256e9-5c0a-49df-a66c-7a2cd5172e13" x1="217" y1="81.5" x2="255" y2="81.5"/>
-  <text class="a94de4b5-b58a-4759-9225-607d24dee93b" transform="translate(769.22 90.22)">案件情報一覧</text>
-  <text class="a94de4b5-b58a-4759-9225-607d24dee93b" transform="translate(610.89 90.22)">はじめての方へ</text>
-  <text class="a94de4b5-b58a-4759-9225-607d24dee93b" transform="translate(909.56 90.22)">教育サービス</text>
-  <text class="a94de4b5-b58a-4759-9225-607d24dee93b" transform="translate(1049.89 90.22)">お問い合わせ</text>
-  <text class="a7ba7901-87ba-45d7-9234-dc12e01a8513" transform="translate(731.89 58.47)">ご利用の流れ</text>
-  <text class="a7ba7901-87ba-45d7-9234-dc12e01a8513" transform="translate(825.89 58.47)">エンジニアを探している企業様へ</text>
-  <text class="a7ba7901-87ba-45d7-9234-dc12e01a8513" transform="translate(1022.89 58.47)">お仕事を探している方へ</text>
-  <text class="a7ba7901-87ba-45d7-9234-dc12e01a8513" transform="translate(651.89 58.47)">運営会社</text>
-  <text class="b462a11b-0cca-413f-9ed6-9b52f514e179" transform="translate(279.61 82.02)">サイバースミス</text>
 </svg>

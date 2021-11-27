@@ -79,8 +79,8 @@
     </clipPath>
   </defs>
   <g id="f3d49195-fab1-4071-8852-e0bb82305a0c" data-name="レイヤー 1">
-    <text class="b710a1d8-a76f-4925-8d92-eea55959039e" transform="translate(982.54 1306.41)">トップページ</text>
-    <text class="a8b24a9c-62c6-4c8a-808b-6adeb68491fc" transform="translate(1115.54 1305.41)">はじめての方へ</text>
+    <a href="/"><text class="b710a1d8-a76f-4925-8d92-eea55959039e" transform="translate(982.54 1306.41)">トップページ</text></a>
+    <a href="."><text class="a8b24a9c-62c6-4c8a-808b-6adeb68491fc" transform="translate(1115.54 1305.41)">はじめての方へ</text></a>
     <path class="fd092e45-13e2-4dd0-8cf9-9b5bd012123b" d="M1100.9,1300.25l-1-1h0l-4.17-4.16a.36.36,0,0,0-.52,0l-1,1a.36.36,0,0,0,0,.52l2.74,2.75h-9a.29.29,0,0,0-.3.3v1.71a.3.3,0,0,0,.3.31h9l-2.74,2.74a.36.36,0,0,0,0,.52l1,1a.34.34,0,0,0,.26.11.33.33,0,0,0,.26-.11l4.17-4.16h0l1-1A.39.39,0,0,0,1100.9,1300.25Z"/>
     <line class="ed2f9249-ac4a-4c1c-b9c1-798f4b6a5e04" x1="1032" y1="1311.5" x2="1119" y2="1311.5"/>
     <line class="a56cf379-a0ff-426d-a9a5-de896cfbd24c" x1="657" y1="83" x2="707" y2="83"/>

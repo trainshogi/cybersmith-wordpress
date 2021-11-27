@@ -1,14 +1,6 @@
 <svg id="be586d64-451d-4adf-9219-4a8113428f33" data-name="レイヤー 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1366 151">
   <defs>
     <style>
-      .b6a36d0c-43d4-4898-b535-acb687773e52 {
-        opacity: 0.19;
-        font-size: 200px;
-        font-family: Avenir-Black, Avenir;
-        font-weight: 800;
-        letter-spacing: 0.1em;
-      }
-
       .b40579b7-24e3-4ded-ad9b-fac1fb6c1216 {
         fill: #83ccd2;
       }
@@ -24,8 +16,7 @@
       }
     </style>
   </defs>
-  <text class="b6a36d0c-43d4-4898-b535-acb687773e52" transform="translate(919.3 0.1)">05</text>
-  <g>
+  <g><a href="../matter_list/">
     <rect class="b40579b7-24e3-4ded-ad9b-fac1fb6c1216" x="463.76" y="47.44" width="400" height="60" rx="30"/>
     <g>
       <circle class="b40579b7-24e3-4ded-ad9b-fac1fb6c1216" cx="826.17" cy="79.84" r="13.51"/>
@@ -35,6 +26,5 @@
       </g>
     </g>
     <text class="a2f077a6-40b4-4207-9f24-600522638090" transform="translate(568.67 85.71)">案件情報一覧をみる</text>
-  </g>
-  <rect class="e6900489-82a2-44a7-837a-c567a2785862" x="919" y="-39" width="261" height="58"/>
+  </a></g>
 </svg>

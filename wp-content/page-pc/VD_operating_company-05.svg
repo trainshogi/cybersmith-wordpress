@@ -1,0 +1,37 @@
+<svg id="fbd5385e-0c6b-4258-a6ff-254dd3421b2b" data-name="レイヤー 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1366 69">
+  <defs>
+    <style>
+      .a053607d-6239-4c19-92ca-e6066dea02e2, .b5a89b91-e4ae-4ed8-a95e-f4e1136fd49f {
+        font-size: 14px;
+        letter-spacing: 0.1em;
+      }
+
+      .a053607d-6239-4c19-92ca-e6066dea02e2 {
+        font-family: HiraKakuProN-W3-83pv-RKSJ-H, Hiragino Kaku Gothic ProN;
+      }
+
+      .b5a89b91-e4ae-4ed8-a95e-f4e1136fd49f {
+        font-family: HiraKakuProN-W6-83pv-RKSJ-H, Hiragino Kaku Gothic ProN;
+      }
+
+      .f2edbadb-73da-443e-bd4b-eac15f594daf {
+        fill: #dc4335;
+      }
+
+      .a6031fc0-534d-4f0e-83fb-5241ef72c7f9 {
+        fill: none;
+        stroke: #dc4335;
+        stroke-miterlimit: 10;
+      }
+
+      .f841f733-fa78-4f5f-8ffe-ab649c86aaa7 {
+        fill: #df7163;
+      }
+    </style>
+  </defs>
+  <a href="/"><text class="a053607d-6239-4c19-92ca-e6066dea02e2" transform="translate(1029.54 37.41)">トップページ</text></a>
+  <a href="."><text class="b5a89b91-e4ae-4ed8-a95e-f4e1136fd49f" transform="translate(1162.54 36.41)">運営会社</text></a>
+  <path class="f2edbadb-73da-443e-bd4b-eac15f594daf" d="M1147.9,31.25l-1-1h0l-4.17-4.16a.36.36,0,0,0-.52,0l-1,1a.36.36,0,0,0,0,.52l2.74,2.75h-9a.29.29,0,0,0-.3.3v1.71a.3.3,0,0,0,.3.31h9l-2.74,2.74a.36.36,0,0,0,0,.52l1,1a.34.34,0,0,0,.26.11.33.33,0,0,0,.26-.11l4.17-4.16h0l1-1A.39.39,0,0,0,1147.9,31.25Z"/>
+  <line class="a6031fc0-534d-4f0e-83fb-5241ef72c7f9" x1="1033" y1="42.5" x2="1120" y2="42.5"/>
+  <rect class="f841f733-fa78-4f5f-8ffe-ab649c86aaa7" x="-22.25" y="68.58" width="1427" height="726"/>
+</svg>

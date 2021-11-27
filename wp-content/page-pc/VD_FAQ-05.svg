@@ -25,8 +25,8 @@
       }
     </style>
   </defs>
-  <text class="e0299ad3-5ca7-4d2f-b150-89c44ef33966" transform="translate(1000.54 47.41)">トップページ</text>
-  <text class="eb863834-a929-4d2d-a7e5-7fd0697ed058" transform="translate(1133.54 46.41)">よくある質問</text>
+  <a href="/"><text class="e0299ad3-5ca7-4d2f-b150-89c44ef33966" transform="translate(1000.54 47.41)">トップページ</text></a>
+  <a href="."><text class="eb863834-a929-4d2d-a7e5-7fd0697ed058" transform="translate(1133.54 46.41)">よくある質問</text></a>
   <path class="bb17da86-435c-40de-9eb1-aa11669dfcb3" d="M1118.9,41.25l-1-1h0l-4.17-4.16a.36.36,0,0,0-.52,0l-1,1a.36.36,0,0,0,0,.52l2.74,2.75h-9a.29.29,0,0,0-.3.3v1.71a.3.3,0,0,0,.3.31h9l-2.74,2.74a.36.36,0,0,0,0,.52l1,1a.34.34,0,0,0,.26.11.33.33,0,0,0,.26-.11l4.17-4.16h0l1-1A.39.39,0,0,0,1118.9,41.25Z"/>
   <line class="bbbfcfa9-de3f-4b21-b090-40ff208290fb" x1="1004" y1="52.5" x2="1091" y2="52.5"/>
 </svg>

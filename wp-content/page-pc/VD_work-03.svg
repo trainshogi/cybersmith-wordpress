@@ -64,8 +64,8 @@
   <text class="b3ace0a5-0036-448f-9bdc-c3d57d9c7796" transform="translate(185.62 121.05)">案件情報一覧</text>
   <text class="a50186d9-bb53-4016-b155-1b7914e7ea2d" transform="translate(210.21 69.49)">WORK</text>
   <line class="f6b81954-9eb5-496b-8528-d48521367534" x1="204" y1="53" x2="188" y2="69"/>
-  <text class="b5029fb4-9f5b-4aba-ab08-0a7c7586def7" transform="translate(999.54 118.41)">トップページ</text>
-  <text class="f8b46b6d-7cd5-4b66-9413-cd4282332b33" transform="translate(1132.54 117.41)">案件情報一覧</text>
+  <a href="/"><text class="b5029fb4-9f5b-4aba-ab08-0a7c7586def7" transform="translate(999.54 118.41)">トップページ</text></a>
+  <a href="."><text class="f8b46b6d-7cd5-4b66-9413-cd4282332b33" transform="translate(1132.54 117.41)">案件情報一覧</text></a>
   <path class="e6a9f4a2-f2a2-4711-b8db-94267d4eafb3" d="M1117.9,112.25l-1-1h0l-4.17-4.16a.36.36,0,0,0-.52,0l-1,1a.36.36,0,0,0,0,.52l2.74,2.75h-9a.29.29,0,0,0-.3.3v1.71a.3.3,0,0,0,.3.31h9l-2.74,2.74a.36.36,0,0,0,0,.52l1,1a.34.34,0,0,0,.26.11.33.33,0,0,0,.26-.11l4.17-4.16h0l1-1A.39.39,0,0,0,1117.9,112.25Z"/>
   <line class="ef72b223-e030-4ba0-b556-a9b24ad8a9d9" x1="1003" y1="123.5" x2="1090" y2="123.5"/>
 </svg>

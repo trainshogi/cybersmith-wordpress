@@ -70,8 +70,8 @@
   <text class="e9f47efa-d6ce-4443-8fc6-580060e6024b" transform="translate(284.41 200.64)">当サイトでは下記のような流れで、皆様に最適な案件をご紹介しております<tspan class="ff381623-1c11-410f-a025-99f30daa9a8f" x="673.2" y="0">。</tspan></text>
   <text class="b5d6eded-944b-4210-8ed2-e4c1f56d67bc" transform="translate(210.21 69.49)">FLOW</text>
   <line class="aa2c057a-597c-485a-b67d-0be395c05394" x1="204" y1="53" x2="188" y2="69"/>
-  <text class="ea407ca0-ccd0-4bf4-aca2-13b9aba2a2c7" transform="translate(997.54 118.41)">トップページ</text>
-  <text class="ff441b40-e067-45d8-b6fb-c00cc2e211c1" transform="translate(1130.54 117.41)">ご利用の流れ</text>
+  <a href="/"><text class="ea407ca0-ccd0-4bf4-aca2-13b9aba2a2c7" transform="translate(997.54 118.41)">トップページ</text></a>
+  <a href="."><text class="ff441b40-e067-45d8-b6fb-c00cc2e211c1" transform="translate(1130.54 117.41)">ご利用の流れ</text></a>
   <path class="aa2c057a-597c-485a-b67d-0be395c05394" d="M1115.9,112.25l-1-1h0l-4.17-4.16a.36.36,0,0,0-.52,0l-1,1a.36.36,0,0,0,0,.52l2.74,2.75h-9a.29.29,0,0,0-.3.3v1.71a.3.3,0,0,0,.3.31h9l-2.74,2.74a.36.36,0,0,0,0,.52l1,1a.34.34,0,0,0,.26.11.33.33,0,0,0,.26-.11l4.17-4.16h0l1-1A.39.39,0,0,0,1115.9,112.25Z"/>
   <line class="a95afadc-afc6-4eb9-bbe8-24da0cb3553e" x1="1001" y1="123.5" x2="1088" y2="123.5"/>
 </svg>

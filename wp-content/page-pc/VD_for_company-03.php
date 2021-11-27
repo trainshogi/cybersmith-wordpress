@@ -316,8 +316,8 @@
   <text class="ffe814d2-4e0b-4ff6-a173-d2059819c3c7" transform="translate(185.62 121.05)">企業様へ</text>
   <text class="bb5fe524-832e-4bff-b18d-ef7e1a55e251" transform="translate(210.21 69.49)">FOR CLIENTS</text>
   <line class="bec3428b-510e-4823-911a-2e4980660a21" x1="204" y1="53" x2="188" y2="69"/>
-  <text class="ef56be6b-8181-4414-bab8-f6d61c3d6dd3" transform="translate(1029.54 118.41)">トップページ</text>
-  <text class="efda72b6-809a-4e87-8deb-3da11708e120" transform="translate(1162.54 117.41)">企業様へ</text>
+  <a href="/"><text class="ef56be6b-8181-4414-bab8-f6d61c3d6dd3" transform="translate(1029.54 118.41)">トップページ</text></a>
+  <a href="."><text class="efda72b6-809a-4e87-8deb-3da11708e120" transform="translate(1162.54 117.41)">企業様へ</text></a>
   <path class="be88e909-3592-4dcd-b3df-2291d4a8014a" d="M1147.9,112.25l-1-1h0l-4.17-4.16a.36.36,0,0,0-.52,0l-1,1a.36.36,0,0,0,0,.52l2.74,2.75h-9a.29.29,0,0,0-.3.3v1.71a.3.3,0,0,0,.3.31h9l-2.74,2.74a.36.36,0,0,0,0,.52l1,1a.34.34,0,0,0,.26.11.33.33,0,0,0,.26-.11l4.17-4.16h0l1-1A.39.39,0,0,0,1147.9,112.25Z"/>
   <line class="a4b9dbb3-085b-4799-89d6-dda187f4c8b6" x1="1033" y1="123.5" x2="1120" y2="123.5"/>
   <text class="a6381c46-ac1e-4d25-95d0-906801329207" transform="translate(284.41 200.64)">企業にとって人材の確保は重要な位置を占めており、採用活動に要する金銭的・時間的な<tspan x="0" y="31.5">コストも見過ごせません。特</tspan><tspan class="fd64974a-5173-43b3-8c6f-6b9313a27c07" x="257.4" y="31.5">に</tspan><tspan x="281.7" y="31.5">I</tspan><tspan class="aaf4fdc5-d0ff-4123-8913-d57d61297802" x="287.98" y="31.5">T</tspan><tspan class="e86b2bdb-f183-49f8-b921-4daa45589332" x="305.96" y="31.5">職については慢性的な人手不足というお悩みを抱えてい</tspan><tspan x="0" y="63">る企業様も多く、こうした問題の根本的な解決が求められてきました</tspan><tspan class="f29615e0-aedf-402b-8891-17edc739f353" x="613.8" y="63">。</tspan><tspan x="0" y="94.5">安定的かつ確実に人材を確保するためには、優れたプロフェッショナル人材をつなぐ当社</tspan><tspan x="0" y="126">の役目もより重要となってきております</tspan><tspan class="ee67267d-b119-46ab-aadb-8543d649d571" x="356.4" y="126">。</tspan></text>

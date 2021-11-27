@@ -64,8 +64,8 @@
   <text class="b47dd61d-6620-4457-a87a-dae1ffc4e54c" transform="translate(185.62 121.05)">教育サービス</text>
   <text class="a2a819e6-ac2d-442c-88a2-f891ed20f8fe" transform="translate(210.21 69.49)">EDUCATION</text>
   <line class="e41d2be8-4221-4357-bac3-054b3d7205c6" x1="204" y1="53" x2="188" y2="69"/>
-  <text class="b71a60c0-ca94-4847-95e1-3f79bba85e17" transform="translate(999.54 118.41)">トップページ</text>
-  <text class="aca3f6e9-d6db-42b6-91b1-13cc77fd95d8" transform="translate(1132.54 117.41)">教育サービス</text>
+  <a href="/"><text class="b71a60c0-ca94-4847-95e1-3f79bba85e17" transform="translate(999.54 118.41)">トップページ</text></a>
+  <a href="."><text class="aca3f6e9-d6db-42b6-91b1-13cc77fd95d8" transform="translate(1132.54 117.41)">教育サービス</text></a>
   <path class="bbf451b8-1955-4738-a456-7623f5b1ce32" d="M1117.9,112.25l-1-1h0l-4.17-4.16a.36.36,0,0,0-.52,0l-1,1a.36.36,0,0,0,0,.52l2.74,2.75h-9a.29.29,0,0,0-.3.3v1.71a.3.3,0,0,0,.3.31h9l-2.74,2.74a.36.36,0,0,0,0,.52l1,1a.34.34,0,0,0,.26.11.33.33,0,0,0,.26-.11l4.17-4.16h0l1-1A.39.39,0,0,0,1117.9,112.25Z"/>
   <line class="a60edfcd-c6bb-470a-8765-ac17118adf21" x1="1003" y1="123.5" x2="1090" y2="123.5"/>
 </svg>
