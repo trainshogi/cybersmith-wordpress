@@ -625,16 +625,18 @@
 
 
       <!--raw-->
-      <foreignObject transform="translate(134 1534)"  width="1270" height="319"
+      <foreignObject transform="translate(0 1534)"  width="1359" height="319"
                     requiredExtensions="http://www.w3.org/1999/xhtml">
         <!-- XHTML content goes here -->
         <body xmlns="http://www.w3.org/1999/xhtml">
           <div class="horizontal-list">
-            <div style="display: inline-block; box-shadow: 0 0 10px 0; margin-right: 45px; height: 300px; width: 300px;"><img width="300" src="http://3.112.250.183/wp-content/uploads/2021/11/VD_toppage_seminer.svg" /></div>
-            <div style="display: inline-block; box-shadow: 0 0 10px 0; margin-right: 45px; height: 300px; width: 300px;"><img width="300" src="http://3.112.250.183/wp-content/uploads/2021/11/VD_toppage_seminer.svg" /></div>
-            <div style="display: inline-block; box-shadow: 0 0 10px 0; margin-right: 45px; height: 300px; width: 300px;"><img width="300" src="http://3.112.250.183/wp-content/uploads/2021/11/VD_toppage_seminer.svg" /></div>
-            <div style="display: inline-block; box-shadow: 0 0 10px 0; margin-right: 45px; height: 300px; width: 300px;"><img width="300" src="http://3.112.250.183/wp-content/uploads/2021/11/VD_toppage_seminer.svg" /></div>
-            <div style="display: inline-block; box-shadow: 0 0 10px 0; margin-right: 45px; height: 300px; width: 300px;"><img width="300" src="http://3.112.250.183/wp-content/uploads/2021/11/VD_toppage_seminer.svg" /></div>
+            <div style="padding-right: 134px;"></div>
+            <div style="display: inline-block; box-shadow: 0 0 10px 0; margin-right: 45px; height: 300px; width: 300px;"><object type="image/svg+xml" data="http://3.112.250.183/wp-content/uploads/2021/11/VD_toppage_seminer.svg" width="300"></object></div>
+            <div style="display: inline-block; box-shadow: 0 0 10px 0; margin-right: 45px; height: 300px; width: 300px;"><object type="image/svg+xml" data="http://3.112.250.183/wp-content/uploads/2021/11/VD_toppage_seminer.svg" width="300"></object></div>
+            <div style="display: inline-block; box-shadow: 0 0 10px 0; margin-right: 45px; height: 300px; width: 300px;"><object type="image/svg+xml" data="http://3.112.250.183/wp-content/uploads/2021/11/VD_toppage_seminer.svg" width="300"></object></div>
+            <div style="display: inline-block; box-shadow: 0 0 10px 0; margin-right: 45px; height: 300px; width: 300px;"><object type="image/svg+xml" data="http://3.112.250.183/wp-content/uploads/2021/11/VD_toppage_seminer.svg" width="300"></object></div>
+            <div style="display: inline-block; box-shadow: 0 0 10px 0; margin-right: 45px; height: 300px; width: 300px;"><object type="image/svg+xml" data="http://3.112.250.183/wp-content/uploads/2021/11/VD_toppage_seminer.svg" width="300"></object></div>
+            <div style="padding-left: 134px;"></div>
           </div>
         </body>
       </foreignObject>
