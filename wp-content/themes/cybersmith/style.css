@@ -20,3 +20,6 @@ svg{
   white-space: nowrap;
   -webkit-overflow-scrolling: touch;
 }
+.wp-block-image img {
+  height: auto;
+}

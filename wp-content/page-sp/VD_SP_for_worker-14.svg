@@ -16,7 +16,7 @@
       }
     </style>
   </defs>
-  <g>
+  <g><a href="../flow_sp/">
     <rect class="faadbd92-ce03-4eac-b131-1aca219c0198" x="27.12" y="25.2" width="320" height="60" rx="30"/>
     <g>
       <circle class="faadbd92-ce03-4eac-b131-1aca219c0198" cx="309.52" cy="57.61" r="13.51"/>
@@ -26,8 +26,8 @@
       </g>
     </g>
     <text class="a31bcb5f-8adb-4629-9822-727e628ec1aa" transform="translate(91.03 63.47)">ご利用の流れはこちら</text>
-  </g>
-  <g>
+  </a></g>
+  <g><a href="../matter_list_sp/">
     <rect class="faadbd92-ce03-4eac-b131-1aca219c0198" x="27.73" y="121.17" width="320" height="60" rx="30"/>
     <g>
       <circle class="faadbd92-ce03-4eac-b131-1aca219c0198" cx="310.14" cy="153.57" r="13.51"/>
@@ -37,5 +37,5 @@
       </g>
     </g>
     <text class="a31bcb5f-8adb-4629-9822-727e628ec1aa" transform="translate(105.64 159.43)">案件情報一覧をみる</text>
-  </g>
+  </a></g>
 </svg>

@@ -30,3 +30,6 @@ svg{
 .white-rect {
   fill: #fff;
 }
+.wp-block-image img {
+  height: auto;
+}

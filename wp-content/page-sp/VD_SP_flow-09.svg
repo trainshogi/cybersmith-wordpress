@@ -25,8 +25,8 @@
       }
     </style>
   </defs>
-  <text class="bf117acd-bfc2-4cfd-a8e0-6ef548938ad4" transform="translate(27.27 33.46)">トップページ</text>
-  <text class="f54ef36d-92c2-4175-9488-aba304730f44" transform="translate(160.27 32.46)">お知らせ</text>
+  <a href="/"><text class="bf117acd-bfc2-4cfd-a8e0-6ef548938ad4" transform="translate(27.27 33.46)">トップページ</text></a>
+  <a href="."><text class="f54ef36d-92c2-4175-9488-aba304730f44" transform="translate(160.27 32.46)">ご利用の流れ</text></a>
   <path class="bb791bde-0a3d-4fd2-80d6-add246cc3196" d="M145.62,27.3l-1-1h0l-4.16-4.16a.37.37,0,0,0-.53,0l-1,1a.39.39,0,0,0,0,.52l2.75,2.74h-9.06a.31.31,0,0,0-.3.31v1.71a.3.3,0,0,0,.3.3h9.06L139,31.47a.39.39,0,0,0,0,.52l1,1a.4.4,0,0,0,.27.11.38.38,0,0,0,.26-.11l4.16-4.16h0l1-1A.37.37,0,0,0,145.62,27.3Z"/>
   <line class="ab4bf08d-2d6e-47ee-ba4c-904211508405" x1="30.73" y1="38.55" x2="117.73" y2="38.55"/>
 </svg>

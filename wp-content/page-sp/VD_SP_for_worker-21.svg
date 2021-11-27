@@ -25,8 +25,8 @@
       }
     </style>
   </defs>
-  <text class="a6d01a16-36e5-4aba-b5aa-bcf9b6c78104" transform="translate(29.27 42.46)">トップページ</text>
-  <text class="f879ab98-dc1e-4fa0-a1c5-fc92448656f3" transform="translate(162.27 41.46)">お仕事を探している方へ</text>
+  <a href="/"><text class="a6d01a16-36e5-4aba-b5aa-bcf9b6c78104" transform="translate(29.27 42.46)">トップページ</text></a>
+  <a href="."><<text class="f879ab98-dc1e-4fa0-a1c5-fc92448656f3" transform="translate(162.27 41.46)">お仕事を探している方へ</text></a>
   <path class="be736b26-2c6c-4b47-b000-7e8c200cc25f" d="M147.62,36.3l-1-1h0l-4.16-4.16a.37.37,0,0,0-.53,0l-1,1a.39.39,0,0,0,0,.52l2.75,2.74h-9.06a.31.31,0,0,0-.3.31v1.71a.3.3,0,0,0,.3.3h9.06L141,40.47a.39.39,0,0,0,0,.52l1,1a.4.4,0,0,0,.27.11.38.38,0,0,0,.26-.11l4.16-4.16h0l1-1A.37.37,0,0,0,147.62,36.3Z"/>
   <line class="ef27d993-5561-4079-b2ca-0af952a5d69c" x1="32.73" y1="47.55" x2="119.73" y2="47.55"/>
 </svg>
