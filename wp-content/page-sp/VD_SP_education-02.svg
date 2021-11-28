@@ -58,12 +58,4 @@
   <text class="fa165b15-b9dc-4aac-9611-e1d79b84211c" transform="translate(40.84 266.5)">教育サービス</text>
   <text class="a202e46b-0ee5-4490-b6d9-1a96e200d598" transform="translate(65.43 237.94)">EDUCATION</text>
   <line class="e88e9d28-fdfe-4c8f-8149-4e85008a65ac" x1="59.22" y1="221.45" x2="43.22" y2="237.45"/>
-  <rect class="b7ebef16-897c-47b6-ad44-d87f0c1226ac" x="20.95" y="18.91" width="337" height="75" rx="10"/>
-  <g class="a8ec899a-a652-42f7-aad7-ab3bea35da12">
-    <path class="b0d103e9-ce75-4f2f-a3f1-f81cf6e98d7c" d="M348,18.91a10,10,0,0,1,10,10v55a10,10,0,0,1-10,10H31a10,10,0,0,1-10-10v-55a10,10,0,0,1,10-10H348m0-5H31a15,15,0,0,0-15,15v55a15,15,0,0,0,15,15H348a15,15,0,0,0,15-15v-55a15,15,0,0,0-15-15Z"/>
-  </g>
-  <line class="bbe39e6b-3ff1-481c-acb8-6ba649299176" x1="51.95" y1="50.91" x2="89.95" y2="50.91"/>
-  <line class="bbe39e6b-3ff1-481c-acb8-6ba649299176" x1="51.95" y1="59.41" x2="89.95" y2="59.41"/>
-  <line class="bbe39e6b-3ff1-481c-acb8-6ba649299176" x1="51.95" y1="68.41" x2="89.95" y2="68.41"/>
-  <text class="b938ce9f-1a47-489c-b9f6-0ccdfafe889e" transform="translate(162.57 66.93)">サイバースミス</text>
 </svg>

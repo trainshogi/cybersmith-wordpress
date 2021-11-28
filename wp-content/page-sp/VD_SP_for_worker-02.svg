@@ -58,12 +58,4 @@
   <text class="bd288d3f-b38d-4179-91a4-a1162ae77baa" transform="translate(40.84 265.5)">お仕事を探している方へ</text>
   <text class="a7577f53-88e1-439f-b9ab-c6f84f42526c" transform="translate(65.43 236.94)">WORK</text>
   <line class="ba7dec56-de45-4042-9d42-af0ba3c43c2e" x1="59.22" y1="220.45" x2="43.22" y2="236.45"/>
-  <rect class="b4dc9bd9-4ac4-40f6-bc82-6f64eb8eab9a" x="20.95" y="17.91" width="337" height="75" rx="10"/>
-  <g class="beb909b8-d543-4806-b738-bd64f10e276d">
-    <path class="ba34c7c2-8271-4d89-8ac4-1fa81b5e74a4" d="M348,17.91a10,10,0,0,1,10,10v55a10,10,0,0,1-10,10H31a10,10,0,0,1-10-10v-55a10,10,0,0,1,10-10H348m0-5H31a15,15,0,0,0-15,15v55a15,15,0,0,0,15,15H348a15,15,0,0,0,15-15v-55a15,15,0,0,0-15-15Z"/>
-  </g>
-  <line class="b90bcd9f-b9ae-405e-a36d-17c0a1c92787" x1="51.95" y1="49.91" x2="89.95" y2="49.91"/>
-  <line class="b90bcd9f-b9ae-405e-a36d-17c0a1c92787" x1="51.95" y1="58.41" x2="89.95" y2="58.41"/>
-  <line class="b90bcd9f-b9ae-405e-a36d-17c0a1c92787" x1="51.95" y1="67.41" x2="89.95" y2="67.41"/>
-  <text class="b1d7dc94-9e8a-4cc3-be76-55f1d9785c96" transform="translate(162.57 65.93)">サイバースミス</text>
 </svg>
