@@ -51,7 +51,7 @@
   <text class="f348b16f-81d8-42df-a382-ccc2f04964dd" transform="translate(769.22 90.22)"><a href="../matter_list/">案件情報一覧</a></text>
   <text class="f348b16f-81d8-42df-a382-ccc2f04964dd" transform="translate(610.89 90.22)"><a href="../about/">はじめての方へ</a></text>
   <text class="f348b16f-81d8-42df-a382-ccc2f04964dd" transform="translate(909.56 90.22)"><a href="../education/">教育サービス</a></text>
-  <text class="f348b16f-81d8-42df-a382-ccc2f04964dd" transform="translate(1049.89 90.22)"><a href="">お問い合わせ</a></text>
+  <text class="f348b16f-81d8-42df-a382-ccc2f04964dd" transform="translate(1049.89 90.22)"><a href="../contact/">お問い合わせ</a></text>
   <text class="abf72aea-b3f7-4265-8491-4ac281c5567a" transform="translate(731.89 58.47)"><a href="../flow/">ご利用の流れ</a></text>
   <text class="abf72aea-b3f7-4265-8491-4ac281c5567a" transform="translate(825.89 58.47)"><a href="../for_clients/">エンジニアを探している企業様へ</a></text>
   <text class="abf72aea-b3f7-4265-8491-4ac281c5567a" transform="translate(1022.89 58.47)"><a href="../for_worker/">お仕事を探している方へ</a></text>

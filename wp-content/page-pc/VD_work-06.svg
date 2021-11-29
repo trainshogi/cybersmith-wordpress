@@ -104,6 +104,7 @@
       .ec124300-465c-46ba-a452-0f31b7d90047 {
         stroke: #83ccd2;
         stroke-width: 5px;
+        fill: #fff;
       }
 
       .a29c9b0d-03f7-479b-97c1-386e849ebe8b {
@@ -147,7 +148,7 @@
   <text class="ea485cb6-8d32-4530-8446-616991d1599f" transform="translate(227.56 67.1)">NEW</text>
   <text class="eacab474-5f8b-402d-9782-46a197893aa0" transform="translate(501.67 174.05)">(<tspan class="ed640211-b1f6-4f46-a4ee-9e7f47c2e953" x="7.06" y="0">税</tspan><tspan x="18.06" y="0">別</tspan><tspan class="ed640211-b1f6-4f46-a4ee-9e7f47c2e953" x="31.56" y="0">)</tspan></text>
   <text class="fceb39fe-f455-48c1-ae26-69e1eac368e1" transform="translate(681.11 106.03)">【必須スキル<tspan class="acd3e9dc-3186-4db8-924d-3fa99b3f9aa6" x="92.4" y="0">】</tspan><tspan x="3.5" y="24.5">・SA</tspan><tspan class="a6cec1d2-a519-448d-9549-3ada45fda2a8" x="41.57" y="24.5">P</tspan><tspan x="55.73" y="24.5">システム構築（S/4HANA,BW/4HANA,HAN</tspan><tspan class="a6cec1d2-a519-448d-9549-3ada45fda2a8" x="381.13" y="24.5">A</tspan><tspan x="396.53" y="24.5">インストー</tspan><tspan x="7" y="49">ル・システムコピー作業</tspan><tspan class="acd3e9dc-3186-4db8-924d-3fa99b3f9aa6" x="176.4" y="49">）</tspan><tspan x="3.5" y="73.5">・アプリ開発支援（ユーザ作成、移送適用、クライアント管理等</tspan><tspan class="b6655a9f-cfff-484b-b262-36843a6dba35" x="450.1" y="73.5">）</tspan><tspan x="0" y="98">【尚可</tspan><tspan class="acd3e9dc-3186-4db8-924d-3fa99b3f9aa6" x="46.2" y="98">】</tspan><tspan x="3.5" y="122.5">・英語スキ</tspan><tspan class="b44ffc31-53a5-413b-a51e-47e572207391" x="80.5" y="122.5">ル(</tspan><tspan x="109.28" y="122.5">読</tspan><tspan class="a6cec1d2-a519-448d-9549-3ada45fda2a8" x="124.68" y="122.5">解</tspan><tspan x="143.58" y="122.5">)...</tspan></text>
-  <g>
+  <g><a href="../2021/11/28/案件情報_詳細/">
     <rect class="ec124300-465c-46ba-a452-0f31b7d90047" x="492.29" y="273.51" width="400" height="60" rx="30"/>
     <g>
       <circle class="a29c9b0d-03f7-479b-97c1-386e849ebe8b" cx="854.7" cy="305.92" r="13.51"/>
@@ -157,6 +158,6 @@
       </g>
     </g>
     <text class="ae442f53-3f2e-46d5-811c-04310c288ec3" transform="translate(550.2 311.78)">案件の詳細をみる・応募する</text>
-  </g>
+  </a></g>
   <text class="e848ae81-80ed-4953-8ea7-69c521c26f7f" transform="translate(939.05 69.11)">案<tspan class="b0f0ea61-a69b-4d62-a88a-f96b08a5282f" x="13.2" y="0">件</tspan><tspan x="29.4" y="0">#1305 公開</tspan><tspan class="ae8f8e8f-e904-4caf-bbf3-8303c945d7ee" x="106.42" y="0">日</tspan><tspan class="f8fc1236-5d41-44f3-b3f1-e7f4513f8038" x="122.62" y="0">: 2021/09/11</tspan></text>
 </svg>
