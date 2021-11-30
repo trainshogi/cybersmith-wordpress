@@ -582,48 +582,22 @@
       </a></g>
       <rect class="f150192c-b0fb-4fde-98f8-e97db184cb4c" x="-22" y="2743" width="1427" height="554"/>
       <image width="7135" height="4759" transform="translate(657 2207) scale(0.06)" xlink:href="http://3.112.250.183/wp-content/uploads/2021/11/pixta_58735719_XL.jpg"/>
-      <g>
-        <image class="fea957e9-e37a-4b55-9d1a-7a0cd7b0bb2d" width="319" height="319" transform="translate(787 1061)" xlink:href="http://3.112.250.183/wp-content/uploads/2021/11/VD_toppage1.png"/>
-        <rect class="e54918f9-fe2d-4108-b4ce-52ea2d5c7f61" x="796.66" y="1070.55" width="300" height="300" rx="5.89"/>
-      </g>
-      <text class="ab4ae765-d730-4c8b-8420-b93148955067" transform="translate(811.47 1113.44)">SAP(BASIS<tspan class="bd785351-1d18-43e1-bae4-875f6a474ad7" x="153.26" y="0">)</tspan><tspan x="170.21" y="0">システム</tspan><tspan x="0" y="42">構築支援</tspan></text>
-      <text class="ae317213-a227-443e-a950-a6d0e433a64b" transform="translate(814.59 1207.07)">製造<tspan class="ad9c3af5-cf7c-453e-94ef-1165e661f3af" x="30.8" y="0">業2</tspan><tspan x="63.8" y="0">社が合併をして新会社を設立</tspan><tspan x="0" y="24.5">するにあたって</tspan><tspan class="ad9c3af5-cf7c-453e-94ef-1165e661f3af" x="107.8" y="24.5">の</tspan><tspan x="126.7" y="24.5">SA</tspan><tspan class="ba326adf-3f50-426c-b9f4-b42534572153" x="149.37" y="24.5">P</tspan><tspan x="163.53" y="24.5">導入</tspan><tspan class="f9c2ecd8-26dc-477d-b429-10307cad8582" x="194.33" y="24.5"> </tspan><tspan x="196.9" y="24.5">・対象は</tspan><tspan x="0" y="49">SAP S/4HANA FICO</tspan><tspan class="f9c2ecd8-26dc-477d-b429-10307cad8582" x="162.47" y="49"> </tspan><tspan class="bdf8608a-c58c-454f-8d4c-ae09b53ab7bf" x="165.03" y="49">・導入にあ</tspan><tspan x="0" y="73.5">たってのチーム管理支</tspan><tspan class="ba326adf-3f50-426c-b9f4-b42534572153" x="154" y="73.5">援(</tspan><tspan class="bdf8608a-c58c-454f-8d4c-ae09b53ab7bf" x="182.78" y="73.5">アプリ関連</tspan><tspan x="0" y="98">のチームの予</tspan><tspan class="ba326adf-3f50-426c-b9f4-b42534572153" x="92.4" y="98">定</tspan><tspan class="bdf8608a-c58c-454f-8d4c-ae09b53ab7bf" x="111.3" y="98">) </tspan><tspan class="ba326adf-3f50-426c-b9f4-b42534572153" x="123.75" y="98">～</tspan><tspan x="142.65" y="98">202</tspan><tspan class="ba326adf-3f50-426c-b9f4-b42534572153" x="174.44" y="98">2年</tspan><tspan x="207.44" y="98">...</tspan></text>
-      <g>
-        <rect class="aa23ba53-2fef-422e-95d5-5167882cfe2e" x="817" y="1328.22" width="22.65" height="22.65" rx="5.81"/>
-        <g>
-          <g>
-            <rect class="e54918f9-fe2d-4108-b4ce-52ea2d5c7f61" x="828.42" y="1338.14" width="1.25" height="6.59" transform="translate(466.73 2876.19) rotate(-135)"/>
-            <path class="e54918f9-fe2d-4108-b4ce-52ea2d5c7f61" d="M827.16,1344.54a.37.37,0,0,1-.24-.1l-.89-.89a.33.33,0,0,1,0-.47l4.66-4.66a.33.33,0,0,1,.47,0l.89.89a.33.33,0,0,1,0,.47l-4.66,4.66A.34.34,0,0,1,827.16,1344.54Zm-.42-1.22.42.41,4.18-4.18-.41-.42Z"/>
-          </g>
-          <g>
-            <rect class="e54918f9-fe2d-4108-b4ce-52ea2d5c7f61" x="828.42" y="1334.37" width="1.25" height="6.59" transform="translate(-703.05 978.01) rotate(-45)"/>
-            <path class="e54918f9-fe2d-4108-b4ce-52ea2d5c7f61" d="M830.93,1340.77h0a.35.35,0,0,1-.24-.1L826,1336a.33.33,0,0,1,0-.47l.89-.89a.35.35,0,0,1,.47,0l4.66,4.66a.33.33,0,0,1,0,.47l-.89.89A.33.33,0,0,1,830.93,1340.77Zm-4.19-5,4.19,4.19.41-.41-4.18-4.19Z"/>
-          </g>
-        </g>
-      </g>
-      <text class="a7b2b118-2b21-476a-9898-fd5ce72aeeeb" transform="translate(851.31 1346.51)">VIEW MORE</text>
-      <g>
-        <image class="fea957e9-e37a-4b55-9d1a-7a0cd7b0bb2d" width="319" height="319" transform="translate(1116 1061)" xlink:href="http://3.112.250.183/wp-content/uploads/2021/11/VD_toppage2.png"/>
-        <rect class="e54918f9-fe2d-4108-b4ce-52ea2d5c7f61" x="1125.66" y="1070.55" width="300" height="300" rx="5.89"/>
-      </g>
-      <text class="ab4ae765-d730-4c8b-8420-b93148955067" transform="translate(1140.47 1113.44)">SAP(BASIS<tspan class="bd785351-1d18-43e1-bae4-875f6a474ad7" x="153.26" y="0">)</tspan><tspan x="170.21" y="0">システム</tspan><tspan x="0" y="42">構築支援</tspan></text>
-      <text class="ae317213-a227-443e-a950-a6d0e433a64b" transform="translate(1143.59 1207.07)">製造<tspan class="ad9c3af5-cf7c-453e-94ef-1165e661f3af" x="30.8" y="0">業2</tspan><tspan x="63.8" y="0">社が合併をして新会社を設立</tspan><tspan x="0" y="24.5">するにあたって</tspan><tspan class="ad9c3af5-cf7c-453e-94ef-1165e661f3af" x="107.8" y="24.5">の</tspan><tspan x="126.7" y="24.5">SA</tspan><tspan class="ba326adf-3f50-426c-b9f4-b42534572153" x="149.37" y="24.5">P</tspan><tspan x="163.53" y="24.5">導入</tspan><tspan class="f9c2ecd8-26dc-477d-b429-10307cad8582" x="194.33" y="24.5"> </tspan><tspan x="196.9" y="24.5">・対象は</tspan><tspan x="0" y="49">SAP S/4HANA FICO</tspan><tspan class="f9c2ecd8-26dc-477d-b429-10307cad8582" x="162.47" y="49"> </tspan><tspan class="bdf8608a-c58c-454f-8d4c-ae09b53ab7bf" x="165.03" y="49">・導入にあ</tspan><tspan x="0" y="73.5">たってのチーム管理支</tspan><tspan class="ba326adf-3f50-426c-b9f4-b42534572153" x="154" y="73.5">援(</tspan><tspan class="bdf8608a-c58c-454f-8d4c-ae09b53ab7bf" x="182.78" y="73.5">アプリ関連</tspan><tspan x="0" y="98">のチームの予</tspan><tspan class="ba326adf-3f50-426c-b9f4-b42534572153" x="92.4" y="98">定</tspan><tspan class="bdf8608a-c58c-454f-8d4c-ae09b53ab7bf" x="111.3" y="98">) </tspan><tspan class="ba326adf-3f50-426c-b9f4-b42534572153" x="123.75" y="98">～</tspan><tspan x="142.65" y="98">202</tspan><tspan class="ba326adf-3f50-426c-b9f4-b42534572153" x="174.44" y="98">2年</tspan><tspan x="207.44" y="98">...</tspan></text>
-      <g>
-        <rect class="aa23ba53-2fef-422e-95d5-5167882cfe2e" x="1146" y="1328.22" width="22.65" height="22.65" rx="5.81"/>
-        <g>
-          <g>
-            <rect class="e54918f9-fe2d-4108-b4ce-52ea2d5c7f61" x="1157.42" y="1338.14" width="1.25" height="6.59" transform="translate(1028.37 3108.82) rotate(-135)"/>
-            <path class="e54918f9-fe2d-4108-b4ce-52ea2d5c7f61" d="M1156.16,1344.54a.37.37,0,0,1-.24-.1l-.89-.89a.33.33,0,0,1,0-.47l4.66-4.66a.33.33,0,0,1,.47,0l.89.89a.33.33,0,0,1,0,.47l-4.66,4.66A.34.34,0,0,1,1156.16,1344.54Zm-.42-1.22.42.41,4.18-4.18-.41-.42Z"/>
-          </g>
-          <g>
-            <rect class="e54918f9-fe2d-4108-b4ce-52ea2d5c7f61" x="1157.42" y="1334.37" width="1.25" height="6.59" transform="translate(-606.69 1210.65) rotate(-45)"/>
-            <path class="e54918f9-fe2d-4108-b4ce-52ea2d5c7f61" d="M1159.93,1340.77h0a.35.35,0,0,1-.24-.1L1155,1336a.33.33,0,0,1,0-.47l.89-.89a.35.35,0,0,1,.47,0l4.66,4.66a.33.33,0,0,1,0,.47l-.89.89A.33.33,0,0,1,1159.93,1340.77Zm-4.19-5,4.19,4.19.41-.41-4.18-4.19Z"/>
-          </g>
-        </g>
-      </g>
-      <text class="a7b2b118-2b21-476a-9898-fd5ce72aeeeb" transform="translate(1180.31 1346.51)">VIEW MORE</text>
 
 
+      <!--raw-->
+      <foreignObject transform="translate(796 1070)"  width="564" height="319"
+                    requiredExtensions="http://www.w3.org/1999/xhtml">
+        <!-- XHTML content goes here -->
+        <body xmlns="http://www.w3.org/1999/xhtml">
+          <div class="horizontal-list">
+            <div style="display: inline-block; box-shadow: 0 0 10px 0; margin-right: 45px; height: 300px; width: 300px;"><object type="image/svg+xml" data="http://3.112.250.183/wp-content/uploads/2021/11/VD_toppage_matter.svg" width="300"></object></div>
+            <div style="display: inline-block; box-shadow: 0 0 10px 0; margin-right: 45px; height: 300px; width: 300px;"><object type="image/svg+xml" data="http://3.112.250.183/wp-content/uploads/2021/11/VD_toppage_matter.svg" width="300"></object></div>
+            <div style="display: inline-block; box-shadow: 0 0 10px 0; margin-right: 45px; height: 300px; width: 300px;"><object type="image/svg+xml" data="http://3.112.250.183/wp-content/uploads/2021/11/VD_toppage_matter.svg" width="300"></object></div>
+            <div style="padding-left: 134px;"></div>
+          </div>
+        </body>
+      </foreignObject>
+      <!--/raw-->
       <!--raw-->
       <foreignObject transform="translate(0 1534)"  width="1359" height="319"
                     requiredExtensions="http://www.w3.org/1999/xhtml">
