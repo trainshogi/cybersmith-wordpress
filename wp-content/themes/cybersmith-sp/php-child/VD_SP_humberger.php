@@ -34,29 +34,29 @@
     </style>
   </defs>
   <rect class="a58cbcd1-5200-45f7-bfd6-f5675676c0a9" y="-4" width="384" height="1341"/>
-  <text class="bac55cf7-eb73-4bcc-907b-2ee6b871b110" transform="translate(40.85 413.38)"><a href="../flow_sp/">ご利用の流れ</a></text>
-  <text class="bac55cf7-eb73-4bcc-907b-2ee6b871b110" transform="translate(40.85 455.38)"><a href="../for_clients_sp/">企業様へ</a></text>
-  <text class="bac55cf7-eb73-4bcc-907b-2ee6b871b110" transform="translate(40.85 497.38)"><a href="../for_worker_sp/">お仕事を探している方へ</a></text>
-  <text class="bac55cf7-eb73-4bcc-907b-2ee6b871b110" transform="translate(40.85 371.38)"><a href="../company_sp/">運営会社</a></text>
+  <text class="bac55cf7-eb73-4bcc-907b-2ee6b871b110" transform="translate(40.85 413.38)"><a href="/flow_sp/">ご利用の流れ</a></text>
+  <text class="bac55cf7-eb73-4bcc-907b-2ee6b871b110" transform="translate(40.85 455.38)"><a href="/for_clients_sp/">企業様へ</a></text>
+  <text class="bac55cf7-eb73-4bcc-907b-2ee6b871b110" transform="translate(40.85 497.38)"><a href="/for_worker_sp/">お仕事を探している方へ</a></text>
+  <text class="bac55cf7-eb73-4bcc-907b-2ee6b871b110" transform="translate(40.85 371.38)"><a href="/company_sp/">運営会社</a></text>
   <text class="a0bb0213-6cba-46a9-90ca-7cfae56f056e" transform="translate(33.57 42.93)"><a href="/">サイバースミス</a></text>
   <g id="humberger_close">
     <rect class="white-rect" x="295.86" y="26.91" width="36.21" height="18" />
     <line class="b5d916ff-d15e-4d9b-a58d-f77e2c068ef7" x1="295.86" y1="26.91" x2="331.86" y2="44.91"/>
     <line class="b5d916ff-d15e-4d9b-a58d-f77e2c068ef7" x1="331.96" y1="27.11" x2="295.75" y2="44.7"/>
   </g>
-  <g><a href="../about_sp/">
+  <g><a href="/about_sp/">
     <text class="edd5c864-d7ac-42fe-9aab-47ead08c198f" transform="translate(37.85 119.13)">はじめての方へ</text>
     <text id="e57bdc32-3277-4197-a24d-83a5403d61a4" data-name="ABOUT" class="b3b1ed50-342d-4b5b-a52b-eff53cb52154" transform="translate(36.63 101.5)">ABOUT</text>
   </a></g>
-  <g><a href="../matter_list_sp/">
+  <g><a href="/matter_list_sp/">
     <text class="edd5c864-d7ac-42fe-9aab-47ead08c198f" transform="translate(37.85 184.13)">案件情報一覧</text>
     <text class="b3b1ed50-342d-4b5b-a52b-eff53cb52154" transform="translate(36.63 166.5)">WORK</text>
   </a></g>
-  <g><a href="../education_sp/">
+  <g><a href="/education_sp/">
     <text class="edd5c864-d7ac-42fe-9aab-47ead08c198f" transform="translate(37.85 249.13)">教育サービス</text>
     <text class="b3b1ed50-342d-4b5b-a52b-eff53cb52154" transform="translate(36.63 231.5)">EDUCATION</text>
   </a></g>
-  <g><a href="">
+  <g><a href="/contact_sp/">
     <text class="edd5c864-d7ac-42fe-9aab-47ead08c198f" transform="translate(37.85 314.13)">お問い合わせ</text>
     <text class="b3b1ed50-342d-4b5b-a52b-eff53cb52154" transform="translate(37.63 296.5)">CONTACT</text>
   </a></g>

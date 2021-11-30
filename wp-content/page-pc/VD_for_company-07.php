@@ -69,7 +69,7 @@
   </defs>
   <text class="a7720c90-ecc2-4199-addc-32da078ac06c" transform="translate(603.8 106.21)">対応範囲</text>
   <rect class="ae94497b-bc02-42fb-876b-7d498f9f8852" x="283" y="569" width="800" height="144.5" rx="3.01"/>
-  <g>
+  <g><a href="../contact/">
     <rect x="483" y="681.42" width="400" height="60" rx="30"/>
     <g>
       <circle cx="845.41" cy="713.83" r="13.51"/>
@@ -79,7 +79,7 @@
       </g>
     </g>
     <text class="ae272ba0-2b47-4011-84e2-1b41b7e3231c" transform="translate(620.91 719.69)">お問い合わせ</text>
-  </g>
+  </a></g>
   <text class="ff06ac2a-5c8f-4633-acdf-c4c4097a5cab" transform="translate(314.91 621.27)">ご相談のある企業ご担当者様は、下記よりお問い合わせください<tspan class="a77f4fd4-1663-4e99-960d-5b33ee5eb225" x="574.2" y="0">。</tspan><tspan x="0" y="31.5">詳しい内容は直接ご説明いたします</tspan><tspan class="b9aa32e8-6b6a-45ad-a7c6-cca7c28fafac" x="316.8" y="31.5">。</tspan></text>
   <rect class="bb00c337-404d-4dfa-bf11-16fbc05a9f96" x="782.06" y="261.5" width="82" height="258" rx="5"/>
   <rect class="bb00c337-404d-4dfa-bf11-16fbc05a9f96" x="901.88" y="261.5" width="82" height="258" rx="5"/>

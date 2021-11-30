@@ -1,0 +1,97 @@
+<svg id="b358781e-d110-4390-a9de-b3be0ec0615a" data-name="レイヤー 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 375 729">
+  <defs>
+    <style>
+      .abfd6592-dcdd-4e5e-a683-38d836b2911f, .b29983df-a7c4-44e1-931f-900b3d4f6ffc, .b3d19582-542e-4681-a77f-71bd7e302fe6 {
+        fill: none;
+      }
+
+      .a0bdc9d1-64bd-4dd3-9459-a300a47b4688 {
+        clip-path: url(#f1e8ca27-4b98-4b4b-9867-4d41d76384e7);
+      }
+
+      .a6d9584d-604f-414d-ab70-900570ae9f18 {
+        fill: #e4e4e4;
+      }
+
+      .ab61a995-55d7-458f-9c1a-718190689f9d {
+        font-size: 14px;
+        letter-spacing: 0.1em;
+      }
+
+      .ab47e12e-7832-475c-b847-5be5c4691a09, .ab61a995-55d7-458f-9c1a-718190689f9d, .bf00bd58-aeee-4a72-a4fa-e218f2ad2581 {
+        font-family: HiraKakuProN-W3-83pv-RKSJ-H, Hiragino Kaku Gothic ProN;
+      }
+
+      .b29983df-a7c4-44e1-931f-900b3d4f6ffc, .b3d19582-542e-4681-a77f-71bd7e302fe6 {
+        stroke: #e4e4e4;
+        stroke-miterlimit: 10;
+      }
+
+      .b3d19582-542e-4681-a77f-71bd7e302fe6 {
+        stroke-width: 3px;
+      }
+
+      .bf00bd58-aeee-4a72-a4fa-e218f2ad2581 {
+        font-size: 10px;
+        fill: #bf272d;
+        letter-spacing: 0.1em;
+      }
+
+      .bc8d1677-766a-451a-9632-e5af0dbd06b6 {
+        fill: #83ccd2;
+      }
+
+      .ad64962e-6fb9-412f-b9e8-380b7bf9a702, .b0ae6c9c-c856-4777-a1a2-a1753c143a3f {
+        fill: #fff;
+      }
+
+      .b0ae6c9c-c856-4777-a1a2-a1753c143a3f {
+        font-size: 16px;
+        font-family: HiraginoSans-W6-83pv-RKSJ-H, Hiragino Sans;
+        letter-spacing: 0.3em;
+      }
+
+      .ab47e12e-7832-475c-b847-5be5c4691a09 {
+        font-size: 12px;
+        letter-spacing: 0.1em;
+      }
+
+      .b29983df-a7c4-44e1-931f-900b3d4f6ffc {
+        stroke-width: 1.76px;
+      }
+    </style>
+    <clipPath id="f1e8ca27-4b98-4b4b-9867-4d41d76384e7">
+      <rect class="abfd6592-dcdd-4e5e-a683-38d836b2911f" x="-101.13" y="-364" width="795.71" height="267.13"/>
+    </clipPath>
+  </defs>
+  <g class="a0bdc9d1-64bd-4dd3-9459-a300a47b4688">
+    <image width="1980" height="1320" transform="translate(-100.82 -400.08) scale(0.4)" xlink:href="http://3.112.250.183/wp-content/uploads/2021/11/pixta_47892115_XL.jpg"/>
+  </g>
+  <rect class="a6d9584d-604f-414d-ab70-900570ae9f18" x="24.94" y="14.35" width="321" height="43.21" rx="5.56"/>
+  <text class="ab61a995-55d7-458f-9c1a-718190689f9d" transform="translate(39.55 41.78)">氏名</text>
+  <rect class="b3d19582-542e-4681-a77f-71bd7e302fe6" x="26.43" y="65.06" width="320" height="45" rx="5.67"/>
+  <text class="bf00bd58-aeee-4a72-a4fa-e218f2ad2581" transform="translate(79.61 41.02)">※ 必須</text>
+  <rect class="a6d9584d-604f-414d-ab70-900570ae9f18" x="24.94" y="125.35" width="321" height="43.21" rx="5.56"/>
+  <text class="ab61a995-55d7-458f-9c1a-718190689f9d" transform="translate(39.55 152.78)">メールアドレス</text>
+  <rect class="b3d19582-542e-4681-a77f-71bd7e302fe6" x="26.43" y="176.06" width="320" height="45" rx="5.67"/>
+  <text class="bf00bd58-aeee-4a72-a4fa-e218f2ad2581" transform="translate(154.61 152.02)">※ 必須</text>
+  <g>
+    <rect class="bc8d1677-766a-451a-9632-e5af0dbd06b6" x="25.91" y="646.92" width="324" height="60" rx="30"/>
+    <g>
+      <circle class="bc8d1677-766a-451a-9632-e5af0dbd06b6" cx="312.32" cy="679.33" r="13.51"/>
+      <g>
+        <path class="ad64962e-6fb9-412f-b9e8-380b7bf9a702" d="M313.57,679.55l0,0v0l0-.06h0a.38.38,0,0,0,0-.15v0l0-.06h0l0,0-.05-.06-5.41-5.42a.39.39,0,0,0-.55,0l-1,1a.39.39,0,0,0-.11.28.39.39,0,0,0,.11.27l4.11,4.11-4.11,4.11a.41.41,0,0,0-.11.28.39.39,0,0,0,.11.27l1,1a.36.36,0,0,0,.27.12.39.39,0,0,0,.28-.12l5.41-5.41Z"/>
+        <path class="ad64962e-6fb9-412f-b9e8-380b7bf9a702" d="M319.57,679.5v0l0-.06h0a.38.38,0,0,0,0-.15v0s0,0,0-.06h0s0,0,0,0l-.05-.06-5.42-5.42a.39.39,0,0,0-.55,0l-1,1a.36.36,0,0,0-.12.28.36.36,0,0,0,.12.27l4.11,4.11-4.11,4.11a.38.38,0,0,0-.12.28.36.36,0,0,0,.12.27l1,1a.36.36,0,0,0,.27.12.39.39,0,0,0,.28-.12l5.42-5.41.05-.06S319.56,679.51,319.57,679.5Z"/>
+      </g>
+    </g>
+    <text class="b0ae6c9c-c856-4777-a1a2-a1753c143a3f" transform="translate(140.82 685.19)">送信する</text>
+  </g>
+  <rect class="b3d19582-542e-4681-a77f-71bd7e302fe6" x="27.12" y="285.12" width="320" height="291" rx="5.67"/>
+  <rect class="a6d9584d-604f-414d-ab70-900570ae9f18" x="25.62" y="235.41" width="321" height="43.21" rx="5.56"/>
+  <text class="ab61a995-55d7-458f-9c1a-718190689f9d" transform="translate(40.23 262.84)">お問い合わせ内容</text>
+  <g>
+    <text class="ab47e12e-7832-475c-b847-5be5c4691a09" transform="translate(116.73 633.34)">個人情報の取扱いに同意する</text>
+    <rect class="b29983df-a7c4-44e1-931f-900b3d4f6ffc" x="83.55" y="620.7" width="21.11" height="16.42" rx="2.93"/>
+  </g>
+  <text class="bf00bd58-aeee-4a72-a4fa-e218f2ad2581" transform="translate(173.32 261.2)">※ 必須</text>
+</svg>

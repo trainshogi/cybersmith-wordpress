@@ -48,14 +48,14 @@
   <line class="a6628c63-cff5-4bdf-bb2d-2c6caa19bf22" x1="217" y1="64" x2="255" y2="64"/>
   <line class="a6628c63-cff5-4bdf-bb2d-2c6caa19bf22" x1="217" y1="72.5" x2="255" y2="72.5"/>
   <line class="a6628c63-cff5-4bdf-bb2d-2c6caa19bf22" x1="217" y1="81.5" x2="255" y2="81.5"/>
-  <text class="f348b16f-81d8-42df-a382-ccc2f04964dd" transform="translate(769.22 90.22)"><a href="../matter_list/">案件情報一覧</a></text>
-  <text class="f348b16f-81d8-42df-a382-ccc2f04964dd" transform="translate(610.89 90.22)"><a href="../about/">はじめての方へ</a></text>
-  <text class="f348b16f-81d8-42df-a382-ccc2f04964dd" transform="translate(909.56 90.22)"><a href="../education/">教育サービス</a></text>
-  <text class="f348b16f-81d8-42df-a382-ccc2f04964dd" transform="translate(1049.89 90.22)"><a href="../contact/">お問い合わせ</a></text>
-  <text class="abf72aea-b3f7-4265-8491-4ac281c5567a" transform="translate(731.89 58.47)"><a href="../flow/">ご利用の流れ</a></text>
-  <text class="abf72aea-b3f7-4265-8491-4ac281c5567a" transform="translate(825.89 58.47)"><a href="../for_clients/">エンジニアを探している企業様へ</a></text>
-  <text class="abf72aea-b3f7-4265-8491-4ac281c5567a" transform="translate(1022.89 58.47)"><a href="../for_worker/">お仕事を探している方へ</a></text>
-  <text class="abf72aea-b3f7-4265-8491-4ac281c5567a" transform="translate(651.89 58.47)"><a href="../company/">運営会社</a></text>
+  <text class="f348b16f-81d8-42df-a382-ccc2f04964dd" transform="translate(769.22 90.22)"><a href="/matter_list/">案件情報一覧</a></text>
+  <text class="f348b16f-81d8-42df-a382-ccc2f04964dd" transform="translate(610.89 90.22)"><a href="/about/">はじめての方へ</a></text>
+  <text class="f348b16f-81d8-42df-a382-ccc2f04964dd" transform="translate(909.56 90.22)"><a href="/education/">教育サービス</a></text>
+  <text class="f348b16f-81d8-42df-a382-ccc2f04964dd" transform="translate(1049.89 90.22)"><a href="/contact/">お問い合わせ</a></text>
+  <text class="abf72aea-b3f7-4265-8491-4ac281c5567a" transform="translate(731.89 58.47)"><a href="/flow/">ご利用の流れ</a></text>
+  <text class="abf72aea-b3f7-4265-8491-4ac281c5567a" transform="translate(825.89 58.47)"><a href="/for_clients/">エンジニアを探している企業様へ</a></text>
+  <text class="abf72aea-b3f7-4265-8491-4ac281c5567a" transform="translate(1022.89 58.47)"><a href="/for_worker/">お仕事を探している方へ</a></text>
+  <text class="abf72aea-b3f7-4265-8491-4ac281c5567a" transform="translate(651.89 58.47)"><a href="/company/">運営会社</a></text>
   <g class="a9f5dde4-4874-4189-8c01-56e448225c6e">
     <a href="/"><image width="870" height="1883" transform="translate(231.46 -336.49) scale(0.37)" xlink:href="http://3.112.250.183/wp-content/uploads/2021/11/S__6266903.jpg"/></a>
   </g>

@@ -30,7 +30,7 @@
     </style>
   </defs>
   <rect class="e58b18ea-63b2-4afe-9283-5495387550fc" x="283" y="43" width="800" height="144.5" rx="3.01"/>
-  <g>
+  <g><a href="../contact/">
     <rect x="483" y="155.42" width="400" height="60" rx="30"/>
     <g>
       <circle cx="845.41" cy="187.83" r="13.51"/>
@@ -40,6 +40,6 @@
       </g>
     </g>
     <text class="bcaeba7b-de71-4fa7-9302-88cfb7204159" transform="translate(620.91 193.69)">お問い合わせ</text>
-  </g>
+  </a></g>
   <text class="f5482064-a10f-4fe2-aea6-7ebb401c9533" transform="translate(314.91 95.27)">よくある質問に記載されていない内容でお悩みの方・ご質問のある方は、下記より<tspan x="0" y="31.5">お問い合わせください</tspan><tspan class="bcb50eea-4fc1-4cdd-a48f-4964e5ba4dc9" x="198" y="31.5">。</tspan></text>
 </svg>

@@ -34,7 +34,7 @@
     </style>
   </defs>
   <rect class="e34d2730-463c-4dec-add8-658a760f2a4d" x="283" y="33" width="800" height="144.5" rx="3.01"/>
-  <g>
+  <g><a href="../contact/">
     <rect x="483" y="145.42" width="400" height="60" rx="30"/>
     <g>
       <circle cx="845.41" cy="177.83" r="13.51"/>
@@ -44,6 +44,6 @@
       </g>
     </g>
     <text class="ab827da2-b9de-46a4-8574-cb36c0970dc8" transform="translate(620.91 183.69)">お問い合わせ</text>
-  </g>
+  </a></g>
   <text class="e567bbb3-6b73-49e2-98e7-c9005885ffb0" transform="translate(314.91 85.27)">弊社の教育サービスに興味のある方は、下記よりお問い合わせください<tspan class="b44c5c39-ba64-41ff-9054-945a618e14ee" x="633.6" y="0">。</tspan><tspan x="0" y="31.5">詳しい内容は直接ご説明いたします</tspan><tspan class="ee0ed5dc-161c-40df-af62-b2e2ddad9acc" x="316.8" y="31.5">。</tspan></text>
 </svg>
