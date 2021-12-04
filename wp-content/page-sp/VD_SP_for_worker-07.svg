@@ -1,127 +1,95 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 376 595">
-  <defs>
-    <style>
-      .b4981464-dac1-477c-b050-a0bddc07bae5 {
-        isolation: isolate;
-      }
+<div class="wrap_svgbg" style="position: relative; width:100vw; height:158vw;">
+  <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 376 595" style="position: absolute; width:100vw; height:158vw;">
+    <defs>
+      <style>
+        .b4981464-dac1-477c-b050-a0bddc07bae5 {
+          isolation: isolate;
+        }
 
-      .a5d4649e-2569-4193-8c74-f270575ab4dc, .b6e2604c-f14c-40bf-a6e8-b1ab03715900 {
-        fill: #83ccd2;
-      }
+        .a5d4649e-2569-4193-8c74-f270575ab4dc, .b6e2604c-f14c-40bf-a6e8-b1ab03715900 {
+          fill: #83ccd2;
+        }
 
-      .b6e2604c-f14c-40bf-a6e8-b1ab03715900 {
-        opacity: 0.1;
-      }
+        .b6e2604c-f14c-40bf-a6e8-b1ab03715900 {
+          opacity: 0.1;
+        }
 
-      .a885a3f1-178e-40bd-8641-9eb2caa82699 {
-        fill: none;
-        stroke: #fcfcfc;
-        stroke-miterlimit: 10;
-        stroke-width: 2.55px;
-      }
+        .a885a3f1-178e-40bd-8641-9eb2caa82699 {
+          fill: none;
+          stroke: #fcfcfc;
+          stroke-miterlimit: 10;
+          stroke-width: 2.55px;
+        }
 
-      .e8c6dc4f-335d-4447-9779-693db6e2f646 {
-        font-size: 14px;
-        letter-spacing: 0.1em;
-      }
+        .e8c6dc4f-335d-4447-9779-693db6e2f646 {
+          font-size: 14px;
+          letter-spacing: 0.1em;
+        }
 
-      .b0fdb8b9-1231-4f88-bed0-60211a6b765c, .b82e75b0-9715-44be-918b-e10bad103d3f, .e8c6dc4f-335d-4447-9779-693db6e2f646 {
-        font-family: HiraKakuProN-W3-83pv-RKSJ-H, Hiragino Kaku Gothic ProN;
-      }
+        .b0fdb8b9-1231-4f88-bed0-60211a6b765c, .b82e75b0-9715-44be-918b-e10bad103d3f, .e8c6dc4f-335d-4447-9779-693db6e2f646 {
+          font-family: HiraKakuProN-W3-83pv-RKSJ-H, Hiragino Kaku Gothic ProN;
+        }
 
-      .bf85fa7e-bfc4-4c11-8d41-f063cdb98b2f {
-        letter-spacing: -0.4em;
-      }
+        .bf85fa7e-bfc4-4c11-8d41-f063cdb98b2f {
+          letter-spacing: -0.4em;
+        }
 
-      .b7df4d20-c444-40c6-8fb1-1b2254970734 {
-        mix-blend-mode: multiply;
-        opacity: 0.45;
-      }
+        .b7df4d20-c444-40c6-8fb1-1b2254970734 {
+          mix-blend-mode: multiply;
+          opacity: 0.45;
+        }
 
-      .b8519f68-e19a-4030-81c9-832f7d42240d {
-        fill: #fff;
-      }
+        .b8519f68-e19a-4030-81c9-832f7d42240d {
+          fill: #fff;
+        }
 
-      .b0fdb8b9-1231-4f88-bed0-60211a6b765c, .bf918132-b0ee-4c21-a04a-781f027c2f23 {
-        font-size: 12px;
-      }
+        .b0fdb8b9-1231-4f88-bed0-60211a6b765c, .bf918132-b0ee-4c21-a04a-781f027c2f23 {
+          font-size: 12px;
+        }
 
-      .bf918132-b0ee-4c21-a04a-781f027c2f23 {
-        font-family: HiraginoSans-W6-83pv-RKSJ-H, Hiragino Sans;
-        letter-spacing: 0.3em;
-      }
+        .bf918132-b0ee-4c21-a04a-781f027c2f23 {
+          font-family: HiraginoSans-W6-83pv-RKSJ-H, Hiragino Sans;
+          letter-spacing: 0.3em;
+        }
 
-      .b82e75b0-9715-44be-918b-e10bad103d3f {
-        font-size: 18px;
-        letter-spacing: 0.1em;
-      }
+        .b82e75b0-9715-44be-918b-e10bad103d3f {
+          font-size: 18px;
+          letter-spacing: 0.1em;
+        }
 
-      .b0fdb8b9-1231-4f88-bed0-60211a6b765c {
-        fill: #333;
-        letter-spacing: 0.1em;
-      }
+        .b0fdb8b9-1231-4f88-bed0-60211a6b765c {
+          fill: #333;
+          letter-spacing: 0.1em;
+        }
 
-      .b7494504-5929-4f15-9fff-afcc593d0d09 {
-        letter-spacing: 0.35em;
-      }
+        .b7494504-5929-4f15-9fff-afcc593d0d09 {
+          letter-spacing: 0.35em;
+        }
 
-      .e5598188-1b95-4996-bae9-d178aa5a60b6 {
-        letter-spacing: 0.1em;
-      }
+        .e5598188-1b95-4996-bae9-d178aa5a60b6 {
+          letter-spacing: 0.1em;
+        }
 
-      .ad72fdec-040c-4649-8c8e-092fba923c04 {
-        letter-spacing: -0.4em;
-      }
-    </style>
-  </defs>
-  <g class="b4981464-dac1-477c-b050-a0bddc07bae5">
-    <g id="a6a0dfa0-1028-4228-aa7b-dfbd502fde5e" data-name="レイヤー 1">
-      <rect class="b6e2604c-f14c-40bf-a6e8-b1ab03715900" x="-16.04" y="-532" width="405.04" height="1127"/>
-      <image width="1980" height="1320" transform="translate(-1.73 72.82) scale(0.19)" xlink:href="http://3.112.250.183/wp-content/uploads/2021/11/pixta_79238325_XL.jpg"/>
-      <image width="1980" height="1126" transform="translate(94.51 0.02) scale(0.14)" xlink:href="http://3.112.250.183/wp-content/uploads/2021/11/pixta_69242291_XL.jpg"/>
-      <line class="a885a3f1-178e-40bd-8641-9eb2caa82699" x1="95.28" y1="73.59" x2="95.28" y2="161.45"/>
-      <line class="a885a3f1-178e-40bd-8641-9eb2caa82699" x1="392.46" y1="161.03" x2="95.14" y2="161.03"/>
-      <text class="e8c6dc4f-335d-4447-9779-693db6e2f646" transform="translate(28 -218.93)">学びたいと思っている分野の最新トレンドに<tspan x="0" y="24.5">関するセミナーの開催や、その分野で活躍し</tspan><tspan x="0" y="49">ている弊社で抱えている人材との情報交換な</tspan><tspan x="0" y="73.5">ど、プロフェッショナル同士の繋がりを活発</tspan><tspan x="0" y="98">に行なっています</tspan><tspan class="bf85fa7e-bfc4-4c11-8d41-f063cdb98b2f" x="123.2" y="98">。</tspan><tspan x="0" y="122.5">情報の少ない最先端技術だからこそ、理解で</tspan><tspan x="0" y="147">きる同士の繋がりは仕事の質を向上させます</tspan><tspan class="bf85fa7e-bfc4-4c11-8d41-f063cdb98b2f" x="308" y="147">。</tspan><tspan x="0" y="171.5">今までにない人との出会いも、当社で大切に</tspan><tspan x="0" y="196">していることです</tspan><tspan class="bf85fa7e-bfc4-4c11-8d41-f063cdb98b2f" x="123.2" y="196">。</tspan></text>
-      <g>
-        <image class="b7df4d20-c444-40c6-8fb1-1b2254970734" width="267" height="296" transform="translate(31.08 247.08)" xlink:href="VD_SP_for_worker1.png"/>
-        <rect class="b8519f68-e19a-4030-81c9-832f7d42240d" x="39.3" y="255.89" width="250" height="278.68" rx="5.18"/>
+        .ad72fdec-040c-4649-8c8e-092fba923c04 {
+          letter-spacing: -0.4em;
+        }
+      </style>
+    </defs>
+    <g class="b4981464-dac1-477c-b050-a0bddc07bae5">
+      <g id="a6a0dfa0-1028-4228-aa7b-dfbd502fde5e" data-name="レイヤー 1">
+        <rect class="b6e2604c-f14c-40bf-a6e8-b1ab03715900" x="-16.04" y="-532" width="405.04" height="1127"/>
+        <image width="1980" height="1320" transform="translate(-1.73 72.82) scale(0.19)" xlink:href="http://3.112.250.183/wp-content/uploads/2021/11/pixta_79238325_XL.jpg"/>
+        <image width="1980" height="1126" transform="translate(94.51 0.02) scale(0.14)" xlink:href="http://3.112.250.183/wp-content/uploads/2021/11/pixta_69242291_XL.jpg"/>
+        <line class="a885a3f1-178e-40bd-8641-9eb2caa82699" x1="95.28" y1="73.59" x2="95.28" y2="161.45"/>
+        <line class="a885a3f1-178e-40bd-8641-9eb2caa82699" x1="392.46" y1="161.03" x2="95.14" y2="161.03"/>
+        <text class="e8c6dc4f-335d-4447-9779-693db6e2f646" transform="translate(28 -218.93)">学びたいと思っている分野の最新トレンドに<tspan x="0" y="24.5">関するセミナーの開催や、その分野で活躍し</tspan><tspan x="0" y="49">ている弊社で抱えている人材との情報交換な</tspan><tspan x="0" y="73.5">ど、プロフェッショナル同士の繋がりを活発</tspan><tspan x="0" y="98">に行なっています</tspan><tspan class="bf85fa7e-bfc4-4c11-8d41-f063cdb98b2f" x="123.2" y="98">。</tspan><tspan x="0" y="122.5">情報の少ない最先端技術だからこそ、理解で</tspan><tspan x="0" y="147">きる同士の繋がりは仕事の質を向上させます</tspan><tspan class="bf85fa7e-bfc4-4c11-8d41-f063cdb98b2f" x="308" y="147">。</tspan><tspan x="0" y="171.5">今までにない人との出会いも、当社で大切に</tspan><tspan x="0" y="196">していることです</tspan><tspan class="bf85fa7e-bfc4-4c11-8d41-f063cdb98b2f" x="123.2" y="196">。</tspan></text>
       </g>
-      <g>
-        <rect class="a5d4649e-2569-4193-8c74-f270575ab4dc" x="59.64" y="496.56" width="22.65" height="22.65" rx="5.81"/>
-        <g>
-          <g>
-            <rect class="b8519f68-e19a-4030-81c9-832f7d42240d" x="71.05" y="506.48" width="1.25" height="6.59" transform="translate(-238.1 920.92) rotate(-135)"/>
-            <path class="b8519f68-e19a-4030-81c9-832f7d42240d" d="M69.8,512.88a.31.31,0,0,1-.24-.1l-.89-.89a.33.33,0,0,1,0-.47l4.66-4.66a.33.33,0,0,1,.47,0l.89.89a.33.33,0,0,1,0,.47L70,512.78A.3.3,0,0,1,69.8,512.88Zm-.42-1.22.42.41L74,507.89l-.41-.42Z"/>
-          </g>
-          <g>
-            <rect class="b8519f68-e19a-4030-81c9-832f7d42240d" x="71.05" y="502.71" width="1.25" height="6.59" transform="translate(-336.8 198.89) rotate(-45)"/>
-            <path class="b8519f68-e19a-4030-81c9-832f7d42240d" d="M73.57,509.11h0a.35.35,0,0,1-.24-.1l-4.66-4.66a.33.33,0,0,1,0-.47l.89-.89a.35.35,0,0,1,.47,0l4.66,4.66a.33.33,0,0,1,0,.47l-.89.89A.34.34,0,0,1,73.57,509.11Zm-4.19-5,4.19,4.18.41-.41L69.8,503.7Z"/>
-          </g>
-        </g>
-      </g>
-      <text class="bf918132-b0ee-4c21-a04a-781f027c2f23" transform="translate(93.95 512.85)">VIEW MORE</text>
-      <text class="b82e75b0-9715-44be-918b-e10bad103d3f" transform="translate(61.2 297.11)">次世代人材に期待され<tspan x="0" y="31.5">る能力とは？</tspan></text>
-      <text class="b0fdb8b9-1231-4f88-bed0-60211a6b765c" transform="translate(61.32 372.97)">日本<tspan class="b7494504-5929-4f15-9fff-afcc593d0d09" x="26.4" y="0">の</tspan><tspan class="e5598188-1b95-4996-bae9-d178aa5a60b6" x="42.6" y="0">D</tspan><tspan class="b7494504-5929-4f15-9fff-afcc593d0d09" x="52.9" y="0">X</tspan><tspan x="65.76" y="0">推進に対する最大のボ</tspan><tspan x="0" y="21">トルネック</tspan><tspan class="b7494504-5929-4f15-9fff-afcc593d0d09" x="66" y="21">は</tspan><tspan class="e5598188-1b95-4996-bae9-d178aa5a60b6" x="82.2" y="21">AI・テクノロジー人</tspan><tspan x="0" y="42">材の育成とも言われており</tspan><tspan class="ad72fdec-040c-4649-8c8e-092fba923c04" x="158.4" y="42">、</tspan><tspan class="e5598188-1b95-4996-bae9-d178aa5a60b6" x="165.6" y="42">「AI</tspan><tspan x="0" y="63">をつくる人」と同時に「AI」を使</tspan><tspan x="0" y="84">う人の育成が急務となっていま</tspan><tspan class="b7494504-5929-4f15-9fff-afcc593d0d09"><tspan x="0" y="105">す</tspan><tspan class="e5598188-1b95-4996-bae9-d178aa5a60b6" x="16.2" y="105">...</tspan></tspan></text>
-      <g>
-        <image class="b7df4d20-c444-40c6-8fb1-1b2254970734" width="267" height="296" transform="translate(309.08 247.08)" xlink:href="VD_SP_for_worker2.png"/>
-        <rect class="b8519f68-e19a-4030-81c9-832f7d42240d" x="317.3" y="255.89" width="250" height="278.68" rx="5.18"/>
-      </g>
-      <g>
-        <rect class="a5d4649e-2569-4193-8c74-f270575ab4dc" x="337.64" y="496.56" width="22.65" height="22.65" rx="5.81"/>
-        <g>
-          <g>
-            <rect class="b8519f68-e19a-4030-81c9-832f7d42240d" x="349.05" y="506.48" width="1.25" height="6.59" transform="translate(236.48 1117.5) rotate(-135)"/>
-            <path class="b8519f68-e19a-4030-81c9-832f7d42240d" d="M347.8,512.88a.31.31,0,0,1-.24-.1l-.89-.89a.33.33,0,0,1,0-.47l4.66-4.66a.33.33,0,0,1,.47,0l.89.89a.33.33,0,0,1,0,.47L348,512.78A.3.3,0,0,1,347.8,512.88Zm-.42-1.22.42.41,4.18-4.18-.41-.42Z"/>
-          </g>
-          <g>
-            <rect class="b8519f68-e19a-4030-81c9-832f7d42240d" x="349.05" y="502.71" width="1.25" height="6.59" transform="translate(-255.38 395.47) rotate(-45)"/>
-            <path class="b8519f68-e19a-4030-81c9-832f7d42240d" d="M351.57,509.11h0a.35.35,0,0,1-.24-.1l-4.66-4.66a.33.33,0,0,1,0-.47l.89-.89a.35.35,0,0,1,.47,0l4.66,4.66a.33.33,0,0,1,0,.47l-.89.89A.34.34,0,0,1,351.57,509.11Zm-4.19-5,4.19,4.18.41-.41-4.18-4.19Z"/>
-          </g>
-        </g>
-      </g>
-      <text class="bf918132-b0ee-4c21-a04a-781f027c2f23" transform="translate(371.95 512.85)">VIEW MORE</text>
-      <text class="b82e75b0-9715-44be-918b-e10bad103d3f" transform="translate(339.2 297.11)">次世代人材に期待され<tspan x="0" y="31.5">る能力とは？</tspan></text>
-      <text class="b0fdb8b9-1231-4f88-bed0-60211a6b765c" transform="translate(339.32 372.97)">日本<tspan class="b7494504-5929-4f15-9fff-afcc593d0d09" x="26.4" y="0">の</tspan><tspan class="e5598188-1b95-4996-bae9-d178aa5a60b6" x="42.6" y="0">D</tspan><tspan class="b7494504-5929-4f15-9fff-afcc593d0d09" x="52.9" y="0">X</tspan><tspan x="65.76" y="0">推進に対する最大のボ</tspan><tspan x="0" y="21">トルネック</tspan><tspan class="b7494504-5929-4f15-9fff-afcc593d0d09" x="66" y="21">は</tspan><tspan class="e5598188-1b95-4996-bae9-d178aa5a60b6" x="82.2" y="21">AI・テクノロジー人</tspan><tspan x="0" y="42">材の育成とも言われており</tspan><tspan class="ad72fdec-040c-4649-8c8e-092fba923c04" x="158.4" y="42">、</tspan><tspan class="e5598188-1b95-4996-bae9-d178aa5a60b6" x="165.6" y="42">「AI</tspan><tspan x="0" y="63">をつくる人」と同時に「AI」を使</tspan><tspan x="0" y="84">う人の育成が急務となっていま</tspan><tspan class="b7494504-5929-4f15-9fff-afcc593d0d09"><tspan x="0" y="105">す</tspan><tspan class="e5598188-1b95-4996-bae9-d178aa5a60b6" x="16.2" y="105">...</tspan></tspan></text>
     </g>
-  </g>
-</svg>
+  </svg>
+  <div class="horizontal-list" style="position: absolute; width:100vw; margin-top: 68vw;" id="hoge1">
+    <div style="display: inline-block; box-shadow: 0 0 10px 0; margin-top: 5px; margin-left: 8vw; height: 66vw; width: 66vw;"><object type="image/svg+xml" data="https://cybersmith-template-img.s3.ap-northeast-1.amazonaws.com/VD_toppage_seminer.svg" width="100%"></object></div>
+    <div style="display: inline-block; box-shadow: 0 0 10px 0; margin-top: 5px; margin-left: 8vw; height: 66vw; width: 66vw;"><object type="image/svg+xml" data="https://cybersmith-template-img.s3.ap-northeast-1.amazonaws.com/VD_toppage_seminer.svg" width="100%"></object></div>
+    <div style="display: inline-block; box-shadow: 0 0 10px 0; margin-top: 5px; margin-left: 8vw; margin-right: 8%; height: 66vw; width: 66vw;"><object type="image/svg+xml" data="https://cybersmith-template-img.s3.ap-northeast-1.amazonaws.com/VD_toppage_seminer.svg" width="100%"></object></div>
+    <div style="padding-left: 8vw;"></div>
+  </div>
+</div>
