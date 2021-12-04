@@ -26,7 +26,7 @@
       }
 
       .a2074131-44e3-4774-9b41-c9f212bc81b1 {
-        fill: #dc4335;
+        stroke: #dc4335;
       }
 
       .ab7dde37-7eb1-40ff-8361-b887dec85b3c {
@@ -71,14 +71,6 @@
   <text class="fd84bfee-ec37-4480-af89-de74c5a6c1cb" transform="translate(40.84 269.5)">ご利用の流れ</text>
   <text class="e97011b0-e9c8-4132-af1c-9273fbe16216" transform="translate(65.43 240.94)">FLOW</text>
   <line class="a2074131-44e3-4774-9b41-c9f212bc81b1" x1="59.22" y1="224.45" x2="43.22" y2="240.45"/>
-  <rect class="fd3014ee-25ca-4fb3-abf7-85c645ae1b0e" x="20.95" y="21.91" width="337" height="75" rx="10"/>
-  <g class="ab7dde37-7eb1-40ff-8361-b887dec85b3c">
-    <path class="a2074131-44e3-4774-9b41-c9f212bc81b1" d="M348,21.91a10,10,0,0,1,10,10v55a10,10,0,0,1-10,10H31a10,10,0,0,1-10-10v-55a10,10,0,0,1,10-10H348m0-5H31a15,15,0,0,0-15,15v55a15,15,0,0,0,15,15H348a15,15,0,0,0,15-15v-55a15,15,0,0,0-15-15Z"/>
-  </g>
-  <line class="a515de4f-7813-4d0a-9a53-2160e385d807" x1="51.95" y1="53.91" x2="89.95" y2="53.91"/>
-  <line class="a515de4f-7813-4d0a-9a53-2160e385d807" x1="51.95" y1="62.41" x2="89.95" y2="62.41"/>
-  <line class="a515de4f-7813-4d0a-9a53-2160e385d807" x1="51.95" y1="71.41" x2="89.95" y2="71.41"/>
-  <text class="e7c1ce42-4fcb-4eb7-9220-8a29812cee25" transform="translate(162.57 69.93)">サイバースミス</text>
   <text class="bc9151b0-5be6-4a58-a76b-eadd701e3a78" transform="translate(27.28 314.06)">当サイトでは下記のような流れで、皆様に最適<tspan x="0" y="24.5">な案件をご紹介しております</tspan><tspan class="a27c203b-a439-4aad-91b8-bd7a0552ca3b" x="200.2" y="24.5">。</tspan></text>
   <line class="a515de4f-7813-4d0a-9a53-2160e385d807" x1="30.63" y1="377.53" x2="351.5" y2="377.53"/>
   <g class="a8c3bde7-eda9-4193-a8a5-8be90f17040d">

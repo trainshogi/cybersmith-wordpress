@@ -26,7 +26,7 @@
       }
 
       .fa6361d3-3384-4fc4-a060-08c00f4b6d8c {
-        fill: #83ccd2;
+        stroke: #83ccd2;
       }
 
       .af60636e-ed37-4d6b-9a71-96ae0a1f84b3 {
@@ -58,12 +58,4 @@
   <text class="b6e9f11f-a0cf-4ed2-a596-ad6ae0f940cd" transform="translate(40.84 269.5)">案件情報一覧</text>
   <text class="bf858d47-d937-4af4-b35b-f737a44e2a89" transform="translate(65.43 240.94)">WORK</text>
   <line class="fa6361d3-3384-4fc4-a060-08c00f4b6d8c" x1="59.22" y1="224.45" x2="43.22" y2="240.45"/>
-  <rect class="a9037a96-dd66-4d14-a365-0a9c669445b6" x="20.95" y="21.91" width="337" height="75" rx="10"/>
-  <g class="af60636e-ed37-4d6b-9a71-96ae0a1f84b3">
-    <path class="a3639af0-fb3b-4072-b898-771bf5e47b6e" d="M348,21.91a10,10,0,0,1,10,10v55a10,10,0,0,1-10,10H31a10,10,0,0,1-10-10v-55a10,10,0,0,1,10-10H348m0-5H31a15,15,0,0,0-15,15v55a15,15,0,0,0,15,15H348a15,15,0,0,0,15-15v-55a15,15,0,0,0-15-15Z"/>
-  </g>
-  <line class="f81639af-a631-4609-bc28-4586fd5703b7" x1="51.95" y1="53.91" x2="89.95" y2="53.91"/>
-  <line class="f81639af-a631-4609-bc28-4586fd5703b7" x1="51.95" y1="62.41" x2="89.95" y2="62.41"/>
-  <line class="f81639af-a631-4609-bc28-4586fd5703b7" x1="51.95" y1="71.41" x2="89.95" y2="71.41"/>
-  <text class="a7817d99-b047-4624-b0b7-f4fe14be2b8c" transform="translate(162.57 69.93)">サイバースミス</text>
 </svg>

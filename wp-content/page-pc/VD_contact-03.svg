@@ -85,7 +85,7 @@
   <rect class="f64308dd-7003-4594-ac4a-c2aa5b52cd2a" x="472.4" y="177.2" width="600" height="200" rx="11.95"/>
   <text class="f5d5895d-f197-44e5-9e55-14098d687714" transform="translate(267.57 145.37)">※ 必須</text>
   <g>
-    <text class="ff57ee4f-4f56-4c53-bf39-ba2de5cdb654" transform="translate(608.01 422.63)">個人情報の取扱いに同意する</text>
+    <text class="ff57ee4f-4f56-4c53-bf39-ba2de5cdb654" transform="translate(608.01 422.63)"><a href="../privacy_policy/">個人情報の取扱い</a>に同意する</text>
     <rect class="f64308dd-7003-4594-ac4a-c2aa5b52cd2a" x="548.39" y="402.2" width="36" height="28" rx="5"/>
   </g>
 </svg>

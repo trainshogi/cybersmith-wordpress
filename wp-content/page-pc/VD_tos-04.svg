@@ -1,0 +1,35 @@
+<svg id="eea0ac2b-de45-4551-aa2c-24e3c275057b" data-name="レイヤー 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1366 55">
+  <defs>
+    <style>
+      .e85b61db-7dde-4908-b31f-5583aeda18ef, .eb665d6c-29c2-42a1-ae2f-bf4f559400d9 {
+        fill: none;
+      }
+
+      .a660c729-5aa3-4b6a-b5bf-f4726ef4f6a2, .ae71dbf0-1ec3-45ec-b5a5-55c155ffa35b {
+        font-size: 14px;
+        letter-spacing: 0.1em;
+      }
+
+      .a660c729-5aa3-4b6a-b5bf-f4726ef4f6a2 {
+        font-family: HiraKakuProN-W3-83pv-RKSJ-H, Hiragino Kaku Gothic ProN;
+      }
+
+      .ae71dbf0-1ec3-45ec-b5a5-55c155ffa35b {
+        font-family: HiraKakuProN-W6-83pv-RKSJ-H, Hiragino Kaku Gothic ProN;
+      }
+
+      .a536ced8-c577-4ddb-a523-8ca92c9b4974 {
+        fill: #d64335;
+      }
+
+      .eb665d6c-29c2-42a1-ae2f-bf4f559400d9 {
+        stroke: #d64335;
+        stroke-miterlimit: 10;
+      }
+    </style>
+  </defs>
+  <a href="/"><text class="a660c729-5aa3-4b6a-b5bf-f4726ef4f6a2" transform="translate(980.88 27.74)">トップページ</text></a>
+  <a href="."><text class="ae71dbf0-1ec3-45ec-b5a5-55c155ffa35b" transform="translate(1113.88 26.74)">ご利用規約</text></a>
+  <path class="a536ced8-c577-4ddb-a523-8ca92c9b4974" d="M1099.24,21.59l-1-1h0l-4.17-4.17a.37.37,0,0,0-.52,0l-1,1a.36.36,0,0,0,0,.52l2.74,2.75h-9a.3.3,0,0,0-.31.3V22.7a.31.31,0,0,0,.31.31h9l-2.74,2.74a.38.38,0,0,0-.11.26.39.39,0,0,0,.11.27l1,1a.35.35,0,0,0,.26.1.37.37,0,0,0,.26-.1l4.17-4.17h0l1-1A.37.37,0,0,0,1099.24,21.59Z"/>
+  <line class="eb665d6c-29c2-42a1-ae2f-bf4f559400d9" x1="984.34" y1="32.83" x2="1071.34" y2="32.83"/>
+</svg>

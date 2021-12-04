@@ -1,0 +1,45 @@
+<svg id="e4d32b08-52fd-4437-8675-0cfa5ef9e387" data-name="レイヤー 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 375 61">
+  <defs>
+    <style>
+      .fd9f1780-a88e-4c3e-8161-4973243a8afe, .feccf4c1-0fcf-409b-a054-7304f25502e8 {
+        fill: none;
+      }
+
+      .fdb55609-975e-4154-aa63-6c651a25429f {
+        clip-path: url(#bcfe27e6-079c-4031-8a3f-c275afa05f6b);
+      }
+
+      .aea9f535-6567-4b42-9311-0d4e24b31528, .b3abb000-2bad-4364-9ab9-cdb3d7f2840a {
+        font-size: 14px;
+        letter-spacing: 0.1em;
+      }
+
+      .aea9f535-6567-4b42-9311-0d4e24b31528 {
+        font-family: HiraKakuProN-W3-83pv-RKSJ-H, Hiragino Kaku Gothic ProN;
+      }
+
+      .b3abb000-2bad-4364-9ab9-cdb3d7f2840a {
+        font-family: HiraKakuProN-W6-83pv-RKSJ-H, Hiragino Kaku Gothic ProN;
+      }
+
+      .b6fa0c8e-32ec-4711-8d11-d965df629b1f {
+        fill: #dc4335;
+      }
+
+      .feccf4c1-0fcf-409b-a054-7304f25502e8 {
+        stroke: #dc4335;
+        stroke-miterlimit: 10;
+      }
+    </style>
+    <clipPath id="bcfe27e6-079c-4031-8a3f-c275afa05f6b">
+      <rect class="fd9f1780-a88e-4c3e-8161-4973243a8afe" x="-101.13" y="-364" width="795.71" height="267.13"/>
+    </clipPath>
+  </defs>
+  <g class="fdb55609-975e-4154-aa63-6c651a25429f">
+    <image width="1980" height="1320" transform="translate(-100.82 -400.08) scale(0.4)" xlink:href="../IMG/pixta_47892115_XL.jpg"/>
+  </g>
+  <a href="/"><text class="aea9f535-6567-4b42-9311-0d4e24b31528" transform="translate(27.27 41.73)">トップページ</text></a>
+  <a href="."><text class="b3abb000-2bad-4364-9ab9-cdb3d7f2840a" transform="translate(160.27 40.73)">プライバシーポリシー</text></a>
+  <path class="b6fa0c8e-32ec-4711-8d11-d965df629b1f" d="M145.62,35.58l-1-1h0l-4.16-4.17a.39.39,0,0,0-.53,0l-1,1a.39.39,0,0,0,0,.52l2.75,2.75h-9.06a.3.3,0,0,0-.3.3V36.7a.31.31,0,0,0,.3.3h9.06L139,39.74a.37.37,0,0,0-.1.26.38.38,0,0,0,.1.27l1,1a.39.39,0,0,0,.27.1.37.37,0,0,0,.26-.1l4.16-4.17h0l1-1A.36.36,0,0,0,145.62,35.58Z"/>
+  <line class="feccf4c1-0fcf-409b-a054-7304f25502e8" x1="30.73" y1="46.82" x2="117.73" y2="46.82"/>
+</svg>

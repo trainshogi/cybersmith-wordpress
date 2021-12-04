@@ -77,7 +77,7 @@
   <rect class="f4b5e33b-9e9e-4616-ad25-dc6040f21a54" x="22.62" y="237.13" width="321" height="43.21" rx="5.56"/>
   <text class="e3449a4a-cd84-4dbd-93d4-35dca2deb00d" transform="translate(37.23 264.57)">任意メッセージ</text>
   <g>
-    <text class="e0915f90-d176-4e9f-b6b8-6dbd2ac7b531" transform="translate(116.73 635.06)">個人情報の取扱いに同意する</text>
+    <text class="e0915f90-d176-4e9f-b6b8-6dbd2ac7b531" transform="translate(116.73 635.06)"><a href="../privacy_policy_sp/">個人情報の取扱い</a>に同意する</text>
     <rect class="fb15dc93-5c83-4028-b705-eb7c4b8b1416" x="83.55" y="622.42" width="21.11" height="16.42" rx="2.93"/>
   </g>
 </svg>

@@ -1,0 +1,45 @@
+<svg id="b0fdc449-3220-4f81-af8c-9558ab13a54e" data-name="レイヤー 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 375 61">
+  <defs>
+    <style>
+      .a14d68af-e93b-4c6b-b9a7-fe4ea2d619bf, .a8584ff8-22de-4429-9828-783ff1adb8fc {
+        fill: none;
+      }
+
+      .ba310690-4ea1-4e2c-8a61-290e36da8143 {
+        clip-path: url(#b4a7a0af-075b-4578-baef-3f757c764a8c);
+      }
+
+      .f43ae1d8-b1d4-4d5a-9c69-74e65333d12c, .f8c4fd6f-5c9a-47a3-96fa-6951ba6f7e87 {
+        font-size: 14px;
+        letter-spacing: 0.1em;
+      }
+
+      .f8c4fd6f-5c9a-47a3-96fa-6951ba6f7e87 {
+        font-family: HiraKakuProN-W3-83pv-RKSJ-H, Hiragino Kaku Gothic ProN;
+      }
+
+      .f43ae1d8-b1d4-4d5a-9c69-74e65333d12c {
+        font-family: HiraKakuProN-W6-83pv-RKSJ-H, Hiragino Kaku Gothic ProN;
+      }
+
+      .e6805019-0aac-47f8-a522-6b6938ee8fb9 {
+        fill: #dc4335;
+      }
+
+      .a14d68af-e93b-4c6b-b9a7-fe4ea2d619bf {
+        stroke: #dc4335;
+        stroke-miterlimit: 10;
+      }
+    </style>
+    <clipPath id="b4a7a0af-075b-4578-baef-3f757c764a8c">
+      <rect class="a8584ff8-22de-4429-9828-783ff1adb8fc" x="-101.13" y="-364" width="795.71" height="267.13"/>
+    </clipPath>
+  </defs>
+  <g class="ba310690-4ea1-4e2c-8a61-290e36da8143">
+    <image width="1980" height="1320" transform="translate(-100.82 -400.08) scale(0.4)" xlink:href="../IMG/pixta_47892115_XL.jpg"/>
+  </g>
+  <a href="/"><text class="f8c4fd6f-5c9a-47a3-96fa-6951ba6f7e87" transform="translate(27.27 41.73)">トップページ</text></a>
+  <a href="."><text class="f43ae1d8-b1d4-4d5a-9c69-74e65333d12c" transform="translate(160.27 40.73)">ご利用規約</text></a>
+  <path class="e6805019-0aac-47f8-a522-6b6938ee8fb9" d="M145.62,35.58l-1-1h0l-4.16-4.17a.39.39,0,0,0-.53,0l-1,1a.39.39,0,0,0,0,.52l2.75,2.75h-9.06a.3.3,0,0,0-.3.3V36.7a.31.31,0,0,0,.3.3h9.06L139,39.74a.37.37,0,0,0-.1.26.38.38,0,0,0,.1.27l1,1a.39.39,0,0,0,.27.1.37.37,0,0,0,.26-.1l4.16-4.17h0l1-1A.36.36,0,0,0,145.62,35.58Z"/>
+  <line class="a14d68af-e93b-4c6b-b9a7-fe4ea2d619bf" x1="30.73" y1="46.82" x2="117.73" y2="46.82"/>
+</svg>

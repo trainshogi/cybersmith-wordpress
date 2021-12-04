@@ -1,0 +1,34 @@
+<svg id="e3597761-a954-4f43-973b-5bf6815016d4" data-name="レイヤー 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1366 55">
+  <defs>
+    <style>
+      .b199651e-2864-4a99-8000-165ab81cb965, .bc3f39e7-3f8a-4b67-955b-827e110ffaa7 {
+        fill: none;
+      }
+      .fbe92dc6-b7fe-46c8-89b7-d10d7e255b09, .fe79b303-651c-4a95-ac13-64db479c4f83 {
+        font-size: 14px;
+        letter-spacing: 0.1em;
+      }
+
+      .fe79b303-651c-4a95-ac13-64db479c4f83 {
+        font-family: HiraKakuProN-W3-83pv-RKSJ-H, Hiragino Kaku Gothic ProN;
+      }
+
+      .fbe92dc6-b7fe-46c8-89b7-d10d7e255b09 {
+        font-family: HiraKakuProN-W6-83pv-RKSJ-H, Hiragino Kaku Gothic ProN;
+      }
+
+      .abbe1ae9-6669-44b2-bbfe-1286b4c6c635 {
+        fill: #d64335;
+      }
+
+      .bc3f39e7-3f8a-4b67-955b-827e110ffaa7 {
+        stroke: #d64335;
+        stroke-miterlimit: 10;
+      }
+    </style>
+  </defs>
+  <a href="/"><text class="fe79b303-651c-4a95-ac13-64db479c4f83" transform="translate(903.88 27.74)">トップページ</text></a>
+  <a href="."><text class="fbe92dc6-b7fe-46c8-89b7-d10d7e255b09" transform="translate(1036.88 26.74)">プライバシーポリシー</text></a>
+  <path class="abbe1ae9-6669-44b2-bbfe-1286b4c6c635" d="M1022.24,21.59l-1-1h0l-4.17-4.17a.37.37,0,0,0-.52,0l-1,1a.36.36,0,0,0,0,.52l2.74,2.75h-9.05a.3.3,0,0,0-.31.3V22.7a.31.31,0,0,0,.31.31h9.05l-2.74,2.74a.38.38,0,0,0-.11.26.39.39,0,0,0,.11.27l1,1a.35.35,0,0,0,.26.1.37.37,0,0,0,.26-.1l4.17-4.17h0l1-1A.37.37,0,0,0,1022.24,21.59Z"/>
+  <line class="bc3f39e7-3f8a-4b67-955b-827e110ffaa7" x1="907.34" y1="32.83" x2="994.34" y2="32.83"/>
+</svg>

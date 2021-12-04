@@ -93,7 +93,7 @@
   <rect class="b0d1c728-5679-4592-bca2-fc270d4242fa" x="411.43" y="378.99" width="600" height="200" rx="11.95"/>
   <text class="b4f696ad-544c-4c47-8dff-00e9210395c5" transform="translate(206.6 347.16)">※ 必須</text>
   <g>
-    <text class="a7b721e4-17e3-43c1-8d02-f39915aef560" transform="translate(547.04 624.42)">個人情報の取扱いに同意する</text>
+    <text class="a7b721e4-17e3-43c1-8d02-f39915aef560" transform="translate(547.04 624.42)"><a href="../privacy_policy/">個人情報の取扱い</a>に同意する</text>
     <rect class="b0d1c728-5679-4592-bca2-fc270d4242fa" x="487.42" y="603.99" width="36" height="28" rx="5"/>
   </g>
 </svg>

@@ -30,6 +30,10 @@
         letter-spacing: 0.3em;
       }
 
+      .ea3c7649-c1e1-4671-a4cc-98794f18e93a-2 {
+        stroke: #dc4335;
+      }
+
       .ea3c7649-c1e1-4671-a4cc-98794f18e93a {
         fill: #dc4335;
       }
@@ -147,7 +151,7 @@
       <text class="a818cbaa-0169-4703-b220-2f53a32adfa2" transform="translate(30.88 117.81)">サイバースミスに<tspan x="0" y="52">できること</tspan></text>
       <text class="bb210fd5-1f57-470e-9271-51e46a0dfb15" transform="translate(39.12 228.89)">人と人をつなげ<tspan class="bf7edfee-4b74-403e-ae20-2a21ffa57283" x="138.6" y="0">、</tspan><tspan x="0" y="31.5">あらゆる課題を解決し</tspan><tspan class="bf7edfee-4b74-403e-ae20-2a21ffa57283" x="198" y="31.5">、</tspan><tspan x="0" y="63">世の中を良くするために</tspan><tspan x="0" y="94.5">活動していきます</tspan><tspan class="ae09f5ef-5f38-4dc5-b765-d77505ff1f80" x="158.4" y="94.5">。</tspan></text>
       <text class="f19a9117-b37f-45cf-adaa-41dc36b99e4b" transform="translate(57.15 58.09)">CYBER SMITH</text>
-      <line class="ea3c7649-c1e1-4671-a4cc-98794f18e93a" x1="50.93" y1="41.6" x2="34.93" y2="57.6"/>
+      <line class="ea3c7649-c1e1-4671-a4cc-98794f18e93a-2" x1="50.93" y1="41.6" x2="34.93" y2="57.6"/>
       <g><a href="../company_sp/">
         <text class="b3f05cc9-ad97-492f-bd9a-2b6fd27784bf" transform="translate(85.25 395.5)">VIEW MORE</text>
         <line class="bbd32dfe-c62a-4083-92f8-80991de3f299" x1="85.93" y1="401.1" x2="207.93" y2="401.1"/>

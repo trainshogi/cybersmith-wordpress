@@ -1,0 +1,98 @@
+<svg id="b9305a2e-7a13-49ad-afcd-f8f110b80d73" data-name="レイヤー 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1366 430">
+  <defs>
+    <style>
+      .b7dcd8a0-492b-472a-bea0-1e01f4fb9a66, .f9b983c6-6b04-493b-bff7-f1346d0ebba5, .fc365b74-0f52-432c-95ec-dda414005114 {
+        fill: none;
+      }
+
+      .f9498f39-6c08-45d6-b5db-4b8e1aa631b2 {
+        clip-path: url(#bd669e48-2853-40cf-a7b3-777dc2c980ed);
+      }
+
+      .b4cf0a5c-1ecc-4cc2-8031-1f9773e26c5a {
+        fill: #fff;
+      }
+
+      .f298de6d-2f14-4eb7-af3b-933fa44c4b75 {
+        opacity: 0.3;
+      }
+
+      .f43cc275-5ac6-4b1b-9771-152353b12474 {
+        fill: #d64335;
+      }
+
+      .f9b983c6-6b04-493b-bff7-f1346d0ebba5 {
+        stroke: #000;
+      }
+
+      .f9b983c6-6b04-493b-bff7-f1346d0ebba5, .fc365b74-0f52-432c-95ec-dda414005114 {
+        stroke-miterlimit: 10;
+      }
+
+      .a79aa583-0d4d-44cf-8eb7-1f4410fd5526 {
+        font-size: 18px;
+        font-family: HiraginoSans-W6-83pv-RKSJ-H, Hiragino Sans;
+      }
+
+      .ef507b77-b10b-4a60-bd30-e4bc67ae6fc7 {
+        font-size: 12px;
+        fill: #0045ba;
+        font-family: HiraginoSans-W4-83pv-RKSJ-H, Hiragino Sans;
+      }
+
+      .f20d7c9f-f3e9-4992-b615-81db127e849e {
+        font-size: 42px;
+        font-family: FutoGoB101Pr6N-Bold, FutoGoB101Pr6N Bold-83pv-RKSJ-H;
+        font-weight: 700;
+        letter-spacing: 0.2em;
+      }
+
+      .e77b6c6c-4d30-4f3a-8332-57df28842eb9 {
+        font-size: 26px;
+        font-family: KozGoPr6N-Bold-83pv-RKSJ-H, Kozuka Gothic Pr6N;
+      }
+
+      .a66e40a5-feb1-437b-8e2e-8c4e66ce4662, .aa980e3b-5d4e-4a04-b31b-423592dba0cc, .befac302-9846-4d74-b6e5-d50f5322e12c {
+        font-size: 14px;
+      }
+
+      .a66e40a5-feb1-437b-8e2e-8c4e66ce4662 {
+        letter-spacing: 0.3em;
+      }
+
+      .aa980e3b-5d4e-4a04-b31b-423592dba0cc {
+        font-family: HiraKakuProN-W3-83pv-RKSJ-H, Hiragino Kaku Gothic ProN;
+      }
+
+      .aa980e3b-5d4e-4a04-b31b-423592dba0cc, .befac302-9846-4d74-b6e5-d50f5322e12c {
+        letter-spacing: 0.1em;
+      }
+
+      .befac302-9846-4d74-b6e5-d50f5322e12c {
+        font-family: HiraKakuProN-W6-83pv-RKSJ-H, Hiragino Kaku Gothic ProN;
+      }
+
+      .fc365b74-0f52-432c-95ec-dda414005114 {
+        stroke: #d64335;
+      }
+
+      .a7d7ce5b-63b3-4079-8ffc-dd7930f037b1 {
+        stroke: #83ccd2;
+      }
+    </style>
+    <clipPath id="bd669e48-2853-40cf-a7b3-777dc2c980ed">
+      <rect class="b7dcd8a0-492b-472a-bea0-1e01f4fb9a66" x="-24" y="-138" width="1403" height="471"/>
+    </clipPath>
+  </defs>
+  <g class="f9498f39-6c08-45d6-b5db-4b8e1aa631b2">
+    <image width="1980" height="1320" transform="translate(-23.47 -201.62) scale(0.71)" xlink:href="http://3.112.250.183/wp-content/uploads/2021/11/pixta_47892115_XL.jpg"/>
+  </g>
+  <rect class="b4cf0a5c-1ecc-4cc2-8031-1f9773e26c5a" x="-10" y="260" width="838" height="129" rx="10"/>
+  <text class="f20d7c9f-f3e9-4992-b615-81db127e849e" transform="translate(185.62 382.05)">ご利用規約</text>
+  <text class="a66e40a5-feb1-437b-8e2e-8c4e66ce4662" transform="translate(210.21 330.49)">TERMS OF SERVICE</text>
+  <a href="/"><text class="aa980e3b-5d4e-4a04-b31b-423592dba0cc" transform="translate(980.54 379.41)">トップページ</text></a>
+  <a href="."><text class="befac302-9846-4d74-b6e5-d50f5322e12c" transform="translate(1113.54 378.41)">ご利用規約</text></a>
+  <path class="f43cc275-5ac6-4b1b-9771-152353b12474" d="M1098.9,373.25l-1-1h0l-4.17-4.16a.36.36,0,0,0-.52,0l-1,1a.36.36,0,0,0,0,.52l2.74,2.75h-9a.29.29,0,0,0-.3.3v1.71a.3.3,0,0,0,.3.31h9l-2.74,2.74a.36.36,0,0,0,0,.52l1,1a.34.34,0,0,0,.26.11.33.33,0,0,0,.26-.11l4.17-4.16h0l1-1A.39.39,0,0,0,1098.9,373.25Z"/>
+  <line class="fc365b74-0f52-432c-95ec-dda414005114" x1="984" y1="384.5" x2="1071" y2="384.5"/>
+  <line class="a7d7ce5b-63b3-4079-8ffc-dd7930f037b1" x1="204" y1="314" x2="188" y2="330"/>
+</svg>

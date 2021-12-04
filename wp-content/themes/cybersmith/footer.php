@@ -82,7 +82,7 @@
           <path d="M658,285V485H258V285H658m10-10H248V495H668V275Z"/>
         </g>
         <text class="bd24927b-0bfc-4060-949b-f459179f8990" transform="translate(430.24 211.48)">幸福が循環する社会を創る</text>
-        <text class="ac2d5de7-f92b-44cc-be39-adfb8ecc86eb" transform="translate(511.42 639.11)"><a href="../company/">運営会社</a> / <a href=".">ご利用規約</a> / <a href="../qa/">よくある質問</a></text>
+        <text class="ac2d5de7-f92b-44cc-be39-adfb8ecc86eb" transform="translate(511.42 639.11)"><a href="/company/">運営会社</a> / <a href="/tos/">ご利用規約</a> / <a href="/qa/">よくある質問</a></text>
         <text class="f38e4c44-8828-4066-9339-5ef511174a0e" transform="translate(531.82 672.92)">Copyright © Cybersmith All rights reserved.</text>
         <text class="b096a577-e81a-42fb-888e-c4f2966292a1" transform="translate(592.58 129.15)">サイバースミス</text>
         <g class="ff23ea89-615c-42c0-99ab-15051b32d186">

@@ -90,7 +90,7 @@
   <rect class="a6d9584d-604f-414d-ab70-900570ae9f18" x="25.62" y="235.41" width="321" height="43.21" rx="5.56"/>
   <text class="ab61a995-55d7-458f-9c1a-718190689f9d" transform="translate(40.23 262.84)">お問い合わせ内容</text>
   <g>
-    <text class="ab47e12e-7832-475c-b847-5be5c4691a09" transform="translate(116.73 633.34)">個人情報の取扱いに同意する</text>
+    <text class="ab47e12e-7832-475c-b847-5be5c4691a09" transform="translate(116.73 633.34)"><a href="../privacy_policy_sp/">個人情報の取扱い</a>に同意する</text>
     <rect class="b29983df-a7c4-44e1-931f-900b3d4f6ffc" x="83.55" y="620.7" width="21.11" height="16.42" rx="2.93"/>
   </g>
   <text class="bf00bd58-aeee-4a72-a4fa-e218f2ad2581" transform="translate(173.32 261.2)">※ 必須</text>

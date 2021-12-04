@@ -1,0 +1,68 @@
+<svg id="f16c89da-49db-4cec-a263-8bfa6772e6b0" data-name="レイヤー 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 375 353">
+  <defs>
+    <style>
+      .a0a98b52-efca-43e1-bfae-5b2ea9585691, .fbe81d75-1430-47be-a980-a6ea7e3b2bd7 {
+        fill: none;
+      }
+
+      .a0fab653-4fb8-43b8-b7fc-a5408eaa0517 {
+        clip-path: url(#f40773f9-eda4-4f98-81c2-3eaf8069df20);
+      }
+
+      .aa6aaace-5dd5-42b6-906e-7c64a18cb73e {
+        fill: #fff;
+      }
+
+      .be8f6ea0-e311-4ef6-b081-7d7018440f0d {
+        font-size: 21px;
+        font-family: FutoGoB101Pr6N-Bold, FutoGoB101Pr6N Bold-83pv-RKSJ-H;
+        font-weight: 700;
+        letter-spacing: 0.1em;
+      }
+
+      .b96bb138-6b9d-441e-b37f-b046d90f9e2a {
+        font-size: 10px;
+        letter-spacing: 0.3em;
+      }
+
+      .f71512ab-e2fd-4685-9e49-deb762edcfa2 {
+        fill: #83ccd2;
+      }
+
+      .fa9e4bda-bf87-4150-87bb-f639200cbce7 {
+        opacity: 0.3;
+      }
+
+      .b78f8ebc-6288-419b-9ee0-be46a63218e1 {
+        fill: #dc4335;
+      }
+
+      .a0a98b52-efca-43e1-bfae-5b2ea9585691 {
+        stroke: #000;
+        stroke-miterlimit: 10;
+      }
+
+      .ecd22efb-72ac-4cd2-bd8a-ebe025c2464c {
+        font-size: 18px;
+        font-family: KozGoPr6N-Bold-83pv-RKSJ-H, Kozuka Gothic Pr6N;
+      }
+
+      .f4ba0517-a6e8-4f31-a842-1889cd37cf2e {
+        font-size: 14px;
+        font-family: HiraKakuProN-W3-83pv-RKSJ-H, Hiragino Kaku Gothic ProN;
+        letter-spacing: 0.1em;
+      }
+    </style>
+    <clipPath id="f40773f9-eda4-4f98-81c2-3eaf8069df20">
+      <rect class="fbe81d75-1430-47be-a980-a6ea7e3b2bd7" x="-101.13" y="-11" width="795.71" height="267.13"/>
+    </clipPath>
+  </defs>
+  <g class="a0fab653-4fb8-43b8-b7fc-a5408eaa0517">
+    <image width="1980" height="1320" transform="translate(-100.82 -47.08) scale(0.4)" xlink:href="http://3.112.250.183/wp-content/uploads/2021/11/pixta_47892115_XL.jpg"/>
+  </g>
+  <rect class="aa6aaace-5dd5-42b6-906e-7c64a18cb73e" x="19.22" y="201" width="299.78" height="96.45" rx="10.89"/>
+  <text class="be8f6ea0-e311-4ef6-b081-7d7018440f0d" transform="translate(40.84 265.5)">ご利用規約</text>
+  <text class="b96bb138-6b9d-441e-b37f-b046d90f9e2a" transform="translate(65.43 236.94)">TERMS OF SERVICE</text>
+  <line class="f71512ab-e2fd-4685-9e49-deb762edcfa2" x1="59.22" y1="220.45" x2="43.22" y2="236.45"/>
+  <text class="f4ba0517-a6e8-4f31-a842-1889cd37cf2e" transform="translate(23.52 315.27)">サンプル文章<tspan x="0" y="24.5">ご利用規約のなかみ</tspan></text>
+</svg>
