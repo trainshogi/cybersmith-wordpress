@@ -75,7 +75,7 @@
       <text class="b069c161-1fff-4566-8a26-07d6bacac7e9" transform="translate(37.78 208.53)">幸福が循環する<tspan x="43.2" y="63">社会を創る</tspan></text>
       <text class="afd693b8-ae96-4d06-8ebf-5cfdcfb9200e" transform="translate(52.14 783.15)"><a href="/company_sp/">運営会社</a> / <a href="/tos_sp/">ご利用規約</a> / <a href="/qa_sp/">よくある質問</a></text>
       <text class="adbd92b0-20fa-42fe-be7a-c2ae504bb931" transform="translate(37.54 817.97)">Copyright © Cybersmith All rights reserved.</text>
-      <text class="a8aca1e5-4334-48f5-8133-ba16f8742de4" transform="translate(93.31 114.2)">サイバースミス</text>
+      <image width="179.86" transform="translate(93.31 15.2)" xlink:href="http://3.112.250.183/wp-content/uploads/2021/12/logo.svg"/>
       <g class="ab4c8d90-07d0-48ce-bdf1-ebd7683de70d">
         <path d="M342.71,349.05V501.54h-305V349.05h305m7.63-7.63H30.1V509.17H350.34V341.42Z"/>
       </g>

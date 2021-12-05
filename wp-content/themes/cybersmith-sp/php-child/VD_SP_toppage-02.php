@@ -42,7 +42,7 @@
       }
     </style>
   </defs>
-  <image width="1980" height="1413" transform="translate(-310.98 -34.02) scale(0.45)" xlink:href="http://3.112.250.183/wp-content/uploads/2021/11/pixta_77226296_L.jpg"/>
+  <image width="1980" height="1413" transform="translate(-310.98 -34.02) scale(0.45)" xlink:href="http://3.112.250.183/wp-content/uploads/2021/12/earth.png"/>
   <rect class="e1d601b7-278e-471f-ba7c-be33135cd54f" x="22" y="164" width="296" height="60"/>
   <rect class="e1d601b7-278e-471f-ba7c-be33135cd54f" x="22" y="230" width="212" height="43"/>
   <rect class="e1d601b7-278e-471f-ba7c-be33135cd54f" x="22" y="344" width="337" height="211"/>

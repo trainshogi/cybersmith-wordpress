@@ -93,7 +93,7 @@
   <image width="1980" height="1321" transform="translate(59.43 473.14) scale(0.12)" xlink:href="http://3.112.250.183/wp-content/uploads/2021/11/pixta_58735719_XL.jpg"/>
   <image width="1980" height="1322" transform="translate(159.18 597.24) scale(0.12)" xlink:href="http://3.112.250.183/wp-content/uploads/2021/11/pixta_69482928_XL.jpg"/>
   <image width="1980" height="1320" transform="translate(-19 614.54) scale(0.12)" xlink:href="http://3.112.250.183/wp-content/uploads/2021/11/pixta_60365380_XL.jpg"/>
-  <line class="aa6579a2-7cb3-4afa-952f-4a92d0e0d327" x1="59.13" y1="613.57" x2="160.07" y2="613.57"/>
-  <line class="aa6579a2-7cb3-4afa-952f-4a92d0e0d327" x1="159.18" y1="596.95" x2="295.84" y2="596.95"/>
-  <line class="aa6579a2-7cb3-4afa-952f-4a92d0e0d327" x1="218.36" y1="613.43" x2="218.36" y2="754.84"/>
+  <line class="aa6579a2-7cb3-4afa-952f-4a92d0e0d327" x1="59.13" y1="613.17" x2="218.97" y2="613.17"/>
+  <line class="aa6579a2-7cb3-4afa-952f-4a92d0e0d327" x1="159.18" y1="595.75" x2="297.84" y2="595.75"/>
+  <line class="aa6579a2-7cb3-4afa-952f-4a92d0e0d327" x1="217.36" y1="613.43" x2="217.36" y2="773.44"/>
 </svg>
