@@ -1,91 +1,18 @@
-<svg id="acb50989-0b5d-4608-87fc-edf54a74b568" data-name="レイヤー 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1366 534">
-  <defs>
-    <style>
-      .e702e445-0068-4ea5-a4e7-5073fadf330e, .f64308dd-7003-4594-ac4a-c2aa5b52cd2a {
-        fill: none;
-      }
-
-      .b0c236f7-4bfa-410f-9b4d-03d5cd008123 {
-        clip-path: url(#ba4a7f5b-7ae9-49d5-8460-664b66144a00);
-      }
-
-      .b19a6a83-00b8-45d5-ae89-c0e4ee1a8065 {
-        fill: #83ccd2;
-      }
-
-      .ae73d630-0f80-4161-82a8-bcaec78daf93, .b57f80c6-aef5-495e-b100-3eea36cfbf6d {
-        fill: #fff;
-      }
-
-      .ae73d630-0f80-4161-82a8-bcaec78daf93, .e2760982-1b69-46d9-ade6-37692069eef0 {
-        font-size: 16px;
-      }
-
-      .ae73d630-0f80-4161-82a8-bcaec78daf93 {
-        font-family: HiraginoSans-W6-83pv-RKSJ-H, Hiragino Sans;
-        letter-spacing: 0.3em;
-      }
-
-      .a2890d25-2376-4eef-83a5-e3b5abb8cd53 {
-        fill: #e4e4e4;
-      }
-
-      .e2760982-1b69-46d9-ade6-37692069eef0, .f5d5895d-f197-44e5-9e55-14098d687714, .ff57ee4f-4f56-4c53-bf39-ba2de5cdb654 {
-        font-family: HiraKakuProN-W3-83pv-RKSJ-H, Hiragino Kaku Gothic ProN;
-      }
-
-      .e2760982-1b69-46d9-ade6-37692069eef0 {
-        letter-spacing: 0.1em;
-      }
-
-      .f5d5895d-f197-44e5-9e55-14098d687714, .fc1c0026-8b21-4a34-9b38-2cb26039e7af {
-        font-size: 12px;
-        fill: #bf272d;
-        letter-spacing: 0.1em;
-      }
-
-      .f64308dd-7003-4594-ac4a-c2aa5b52cd2a {
-        stroke: #e4e4e4;
-        stroke-miterlimit: 10;
-        stroke-width: 3px;
-      }
-
-      .ff57ee4f-4f56-4c53-bf39-ba2de5cdb654 {
-        font-size: 18px;
-        letter-spacing: 0.1em;
-      }
-    </style>
-    <clipPath id="ba4a7f5b-7ae9-49d5-8460-664b66144a00">
-      <rect class="e702e445-0068-4ea5-a4e7-5073fadf330e" x="-24" y="-648" width="1403" height="471"/>
-    </clipPath>
-  </defs>
-  <g class="b0c236f7-4bfa-410f-9b4d-03d5cd008123">
-    <image width="1980" height="1320" transform="translate(-23.47 -711.62) scale(0.71)" xlink:href="../IMG/pixta_47892115_XL.jpg"/>
-  </g>
-  <g>
-    <rect class="b19a6a83-00b8-45d5-ae89-c0e4ee1a8065" x="506.2" y="450.21" width="400" height="60" rx="30"/>
-    <g>
-      <circle class="b19a6a83-00b8-45d5-ae89-c0e4ee1a8065" cx="868.6" cy="482.62" r="13.51"/>
-      <g>
-        <path class="b57f80c6-aef5-495e-b100-3eea36cfbf6d" d="M869.86,482.84l0,0v0l0-.06h0a.38.38,0,0,0,0-.15h0l0-.06v0l0,0-.05-.06-5.42-5.42a.39.39,0,0,0-.55,0l-1,1a.39.39,0,0,0-.12.28.36.36,0,0,0,.12.27l4.11,4.12-4.11,4.11a.36.36,0,0,0-.12.27.39.39,0,0,0,.12.28l1,1a.39.39,0,0,0,.27.11.43.43,0,0,0,.28-.11l5.42-5.42Z"/>
-        <path class="b57f80c6-aef5-495e-b100-3eea36cfbf6d" d="M875.85,482.79v0a.14.14,0,0,0,0-.06h0a.38.38,0,0,0,0-.15h0a.14.14,0,0,0,0-.06v0s0,0,0,0l-.05-.06-5.42-5.42a.39.39,0,0,0-.55,0l-1,1a.44.44,0,0,0-.12.28.4.4,0,0,0,.12.27l4.11,4.12-4.11,4.11a.4.4,0,0,0-.12.27.44.44,0,0,0,.12.28l1,1a.43.43,0,0,0,.28.11.4.4,0,0,0,.27-.11l5.42-5.42.05-.06S875.85,482.81,875.85,482.79Z"/>
-      </g>
-    </g>
-    <text class="ae73d630-0f80-4161-82a8-bcaec78daf93" transform="translate(654.1 488.48)">送信する</text>
-  </g>
-  <rect class="a2890d25-2376-4eef-83a5-e3b5abb8cd53" x="249.9" y="17.7" width="200" height="65" rx="5.39"/>
-  <text class="e2760982-1b69-46d9-ade6-37692069eef0" transform="translate(264.51 45.14)">氏名</text>
-  <rect class="a2890d25-2376-4eef-83a5-e3b5abb8cd53" x="249.9" y="174.7" width="200" height="205" rx="9.57"/>
-  <text class="e2760982-1b69-46d9-ade6-37692069eef0" transform="translate(264.51 267.14)">お問い合わせ内容<tspan class="fc1c0026-8b21-4a34-9b38-2cb26039e7af"><tspan x="0" y="24.48">※ 必須</tspan></tspan></text>
-  <rect class="f64308dd-7003-4594-ac4a-c2aa5b52cd2a" x="472.4" y="27.2" width="600" height="45" rx="5.67"/>
-  <text class="f5d5895d-f197-44e5-9e55-14098d687714" transform="translate(267.57 66.37)">※ 必須</text>
-  <rect class="a2890d25-2376-4eef-83a5-e3b5abb8cd53" x="249.9" y="96.7" width="200" height="65" rx="5.39"/>
-  <text class="e2760982-1b69-46d9-ade6-37692069eef0" transform="translate(264.51 124.14)">メールアドレス</text>
-  <rect class="f64308dd-7003-4594-ac4a-c2aa5b52cd2a" x="472.4" y="106.2" width="600" height="45" rx="5.67"/>
-  <rect class="f64308dd-7003-4594-ac4a-c2aa5b52cd2a" x="472.4" y="177.2" width="600" height="200" rx="11.95"/>
-  <text class="f5d5895d-f197-44e5-9e55-14098d687714" transform="translate(267.57 145.37)">※ 必須</text>
-  <g>
-    <text class="ff57ee4f-4f56-4c53-bf39-ba2de5cdb654" transform="translate(608.01 422.63)"><a href="../privacy_policy/">個人情報の取扱い</a>に同意する</text>
-    <rect class="f64308dd-7003-4594-ac4a-c2aa5b52cd2a" x="548.39" y="402.2" width="36" height="28" rx="5"/>
-  </g>
-</svg>
+<form method="POST" action="" style="padding-top: 1vw; padding-bottom: 2vw; font-family: HiraginoSans-W6-83pv-RKSJ-H, Hiragino Sans;">
+  <table style="margin: 0 auto; letter-spacing: 0.1em; font-size: 1.17vw; font-family: HiraKakuProN-W3-83pv-RKSJ-H, Hiragino Kaku Gothic ProN;">
+    <tr>
+      <td style="vertical-align: middle;"><div style="margin: 0.3vw; background-color: #e4e4e4; padding: 0.5vw 1vw; width: 12.6vw; border-radius: 0.5vw;"><label>氏名</label><br><span style="font-size: 0.88vw; color: #bf272d;">※ 必須</span></div></td>
+      <td><input type="text" style="height: 2.3vw; width: 43.8vw; margin: 0.7vw; font-size: 1.17vw; border: 0.2vw solid #e4e4e4; border-radius: 0.5vw;"></td>
+    </tr>
+    <tr>
+      <td style="vertical-align: middle;"><div style="margin: 0.3vw; background-color: #e4e4e4; padding: 0.5vw 1vw; width: 12.6vw; border-radius: 0.5vw;"><label>メールアドレス</label><br><span style="font-size: 0.88vw; color: #bf272d;">※ 必須</span></div></td>
+      <td><input type="text" style="height: 2.3vw; width: 43.8vw; margin: 0.7vw; font-size: 1.17vw; border: 0.2vw solid #e4e4e4; border-radius: 0.5vw;"></td>
+    </tr>
+    <tr>
+      <td style="vertical-align: middle;"><div style="margin: 0.3vw; background-color: #e4e4e4; padding: 4.5vw 1vw; width: 12.6vw; border-radius: 0.5vw;"><label>お問い合せ内容</label><br><span style="font-size: 0.88vw; color: #bf272d;">※ 必須</span></div></td>
+      <td><textarea style="height: 11.6vw; width: 43.8vw; margin: 0.7vw; font-size: 1.17vw; border: 0.2vw solid #e4e4e4; border-radius: 0.5vw;"></textarea></td>
+    </tr>
+  </table>
+  <div style="text-align: center; font-size: 1.31vw; margin: 0.5vw;"><label class="my-checkbox"><input type="checkbox" name="accept" value="accept" style="width: 2.6vw; height: 2.0vw; border: 0.2vw solid #e4e4e4; border-radius: 0.5vw;"><span class="checkmark"></span><a href="../privacy_policy/" style="margin-left: 2vw;">個人情報の取扱い</a>に同意する</label></div>
+  <div style="text-align: center;"><button type="submit" name="submit" value="submit" style="width: 29.2vw; height: 4.3vw; font-size: 1.17vw; letter-spacing: 0.3em; color: white; background-color: #83ccd2; border: 0; border-radius: 2.2vw;">送信する</button></div>
+</form>
