@@ -1,83 +1,24 @@
-<svg id="a39d3ead-8e58-4bd8-81d1-0709c61d295a" data-name="レイヤー 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 375 732">
-  <defs>
-    <style>
-      .f4b5e33b-9e9e-4616-ad25-dc6040f21a54 {
-        fill: #e4e4e4;
-      }
-
-      .e3449a4a-cd84-4dbd-93d4-35dca2deb00d {
-        font-size: 14px;
-        letter-spacing: 0.1em;
-      }
-
-      .bc350287-d65e-499e-ab42-25e46f5e01a9, .e0915f90-d176-4e9f-b6b8-6dbd2ac7b531, .e3449a4a-cd84-4dbd-93d4-35dca2deb00d {
-        font-family: HiraKakuProN-W3-83pv-RKSJ-H, Hiragino Kaku Gothic ProN;
-      }
-
-      .bea1988a-c866-4fe0-8dab-b624f4c48a03, .fb15dc93-5c83-4028-b705-eb7c4b8b1416 {
-        fill: none;
-        stroke: #e4e4e4;
-        stroke-miterlimit: 10;
-      }
-
-      .bea1988a-c866-4fe0-8dab-b624f4c48a03 {
-        stroke-width: 3px;
-      }
-
-      .bc350287-d65e-499e-ab42-25e46f5e01a9 {
-        font-size: 10px;
-        fill: #bf272d;
-        letter-spacing: 0.1em;
-      }
-
-      .ae14a273-7d8e-4e4b-af50-f81991a1c7ae {
-        fill: #83ccd2;
-      }
-
-      .a1b65a9b-eecb-4c45-83a9-1d6793fb3b48, .be84538b-0665-4228-945a-4e42665e4541 {
-        fill: #fff;
-      }
-
-      .a1b65a9b-eecb-4c45-83a9-1d6793fb3b48 {
-        font-size: 16px;
-        font-family: HiraginoSans-W6-83pv-RKSJ-H, Hiragino Sans;
-        letter-spacing: 0.3em;
-      }
-
-      .e0915f90-d176-4e9f-b6b8-6dbd2ac7b531 {
-        font-size: 12px;
-        letter-spacing: 0.1em;
-      }
-
-      .fb15dc93-5c83-4028-b705-eb7c4b8b1416 {
-        stroke-width: 1.76px;
-      }
-    </style>
-  </defs>
-  <rect class="f4b5e33b-9e9e-4616-ad25-dc6040f21a54" x="21.94" y="16.07" width="321" height="43.21" rx="5.56"/>
-  <text class="e3449a4a-cd84-4dbd-93d4-35dca2deb00d" transform="translate(36.55 43.51)">氏名</text>
-  <rect class="bea1988a-c866-4fe0-8dab-b624f4c48a03" x="23.43" y="66.78" width="320" height="45" rx="5.67"/>
-  <text class="bc350287-d65e-499e-ab42-25e46f5e01a9" transform="translate(76.61 42.74)">※ 必須</text>
-  <rect class="f4b5e33b-9e9e-4616-ad25-dc6040f21a54" x="21.94" y="127.07" width="321" height="43.21" rx="5.56"/>
-  <text class="e3449a4a-cd84-4dbd-93d4-35dca2deb00d" transform="translate(36.55 154.51)">メールアドレス</text>
-  <rect class="bea1988a-c866-4fe0-8dab-b624f4c48a03" x="23.43" y="177.78" width="320" height="45" rx="5.67"/>
-  <text class="bc350287-d65e-499e-ab42-25e46f5e01a9" transform="translate(151.61 153.74)">※ 必須</text>
-  <g>
-    <rect class="ae14a273-7d8e-4e4b-af50-f81991a1c7ae" x="25.91" y="648.65" width="324" height="60" rx="30"/>
-    <g>
-      <circle class="ae14a273-7d8e-4e4b-af50-f81991a1c7ae" cx="312.32" cy="681.05" r="13.51"/>
-      <g>
-        <path class="be84538b-0665-4228-945a-4e42665e4541" d="M313.57,681.27l0,0h0s0,0,0-.06v0a.38.38,0,0,0,0-.15h0s0,0,0-.06v0l0,0-.05-.06-5.41-5.42a.39.39,0,0,0-.55,0l-1,1a.39.39,0,0,0-.11.27.43.43,0,0,0,.11.28l4.11,4.11-4.11,4.11a.39.39,0,0,0-.11.27.39.39,0,0,0,.11.28l1,1a.35.35,0,0,0,.27.11.38.38,0,0,0,.28-.11l5.41-5.42Z"/>
-        <path class="be84538b-0665-4228-945a-4e42665e4541" d="M319.57,681.22h0s0,0,0-.06v0a.38.38,0,0,0,0-.15h0s0,0,0-.06v0s0,0,0,0l-.05-.06-5.42-5.42a.39.39,0,0,0-.55,0l-1,1a.36.36,0,0,0-.12.27.39.39,0,0,0,.12.28l4.11,4.11-4.11,4.11a.36.36,0,0,0-.12.27.36.36,0,0,0,.12.28l1,1a.35.35,0,0,0,.27.11.38.38,0,0,0,.28-.11l5.42-5.42.05-.06S319.56,681.24,319.57,681.22Z"/>
-      </g>
-    </g>
-    <text class="a1b65a9b-eecb-4c45-83a9-1d6793fb3b48" transform="translate(108.82 686.92)">送信（登録）する</text>
-  </g>
-  <rect class="bea1988a-c866-4fe0-8dab-b624f4c48a03" x="24.12" y="286.84" width="320" height="291" rx="5.67"/>
-  <rect class="f4b5e33b-9e9e-4616-ad25-dc6040f21a54" x="22.62" y="237.13" width="321" height="43.21" rx="5.56"/>
-  <text class="e3449a4a-cd84-4dbd-93d4-35dca2deb00d" transform="translate(37.23 264.57)">任意メッセージ</text>
-  <g>
-    <text class="e0915f90-d176-4e9f-b6b8-6dbd2ac7b531" transform="translate(116.73 635.06)"><a href="../privacy_policy_sp/">個人情報の取扱い</a>に同意する</text>
-    <rect class="fb15dc93-5c83-4028-b705-eb7c4b8b1416" x="83.55" y="622.42" width="21.11" height="16.42" rx="2.93"/>
-  </g>
-</svg>
+<form method="POST" action="" style="padding-top: 1vw; padding-bottom: 2vw; font-family: HiraginoSans-W6-83pv-RKSJ-H, Hiragino Sans;">
+  <table style="margin: 0 auto; letter-spacing: 0.1em; font-size: 3.73vw; font-family: HiraKakuProN-W3-83pv-RKSJ-H, Hiragino Kaku Gothic ProN;">
+    <tbody><tr>
+      <td style="vertical-align: middle;"><div style="margin: 3.5vw 6.5vw 0.5vw; background-color: #e4e4e4; padding: 3.5vw 3.5vw; width: 78.6vw; border-radius: 1.5vw;"><label>氏名</label><span style="color: #bf272d; font-size: 2.67vw;"> ※ 必須</span></div></td>
+    </tr>
+    <tr>
+      <td><input type="text" style="margin: 1.5vw 6.5vw; font-size: 3.73vw; height: 12vw; width: 84.6vw; border: 0.8vw solid #e4e4e4; border-radius: 1.5vw;"></td>
+    </tr>
+    <tr>
+      <td style="vertical-align: middle;"><div style="margin: 3.5vw 6.5vw 0.5vw; background-color: #e4e4e4; padding: 3.5vw 3.5vw; width: 78.6vw; border-radius: 1.5vw;"><label>メールアドレス</label><span style="color: #bf272d; font-size: 2.67vw;"> ※ 必須</span></div></td>
+    </tr>
+    <tr>
+      <td><input type="text" style="margin: 1.5vw 6.5vw; font-size: 3.73vw; height: 12vw; width: 84.6vw; border: 0.8vw solid #e4e4e4; border-radius: 1.5vw;"></td>
+    </tr>
+    <tr>
+      <td style="vertical-align: middle;"><div style="margin: 3.5vw 6.5vw 0.5vw; background-color: #e4e4e4; padding: 3.5vw 3.5vw; width: 78.6vw; border-radius: 2.5vw;"><label>任意メッセージ</label></div></td>
+    </tr>
+    <tr>
+      <td><textarea style="margin: 1.5vw 6.5vw; font-size: 3.73vw; height: 77.6vw; width: 84.6vw; border: 0.8vw solid #e4e4e4; border-radius: 1.5vw;"></textarea></td>
+    </tr>
+  </tbody></table>
+  <div style="text-align: center; font-size: 3.73vw; margin: 0.5vw;"><label class="my-checkbox"><input type="checkbox" name="accept" value="accept" style="width: 2.6vw; height: 2.0vw; border: 0.2vw solid #e4e4e4; border-radius: 0.5vw;"><span class="checkmark"></span><a href="/privacy_policy/" style="margin-left: 2vw;">個人情報の取扱い</a>に同意する</label></div>
+  <div style="text-align: center;"><button type="submit" name="submit" value="submit" style="margin: 3vw 0; width: 85.6vw; height: 16vw; font-size: 3.73vw; letter-spacing: 0.3em; color: white; background-color: #83ccd2; border: 0; border-radius: 10.2vw;">送信（登録）する</button></div>
+</form>
