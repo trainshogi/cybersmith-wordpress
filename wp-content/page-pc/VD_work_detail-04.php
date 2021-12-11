@@ -61,5 +61,5 @@
     </tr>
   </tbody></table>
   <div style="text-align: center; font-size: 1.31vw; margin: 0.5vw;"><label class="my-checkbox"><input type="checkbox" name="accept" value="accept" style="width: 2.6vw; height: 2.0vw; border: 0.2vw solid #e4e4e4; border-radius: 0.5vw;"><span class="checkmark"></span><a href="../privacy_policy/" style="margin-left: 2vw;">個人情報の取扱い</a>に同意する</label></div>
-  <div style="text-align: center;"><button type="submit" name="submit" value="submit" style="width: 29.2vw; height: 4.3vw; font-size: 1.17vw; letter-spacing: 0.3em; color: white; background-color: #83ccd2; border: 0; border-radius: 2.2vw;">送信(応募)する</button></div>
+  <div style="text-align: center;"><button type="submit" name="submit" value="submit" style="width: 29.2vw; height: 4.3vw; font-size: 1.17vw; letter-spacing: 0.3em; color: white; background-color: #83ccd2; border: 0; border-radius: 2.2vw;position: relative;">送信(応募)する<img src="http://3.112.250.183/wp-content/uploads/2021/12/icon_circle_next_sky.svg" style="position: absolute; top: 50%;right: 1.5vw; width: 1.8vw; transform: translateY(-50%);"></button></div>
 </form>
