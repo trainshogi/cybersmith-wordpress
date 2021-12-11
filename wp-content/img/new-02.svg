@@ -1,0 +1,27 @@
+<svg id="a4daabcd-f802-4016-886d-37cec77166cb" data-name="レイヤー 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 45 30">
+  <defs>
+    <style>
+      .b710208f-024e-430e-a170-aa56785c6a29 {
+        fill: none;
+        stroke: #ccc;
+        stroke-miterlimit: 10;
+        stroke-width: 1.06px;
+      }
+
+      .b62e9e8c-f8c0-42d7-b6f5-f8fd8fae57fa {
+        fill: #bf272d;
+      }
+
+      .b39b8cd6-426d-4ceb-82dd-ff48455c9b38 {
+        font-size: 10px;
+        fill: #fff;
+        font-family: Verdana-Bold, Verdana;
+        font-weight: 700;
+        letter-spacing: 0.1em;
+      }
+    </style>
+  </defs>
+  <rect class="b710208f-024e-430e-a170-aa56785c6a29" x="-37" y="-31.5" width="1000" height="679" rx="8.66"/>
+  <rect class="b62e9e8c-f8c0-42d7-b6f5-f8fd8fae57fa" width="45" height="30" rx="5.15"/>
+  <text class="b39b8cd6-426d-4ceb-82dd-ff48455c9b38" transform="translate(7.56 20.1)">NEW</text>
+</svg>
